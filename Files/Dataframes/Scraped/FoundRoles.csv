@@ -1,0 +1,537 @@
+,Role
+TIGR00072,hydrogenase maturation protease
+TIGR03589,"UDP-N-acetylglucosamine 4,6-dehydratase"
+TIGR04148,"radical SAM peptide maturase, GG-Bacteroidales family"
+TIGR02547,CRISPR type I-E/ECOLI-associated protein CasA/Cse1
+TIGR02549,CRISPR-associated DxTHG motif protein
+TIGR00509,molybdopterin guanine dinucleotide-containing S/N-oxide reductases
+TIGR03455,"ATP phosphoribosyltransferase, C-terminal domain"
+TIGR04340,"radical SAM/SPASM domain protein, ACGX system"
+TIGR00290,MJ0570-related uncharacterized domain
+TIGR02452,TIGR02452 family protein
+TIGR02518,acetaldehyde dehydrogenase (acetylating)
+TIGR01413,Dyp-type peroxidase family
+TIGR02286,phenylacetic acid degradation protein PaaD
+TIGR04258,four helix bundle suffix domain
+TIGR03022,undecaprenyl-phosphate galactose phosphotransferase
+TIGR03532,"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase"
+TIGR02241,conserved hypothetical phage tail region protein
+TIGR04133,"radical SAM enzyme, rSAM/lipoprotein system"
+TIGR04308,surface protein repeat SSSPR-51
+TIGR01230,agmatinase
+TIGR02124,hydrogenase expression/formation protein HypE
+TIGR04291,arsenical pump-driving ATPase
+TIGR03599,DAK2 domain fusion protein YloV
+TIGR04225,CshA-type fibril repeat
+TIGR03527,selenium metabolism protein YedF
+TIGR04320,SEC10/PgrA surface exclusion domain
+TIGR00566,glutamine amidotransferase of anthranilate synthase or aminodeoxychorismate synthase
+TIGR03177,Flp pilus assembly protein CpaB
+TIGR03248,galactarate dehydratase
+TIGR03308,"phosphonate metabolim protein, transferase hexapeptide repeat family"
+TIGR03065,"sortase B signal domain, QVPTGV class"
+TIGR03715,KxYKxGKxW signal peptide
+TIGR03640,"CRISPR-associated endonuclease Cas1, subtype I-C/DVULG"
+TIGR03848,"probable phosphomutase, MSMEG_4193 family"
+TIGR01893,Xaa-His dipeptidase
+TIGR04181,"aminotransferase, LLPSF_NHT_00031 family"
+TIGR04117,Cys-Xaa-Xaa-Xaa repeat radical SAM target protein
+TIGR02985,"RNA polymerase sigma-70 factor, Bacteroides expansion family 1"
+TIGR02537,archaeal flagellin N-terminal-like domain
+TIGR03873,"proposed F420-0 ABC transporter, ATP-binding protein"
+TIGR03316,knotted carbamoyltransferase YgeW
+TIGR01987,"nucleotidyltransferase substrate binding protein, HI0074 family"
+TIGR02176,pyruvate:ferredoxin (flavodoxin) oxidoreductase
+TIGR03858,"probable oxidoreductase, LLM family"
+TIGR04430,outer membrane lipid asymmetry maintenance protein MlaD
+TIGR02050,"carboxylate-amine ligase, YbdK family"
+TIGR02696,guanosine pentaphosphate synthetase I/polyribonucleotide nucleotidyltransferase
+TIGR02412,aminopeptidase N
+TIGR02943,"RNA polymerase sigma-70 factor, TIGR02943 family"
+TIGR03359,"type VI secretion protein, TIGR03359 family"
+TIGR03813,putative glutamate/gamma-aminobutyrate antiporter
+TIGR03760,"integrating conjugative element relaxase, PFGI-1 class"
+TIGR03025,exopolysaccharide biosynthesis polyprenyl glycosylphosphotransferase
+TIGR03579,conserved hypothetical protein EF_0833/AHA_3914
+TIGR04366,"cupin fold metalloprotein, WbuC family"
+TIGR03402,cysteine desulfurase NifS
+TIGR00707,"transaminase, acetylornithine/succinylornithine family"
+TIGR03993,"[NiFe] hydrogenase assembly chaperone, HybE family"
+TIGR03151,putative enoyl-[acyl-carrier-protein] reductase II
+TIGR03733,"lantibiotic protection ABC transporter permease subunit, MutG family"
+TIGR01875,CRISPR-associated autoregulator DevR family
+TIGR02494,glycyl-radical enzyme activating protein
+TIGR01249,prolyl aminopeptidase
+TIGR02589,"CRISPR-associated protein Cas7/Csd2, subtype I-C/DVULG"
+TIGR03519,"type IX secretion system membrane protein, PorP/SprF family"
+TIGR04035,glucan-binding repeat
+TIGR01343,homoaconitate hydratase family protein
+TIGR02290,"oligoendopeptidase, pepF/M3 family"
+TIGR01275,"pyridoxal phosphate-dependent enzymes, D-cysteine desulfhydrase family"
+TIGR03820,"lysine-2,3-aminomutase"
+TIGR01453,group I intron endonuclease
+TIGR02331,Rib/alpha/Esp surface antigen repeat
+TIGR03315,"putative selenate reductase, YgfK subunit"
+TIGR00835,amino acid carrier protein
+TIGR04104,cxxc_20_cxxc protein
+TIGR00723,"hydrolyase, tartrate beta subunit/fumarate domain protein, Fe-S type"
+TIGR01591,"formate dehydrogenase, alpha subunit"
+TIGR02254,"noncanonical pyrimidine nucleotidase, YjjG family"
+TIGR03026,nucleotide sugar dehydrogenase
+TIGR01581,NifC-like ABC-type porter
+TIGR01702,"carbon-monoxide dehydrogenase, catalytic subunit"
+TIGR03740,"lantibiotic protection ABC transporter, ATP-binding subunit"
+TIGR01430,adenosine deaminase
+TIGR01774,"glycyl radical enzyme, PFL2/glycerol dehydratase family"
+TIGR03869,"proposed F420-0 ABC transporter, permease protein"
+TIGR01200,GLPGLI family protein
+TIGR04301,ornithine decarboxylase SpeF
+TIGR03110,exosortase family protein XrtG
+TIGR04150,"pseudo-rSAM protein, GG-Bacteroidales system"
+TIGR03766,conserved hypothetical integral membrane protein
+TIGR03819,helicase/secretion neighborhood ATPase
+TIGR02206,conserved hypothetical integral membrane protein TIGR02206
+TIGR02481,hemerythrin-like metal-binding domain
+TIGR04246,"nitrous-oxide reductase, Sec-dependent"
+TIGR02162,trimethylamine-N-oxide reductase c-type cytochrome TorC
+TIGR02937,"RNA polymerase sigma factor, sigma-70 family"
+TIGR03063,sortase B cell surface sorting signal
+TIGR03570,"sugar O-acyltransferase, sialic acid O-acetyltransferase NeuD family"
+TIGR01942,poly(A) polymerase
+TIGR03843,conserved hypothetical protein
+TIGR03357,type VI secretion system lysozyme-like protein
+TIGR03215,acetaldehyde dehydrogenase (acetylating)
+TIGR02479,"RNA polymerase sigma factor, FliA/WhiG family"
+TIGR01895,"CRISPR-associated protein Cas5, subtype I-B/TNEAP"
+TIGR02368,dimethylamine:corrinoid methyltransferase
+TIGR03548,cyclically-permuted mutarotase family protein
+TIGR03987,TIGR03987 family protein
+TIGR04189,cell surface protein SprA
+TIGR03309,"selenium-dependent molybdenum hydroxylase system protein, YqeB family"
+TIGR04332,poly-gamma-glutamate system protein
+TIGR01869,"CRISPR-associated protein Cas7/Cse4/CasC, subtype I-E/ECOLI"
+TIGR03424,urea carboxylase-associated protein 1
+TIGR04115,"radical SAM peptide maturase, CXXX-repeat target family"
+TIGR03638,"CRISPR-associated endonuclease Cas1, subtype I-E/ECOLI"
+TIGR00476,"selenide, water dikinase"
+TIGR03585,N-acetyltransferase
+TIGR02278,phenylacetic acid degradation protein paaN
+TIGR02687,TIGR02687 family protein
+TIGR04134,"putative lipoprotein, rSAM/lipoprotein system"
+TIGR04178,exosortase/archaeosortase family protein
+TIGR03604,"thiazole/oxazole-forming peptide maturase, SagD family component"
+TIGR02033,dihydropyrimidinase
+TIGR02927,"2-oxoglutarate dehydrogenase, E2 component, dihydrolipoamide succinyltransferase"
+TIGR02478,6-phosphofructokinase
+TIGR02177,"2-oxoacid:acceptor oxidoreductase, beta subunit, pyruvate/2-ketoisovalerate family"
+TIGR04470,radical SAM mobile pair protein B
+TIGR03356,beta-galactosidase
+TIGR03292,phosphonate C-P lyase system protein PhnH
+TIGR00526,FolB domain
+TIGR03143,putative alkyl hydroperoxide reductase F subunit
+TIGR04472,mobile rSAM pair MarR family regulator
+TIGR01218,tandem five-TM protein
+TIGR01847,bacteriocin-type signal sequence
+TIGR02868,"thiol reductant ABC exporter, CydC subunit"
+TIGR03973,six-cysteine peptide SCIFF
+TIGR02200,glutaredoxin-like protein
+TIGR02627,rhamnulokinase
+TIGR02086,"3-isopropylmalate dehydratase, large subunit"
+TIGR04471,radical SAM mobile pair protein A
+TIGR04085,radical SAM additional 4Fe4S-binding SPASM domain
+TIGR01965,VCBS repeat
+TIGR03187,DGQHR domain
+TIGR02467,"precorrin-6y C5,15-methyltransferase (decarboxylating), CbiE subunit"
+TIGR03458,succinate CoA transferase
+TIGR03868,"proposed F420-0 ABC transporter, periplasmic F420-0 binding protein"
+TIGR03314,putative selenium metabolism protein SsnA
+TIGR03936,radical SAM-linked protein
+TIGR04228,adhesin isopeptide-forming adherence domain
+TIGR01926,uncharacterized peroxidase-related enzyme
+TIGR03139,7-cyano-7-deazaguanine reductase
+TIGR02349,chaperone protein DnaJ
+TIGR02306,RNA ligase
+TIGR02983,"RNA polymerase sigma-70 factor, sigma-E family"
+TIGR01746,thioester reductase domain
+TIGR02857,"thiol reductant ABC exporter, CydD subunit"
+TIGR01907,"CRISPR-associated protein Cas6/Cse3/CasE, subtype I-E/ECOLI"
+TIGR00519,"L-asparaginase, type I"
+TIGR00277,HDIG domain
+TIGR03521,gliding-associated putative ABC transporter substrate-binding component GldG
+TIGR04145,Firmicu-CTERM domain
+TIGR04341,ACGX-repeat peptide
+TIGR02582,CRISPR type III-A/MTUBE-associated RAMP protein Csm3
+TIGR03976,His-Xaa-Ser system protein HxsD
+TIGR03544,DivIVA domain
+TIGR03214,putative allantoin catabolism protein
+TIGR03765,"integrating conjugative element protein, PFL_4695 family"
+TIGR01668,"HAD phosphatase, family IIIA"
+TIGR01865,CRISPR subtype II RNA-guided endonuclease Cas9
+TIGR03930,WXG100 family type VII secretion target
+TIGR02246,conserved hypothetical protein
+TIGR04274,DNA-deoxyinosine glycosylase
+TIGR02585,"CRISPR-associated protein Cas7/Cst2/DevR, subtype I-B/TNEAP"
+TIGR04502,microcompartment protein EutL
+TIGR03573,N-acetyl sugar amidotransferase
+TIGR00710,"drug resistance transporter, Bcr/CflA subfamily"
+TIGR03764,"integrating conjugative element, PFGI_1 class, ParB family protein"
+TIGR04337,AmmeMemoRadiSam system radical SAM enzyme
+TIGR01909,C_GCAxxG_C_C family protein
+TIGR04167,radical SAM/Cys-rich domain protein
+TIGR03449,D-inositol-3-phosphate glycosyltransferase
+TIGR01443,intein C-terminal splicing region
+TIGR01525,heavy metal translocating P-type ATPase
+TIGR02939,RNA polymerase sigma factor RpoE
+TIGR02453,TIGR02453 family protein
+TIGR04435,restriction system-associated AAA family ATPase
+TIGR03741,PRTRC system protein E
+TIGR01698,purine nucleotide phosphorylase
+TIGR01835,hydroxymethylglutaryl-CoA synthase
+TIGR03543,DivIVA domain repeat protein
+TIGR03336,"indolepyruvate ferredoxin oxidoreductase, alpha subunit"
+TIGR02314,"D-methionine ABC transporter, ATP-binding protein"
+TIGR03062,YhgE/Pip C-terminal domain
+TIGR01463,"methyltransferase, MtaA/CmuA family"
+TIGR02512,"[FeFe] hydrogenase, group A"
+TIGR01417,phosphoenolpyruvate-protein phosphotransferase
+TIGR04057,"TonB-dependent outer membrane receptor, SusC/RagA subfamily, signature region"
+TIGR03710,"2-oxoacid:acceptor oxidoreductase, alpha subunit"
+TIGR01720,non-ribosomal peptide synthase domain TIGR01720
+TIGR04180,"NAD dependent epimerase/dehydratase, LLPSF_EDH_00030 family"
+TIGR04474,three-Cys-motif partner protein
+TIGR03639,"CRISPR-associated endonuclease Cas1, subtype II/NMENI"
+TIGR01562,formate dehydrogenase accessory protein FdhE
+TIGR04272,CxxC-x17-CxxC domain
+TIGR01656,histidinol-phosphate phosphatase domain
+TIGR02289,"oligoendopeptidase, M3 family"
+TIGR01546,"glyceraldehyde-3-phosphate dehydrogenase, type II"
+TIGR02710,"CRISPR-associated protein, TIGR02710 family"
+TIGR02577,"CRISPR-associated protein Cas10/Cmr2, subtype III-B"
+TIGR01505,2-hydroxy-3-oxopropionate reductase
+TIGR04501,microcompartment protein PduB
+TIGR03524,gliding motility-associated lipoprotein GldJ
+TIGR01733,amino acid adenylation domain
+TIGR03786,streptococcal pilin isopeptide linkage domain
+TIGR04299,putrescine-ornithine antiporter
+TIGR03450,inositol 1-phosphate synthase
+TIGR02447,putative thioesterase domain
+TIGR04183,Por secretion system C-terminal sorting domain
+TIGR04157,"glycosyltransferase, GG-Bacteroidales peptide system"
+TIGR02960,"RNA polymerase sigma-70 factor, TIGR02960 family"
+TIGR04131,gliding motility-associated C-terminal domain
+TIGR03641,"CRISPR-associated endonuclease Cas1, subtype I-B/HMARI/TNEAP"
+TIGR01868,"CRISPR-associated protein Cas5/CasD, subtype I-E/ECOLI"
+TIGR02228,signal peptidase I
+TIGR04141,"sporadically distributed protein, TIGR04141 family"
+TIGR01229,arginase
+TIGR04424,McbB family protein
+TIGR01376,chlamydial polymorphic outer membrane protein repeat
+TIGR02670,"CRISPR-associated protein Cas8a1/Csx8, subtype I"
+TIGR03145,cytochrome c nitrate reductase biogenesis protein NrfE
+TIGR01195,"sodium pump decarboxylases, gamma subunit"
+TIGR03417,choline-sulfatase
+TIGR04197,"type VII secretion effector, TIGR04197 family"
+TIGR03595,"Obg family GTPase CgtA, C-terminal extension"
+TIGR01866,CRISPR type II-A/NMEMI-associated protein Csn2
+TIGR01918,"selenoprotein B, glycine/betaine/sarcosine/D-proline reductase family"
+TIGR02436,four helix bundle protein
+TIGR04037,"LLM-partnered FMN reductase, CE1759 family"
+TIGR01427,"PTS system, Fru family, IIC component"
+TIGR03977,His-Xaa-Ser system radical SAM maturase HxsC
+TIGR03514,gliding motility-associated lipoprotein GldB
+TIGR01175,type IV pilus assembly protein PilM
+TIGR03929,type VII secretion protein EsaA
+TIGR02804,TonB system transport protein ExbD
+TIGR01596,CRISPR-associated endonuclease Cas3-HD
+TIGR03175,ureidoglycolate dehydrogenase
+TIGR04330,"CRISPR-associated protein Cpf1, subtype PREFRAN"
+TIGR02675,tape measure domain
+TIGR04086,"putative membrane protein, TIGR04086 family"
+TIGR04247,nitrous oxide reductase family maturation protein NosD
+TIGR01876,"CRISPR-associated protein Cas5, subtype I-C/DVULG"
+TIGR03304,outer membrane insertion C-terminal signal
+TIGR01681,"HAD phosphatase, family IIIC"
+TIGR01881,CRISPR type III-B/RAMP module-associated protein Cmr5
+TIGR03949,"class IIb bacteriocin, lactobin A/cerein 7B family"
+TIGR03500,flagellar biosynthetic protein FliO
+TIGR04493,microcompartment protein PduM
+TIGR03830,"putative zinc finger/helix-turn-helix protein, YgiT family"
+TIGR04328,"CRISPR-associated protein Cas4, subtype PREFRAN"
+TIGR02133,ribose 5-phosphate isomerase
+TIGR02317,methylisocitrate lyase
+TIGR03726,putative cross-wall-targeting lipoprotein signal
+TIGR00089,"radical SAM methylthiotransferase, MiaB/RimO family"
+TIGR03523,gliding motility associated protein GldN
+TIGR04066,"peptide maturation system protein, TIGR04066 family"
+TIGR00768,"alpha-L-glutamate ligase, RimK family"
+TIGR03057,X-X-X-Leu-X-X-Gly heptad repeats
+TIGR03852,sucrose phosphorylase
+TIGR03071,HipA N-terminal domain
+TIGR03882,bacteriocin biosynthesis cyclodehydratase domain
+TIGR03831,YgiT-type zinc finger domain
+TIGR01250,proline-specific peptidase
+TIGR01643,YD repeat (two copies)
+TIGR04255,TIGR04255 family protein
+TIGR02183,"glutaredoxin, GrxA family"
+TIGR03721,BclB C-terminal domain
+TIGR02593,CRISPR-associated protein Cas5
+TIGR04105,"[FeFe] hydrogenase, group B1/B3"
+TIGR00287,CRISPR-associated endonuclease Cas1
+TIGR02164,trimethylamine-N-oxide reductase TorA
+TIGR04440,glycosyltransferase domain
+TIGR01885,ornithine--oxo-acid transaminase
+TIGR04119,CXXX repeat peptide maturase
+TIGR03588,L-altrosamine transaminase
+TIGR03716,"integral membrane protein, YkoY family"
+TIGR01667,"integral membrane protein, YccS/YhfK family"
+TIGR03520,gliding motility-associated protein GldE
+TIGR03141,heme exporter protein CcmD
+TIGR02366,probable dihydroxyacetone kinase regulator
+TIGR03127,6-phospho 3-hexuloisomerase
+TIGR03769,actinobacterial surface-anchored protein domain
+TIGR01870,CRISPR type III-A/MTUBE-associated protein Csm2
+TIGR01761,thiazolinyl imide reductase
+TIGR02179,"2-oxoacid:acceptor oxidoreductase, delta subunit, pyruvate/2-ketoisovalerate family"
+TIGR04170,"ribonucleoside-diphosphate reductase, class 1b, alpha subunit"
+TIGR02304,putative adenylate-forming enzyme
+TIGR00759,"pyruvate dehydrogenase (acetyl-transferring), homodimeric type"
+TIGR02098,MJ0042 family finger-like domain
+TIGR01595,"CRISPR-associated protein, CT1132 family"
+TIGR04100,"radical SAM enzyme, TIGR04100 family"
+TIGR02295,"3,4-dihydroxyphenylacetate 2,3-dioxygenase"
+TIGR03659,"heme ABC transporter, heme-binding protein isdE"
+TIGR03361,type VI secretion system Vgr family protein
+TIGR03978,His-Xaa-Ser system radical SAM maturase HxsB
+TIGR01887,putative dipeptidase
+TIGR02094,alpha-glucan phosphorylases
+TIGR03462,lycopene cyclase domain
+TIGR04365,autonomous glycyl radical cofactor GrcA
+TIGR02327,conserved hypothetical integral membrane protein
+TIGR03297,phosphonopyruvate decarboxylase
+TIGR02951,"dimethylsulfoxide reductase, chain B"
+TIGR02104,"pullulanase, type I"
+TIGR03729,putative phosphoesterase
+TIGR02148,fibro-slime domain
+TIGR01037,dihydroorotate dehydrogenase family protein
+TIGR02137,phosphoserine phosphatase/homoserine phosphotransferase bifunctional protein
+TIGR02779,"DNA ligase D, ligase domain"
+TIGR01901,filamentous hemagglutinin family N-terminal domain
+TIGR03943,TIGR03943 family protein
+TIGR02624,rhamnulose-1-phosphate aldolase
+TIGR04169,alkylhydroperoxidase/carboxymuconolactone decarboxylase family protein
+TIGR02175,"2-oxoacid:acceptor oxidoreductase, gamma subunit, pyruvate/2-ketoisovalerate family"
+TIGR03526,putative selenium metabolism hydrolase
+TIGR03605,SagB-type dehydrogenase domain
+TIGR04481,proline reductase-associated electron transfer protein PrdC
+TIGR01721,putative AMP nucleosidase
+TIGR01963,3-hydroxybutyrate dehydrogenase
+TIGR03296,M6 family metalloprotease domain
+TIGR01168,"gram-positive signal peptide, YSIRK family"
+TIGR03736,PRTRC system ThiF family protein
+TIGR03883,"uncharacterized protein, coenzyme F420 biosynthesis associated"
+TIGR02194,glutaredoxin-like protein NrdH
+TIGR02631,xylose isomerase
+TIGR04193,"SPASM domain peptide maturase, grasp-with-spasm system"
+TIGR01573,CRISPR-associated endonuclease Cas2
+TIGR04038,"radical SAM protein, TatD family-associated"
+TIGR02320,phosphoenolpyruvate mutase
+TIGR02009,beta-phosphoglucomutase family hydrolase
+TIGR02909,"uncharacterized protein, YkwD family"
+TIGR01350,dihydrolipoyl dehydrogenase
+TIGR01888,CRISPR type III-B/RAMP module-associated protein Cmr3
+TIGR02473,flagellar export protein FliJ
+TIGR02947,"RNA polymerase sigma-70 factor, TIGR02947 family"
+TIGR01686,FkbH domain
+TIGR02276,40-residue YVTN family beta-propeller repeat
+TIGR02231,conserved hypothetical protein
+TIGR01701,oxidoreductase alpha (molybdopterin) subunit
+TIGR01626,"conserved hypothetical protein YtfJ-family, TIGR01626"
+TIGR04534,ELWxxDGT repeat
+TIGR03915,probable DNA metabolism protein
+TIGR02363,"dihydroxyacetone kinase, DhaK subunit"
+TIGR01883,peptidase T-like protein
+TIGR03717,"integral membrane protein, YjbE family"
+TIGR02188,acetate--CoA ligase
+TIGR00180,ParB/RepB/Spo0J family partition protein
+TIGR03173,xanthine permease
+TIGR04076,TIGR04076 family protein
+TIGR00125,cytidyltransferase-like domain
+TIGR02548,CRISPR type I-E/ECOLI-associated protein CasB/Cse2
+TIGR02980,"RNA polymerase sigma-70 factor, sigma-B/F/G subfamily"
+TIGR03939,"poly-beta-1,6 N-acetyl-D-glucosamine export porin PgaA"
+TIGR01759,malate dehydrogenase
+TIGR02125,"Ni/Fe-hydrogenase, b-type cytochrome subunit"
+TIGR04285,nucleoid occlusion protein
+TIGR00640,methylmalonyl-CoA mutase C-terminal domain
+TIGR04094,YSIRK-targeted surface antigen transcriptional regulator
+TIGR01176,"fumarate reductase (quinol), flavoprotein subunit"
+TIGR02403,"alpha,alpha-phosphotrehalase"
+TIGR04088,SipW-cognate class signal peptide
+TIGR02529,ethanolamine utilization protein EutJ family protein
+TIGR03648,"probable sodium:solute symporter, VC_2705 subfamily"
+TIGR03986,CRISPR-associated protein
+TIGR02221,"CRISPR-associated protein, TM1812 family"
+TIGR03128,3-hexulose-6-phosphate synthase
+TIGR03828,1-phosphofructokinase
+TIGR02592,"CRISPR-associated protein Cas5, subtype I-B/HMARI"
+TIGR03539,succinyldiaminopimelate transaminase
+TIGR01899,CRISPR type III-A/MTUBE-associated RAMP protein Csm5
+TIGR01784,conserved hypothetical protein
+TIGR03853,putative metal-binding protein
+TIGR01919,bifunctional HisA/TrpF protein
+TIGR04203,"Streptococcal surface-anchored protein repeat, S. criceti family"
+TIGR03081,methylmalonyl-CoA epimerase
+TIGR00722,"hydrolyase, tartrate alpha subunit/fumarate domain protein, Fe-S type"
+TIGR03178,allantoinase
+TIGR03517,gliding motility-associated protein GldM
+TIGR02521,type IV pilus biogenesis/stability protein PilW
+TIGR04350,putative C-S lyase
+TIGR04067,"putative bacteriocin precursor, CLOSPO_01332 family"
+TIGR01931,"sulfite reductase [NADPH] flavoprotein, alpha-component"
+TIGR03761,"integrating conjugative element protein, PFL_4669 family"
+TIGR02299,5-carboxymethyl-2-hydroxymuconate semialdehyde dehydrogenase
+TIGR01313,"carbohydrate kinase, thermoresistant glucokinase family"
+TIGR02594,TIGR02594 family protein
+TIGR01995,"PTS system, beta-glucoside-specific IIABC component"
+TIGR02102,"pullulanase, extracellular"
+TIGR04342,EXLDI protein
+TIGR00177,molybdenum cofactor synthesis domain
+TIGR00241,putative CoA-substrate-specific enzyme activase
+TIGR02683,putative addiction module killer protein
+TIGR03528,diaminopropionate ammonia-lyase
+TIGR00641,methylmalonyl-CoA mutase N-terminal domain
+TIGR01065,"channel protein, hemolysin III family"
+TIGR01863,"CRISPR-associated protein Cas8c/Csd1, subtype I-C/DVULG"
+TIGR01697,inosine/guanosine/xanthosine phosphorylase family
+TIGR01933,HflK protein
+TIGR04226,fimbrial isopeptide formation D2 domain
+TIGR03773,putative ABC transporter-associated repeat protein
+TIGR04114,modification target Cys-rich repeat
+TIGR01856,"histidinol phosphate phosphatase, HisJ family"
+TIGR03584,pseudaminic acid cytidylyltransferase
+TIGR01992,"PTS system, trehalose-specific IIBC component"
+TIGR03754,"conjugative coupling factor TraD, PFGI-1 class"
+TIGR03293,phosphonate C-P lyase system protein PhnG
+TIGR02365,"dihydroxyacetone kinase, L subunit"
+TIGR02636,galactose mutarotase
+TIGR03728,"glycosyltransferase, SP_1767 family"
+TIGR04306,thiaminase II
+TIGR01445,intein N-terminal splicing region
+TIGR01646,Rhs element Vgr protein
+TIGR01526,nicotinamide-nucleotide adenylyltransferase
+TIGR02190,glutaredoxin-family domain
+TIGR02778,"DNA ligase D, polymerase domain"
+TIGR04398,SLAP domain
+TIGR01751,crotonyl-CoA carboxylase/reductase
+TIGR04480,"D-proline reductase (dithiol), PrdA proprotein"
+TIGR03804,parallel beta-helix repeat
+TIGR02429,"3-oxoacid CoA-transferase, A subunit"
+TIGR00227,riboflavin-specific deaminase C-terminal domain
+TIGR04172,DNA phosphorothioation-associated DGQHR protein 1
+TIGR04265,cardiolipin synthase
+TIGR00728,"oligopeptide transporter, OPT superfamily"
+TIGR02167,bacterial surface protein 26-residue repeat
+TIGR01451,conserved repeat domain
+TIGR02814,PfaD family protein
+TIGR04223,cyclic lactone autoinducer peptide
+TIGR01906,integral membrane protein TIGR01906
+TIGR01319,conserved hypothetical protein
+TIGR01903,CRISPR type III-A/MTUBE-associated RAMP protein Csm4
+TIGR02714,ring-opening amidohydrolases
+TIGR03732,"lantibiotic protection ABC transporter permease subunit, MutE/EpiE family"
+TIGR01873,"CRISPR-associated endoribonuclease Cas2, subtype I-E/ECOLI"
+TIGR01800,2-methylcitrate synthase/citrate synthase II
+TIGR01517,"calcium-translocating P-type ATPase, PMCA-type"
+TIGR03023,undecaprenyl-phosphate glucose phosphotransferase
+TIGR03738,PRTRC system protein C
+TIGR03425,urea carboxylase-associated protein 2
+TIGR01672,"HAD phosphatase, family IIIB"
+TIGR03061,YhgE/Pip N-terminal domain
+TIGR01620,TIGR01620 family protein
+TIGR03111,"putative glycosyltransferase, exosortase G-associated"
+TIGR01444,"methyltransferase, FkbM family"
+TIGR04207,surface glycoprotein signal peptide
+TIGR04090,"alternate signal-mediated exported protein, CPF_0494 family"
+TIGR02578,"CRISPR-associated protein Cas10/Csm1, subtype III-A/MTUBE"
+TIGR03112,6-pyruvoyl tetrahydropterin synthase-related domain
+TIGR03082,membrane protein AbrB duplication
+TIGR03083,uncharacterized Actinobacterial protein TIGR03083
+TIGR04271,thiazole biosynthesis domain
+TIGR03168,"hexose kinase, 1-phosphofructokinase family"
+TIGR01258,phosphoglycerate mutase 1 family
+TIGR03506,flagellar hook-basal body protein
+TIGR04211,SH3 domain protein
+TIGR04215,choice-of-anchor A domain
+TIGR03586,pseudaminic acid synthase
+TIGR00756,pentatricopeptide repeat domain
+TIGR03937,"poly-beta-1,6 N-acetyl-D-glucosamine synthase"
+TIGR03847,conserved hypothetical protein
+TIGR03625,50S ribosomal protein uL3
+TIGR03569,N-acetylneuraminate synthase
+TIGR03862,"flavoprotein, TIGR03862 family"
+TIGR04092,lipoteichoic acid biosynthesis protein DltD
+TIGR03719,"ATP-binding cassette protein, ChvD family"
+TIGR02163,"ferredoxin-type protein, NapH/MauN family"
+TIGR03491,"putative RecB family nuclease, TM0106 family"
+TIGR03535,"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase"
+TIGR03696,RHS repeat-associated core domain
+TIGR01877,CRISPR-associated endoribonuclease Cas6
+TIGR03542,LL-diaminopimelate aminotransferase
+TIGR02464,conserved hypothetical protein
+TIGR04256,GxxExxY protein
+TIGR02802,peptidoglycan-associated lipoprotein
+TIGR03342,"sulfur relay protein, TusE/DsrC/DsvC family"
+TIGR04224,serine-rich repeat adhesion glycoprotein
+TIGR03494,salicylate synthase
+TIGR00372,CRISPR-associated protein Cas4
+TIGR04491,diol dehydratase reactivase alpha subunit
+TIGR02954,"RNA polymerase sigma-70 factor, TIGR02954 family"
+TIGR01996,"PTS system, sucrose-specific IIBC component"
+TIGR01788,glutamate decarboxylase
+TIGR04107,putative heme utilization radical SAM enzyme HutW
+TIGR01731,adhesin HecA family 20-residue repeat (two copies)
+TIGR03802,aspartate-alanine antiporter
+TIGR01825,putative pyridoxal phosphate-dependent acyltransferase
+TIGR02580,CRISPR type III-B/RAMP module RAMP protein Cmr4
+TIGR01494,"HAD ATPase, P-type, family IC"
+TIGR01908,"CRISPR-associated protein Cas8b1/Cst1, subtype I-B/TNEAP"
+TIGR02362,probable dihydroxyacetone kinase DhaK1b subunit
+TIGR03590,"UDP-2,4-diacetamido-2,4,6-trideoxy-beta-L-altropyranose hydrolase"
+TIGR01317,"glutamate synthase, NADH/NADPH, small subunit"
+TIGR02324,phosphonate C-P lyase system protein PhnL
+TIGR01619,TIGR01619 family protein
+TIGR03662,chlor_Arch_YYY domain
+TIGR04329,"CRISPR-associated endonuclease Cas1, subtype PREFRAN"
+TIGR00369,uncharacterized domain 1
+TIGR01921,diaminopimelate dehydrogenase
+TIGR03824,flagellar biosynthesis anti-sigma factor FlgM
+TIGR03718,"integral membrane protein, TerC family"
+TIGR00689,"sugar-phosphate isomerase, RpiB/LacA/LacB family"
+TIGR03301,2-aminoethylphosphonate aminotransferase
+TIGR02087,"3-isopropylmalate dehydratase, small subunit"
+TIGR04423,"CRISPR type III-associated protein, TIGR04423 family"
+TIGR02364,"dihydroxyacetone kinase, phosphotransfer subunit"
+TIGR01295,putative bacteriocin transport accessory protein
+TIGR02799,tol-pal system-associated acyl-CoA thioesterase
+TIGR03568,"UDP-N-acetyl-D-glucosamine 2-epimerase, UDP-hydrolysing"
+TIGR01412,Tat-translocated enzyme
+TIGR01587,CRISPR-associated helicase Cas3
+TIGR04483,"D-proline reductase (dithiol), PrdB protein"
+TIGR01898,CRISPR type III-B/RAMP module RAMP protein Cmr6
+TIGR01767,S-methyl-5-thioribose kinase
+TIGR04287,exosortase K
+TIGR04335,AmmeMemoRadiSam system protein A
+TIGR02370,"methyltransferase cognate corrinoid proteins, Methanosarcina family"
+TIGR02535,proposed homoserine kinase
+TIGR02637,"rhamnose ABC transporter, rhamnose-binding protein"
+TIGR02571,ComE operon protein 2
+TIGR04116,CXXX repeat peptide modification system protein
+TIGR04112,"putative selenium metabolism protein, YedE family"
+TIGR02430,3-oxoadipyl-CoA thiolase
+TIGR03033,putative phage-type endonuclease
+TIGR02428,"3-oxoacid CoA-transferase, B subunit"
+TIGR01879,"amidase, hydantoinase/carbamoylase family"
+TIGR04482,proline reductase cluster protein PrdD
+TIGR04336,AmmeMemoRadiSam system protein B
+TIGR04456,LruC domain
+TIGR02166,"anaerobic dimethyl sulfoxide reductase, A subunit, DmsA/YnfE family"

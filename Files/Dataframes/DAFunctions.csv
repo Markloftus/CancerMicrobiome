@@ -1,0 +1,15 @@
+Pfam or TIGRFAM,Description,Healthy Median,CRC Median,qvalue
+PF08191,LRR adjacent,-5.673367,3.484002,1.224731E-06
+PF09403,Adhesion protein FadA,-5.73872,2.727507,1.254528E-05
+PF07087,Protein of unknown function (DUF1353),-6.0322,-3.256442,5.295768E-05
+PF04122,Putative cell wall binding repeat 2,2.123856,3.819037,0.0008606748
+PF17886,HSP20-like domain found in ArsA,-6.0322,-5.534243,0.01748995
+PF16728,Domain of unknown function (DUF5066),-6.061185,-5.613685,0.01748995
+PF01345,Domain of unknown function (DUF11),4.196018,4.807215,0.0212264
+PF08254,Threonine leader peptide,0.656293,-6.235979,1.110805E-14
+PF14255,Cysteine-rich CPXCG,-5.356354,-6.229333,4.435526E-10
+PF11962,"Peptidase_G2, IMC autoproteolytic cleavage domain",-1.925865,-6.141857,1.224731E-06
+PF06308,23S rRNA methylastransferase leader peptide (ErmCL),4.523399,3.441621,0.01748995
+PF14104,Domain of unknown function (DUF4277),-5.712807,-6.183273,0.01748995
+TIGR02077,thr_lead_pep: thr operon leader peptide,0.357274,-8.007909,3.792699E-15
+TIGR01249,pro_imino_pep_1: prolyl aminopeptidase,-1.014171,0.430146,0.01262132
