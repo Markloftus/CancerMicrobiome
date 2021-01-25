@@ -1,0 +1,939 @@
+Species,Healthy_Median,Healthy_Distribution,CRC_Median,CRC_Distribution,Test,Test_Statistic,P_Value,Correction_Performed,Corrected_Pvalue,Reject
+Parvimonas_micra,2.9913407615105356,Normally Distributed,10.527700475392045,Not Normally Distributed,Mann-Whitney U Test,2888.0,2.2770127524122547e-12,fdr_bh,3.0967373432806665e-09,True
+Peptostreptococcus_stomatis,-2.5760037146021997,Normally Distributed,10.290050405500345,Not Normally Distributed,Mann-Whitney U Test,3145.0,6.634730344601551e-11,fdr_bh,4.511616634329055e-08,True
+Gemella_morbillorum,-2.686774730169615,Normally Distributed,9.731965005733933,Not Normally Distributed,Mann-Whitney U Test,3178.0,1.005848538423732e-10,fdr_bh,4.559846707520918e-08,True
+Fusobacterium_nucleatum,-3.113394061386254,Not Normally Distributed,9.405303965040854,Not Normally Distributed,Mann-Whitney U Test,3465.0,3.1909887753086963e-09,fdr_bh,1.0849361836049567e-06,True
+Acetanaerobacterium_elongatum,-3.2188942248307075,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8614.0,0.00011938650686425521,fdr_bh,0.0011365545635550933,True
+Kosakonia_radicincitans,-3.2188942248307075,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8534.0,0.00021939009082429993,fdr_bh,0.0011365545635550933,True
+Kosakonia_sacchari,-3.218692010395868,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8599.0,0.00013403803280137813,fdr_bh,0.0011365545635550933,True
+Kosakonia_sp_CCTCC_M2018092,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8492.0,0.000299334359536056,fdr_bh,0.0011365545635550933,True
+Lachnospira_multipara,-2.7752677875142204,Not Normally Distributed,-3.3548604019003587,Not Normally Distributed,Mann-Whitney U Test,8694.0,6.355952418356219e-05,fdr_bh,0.0011365545635550933,True
+Lactobacillus_acidophilus,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8494.0,0.0002949783028160823,fdr_bh,0.0011365545635550933,True
+Kosakonia_oryzae,-3.2188942248307075,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8616.0,0.00011755116580444236,fdr_bh,0.0011365545635550933,True
+Lactobacillus_agilis,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8539.0,0.00021133857559580432,fdr_bh,0.0011365545635550933,True
+Lactobacillus_alimentarius,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8506.0,0.0002700640792979452,fdr_bh,0.0011365545635550933,True
+Lactobacillus_amylolyticus,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8560.0,0.00018045692203516706,fdr_bh,0.0011365545635550933,True
+Lactobacillus_amylophilus,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8509.0,0.00026415127971770897,fdr_bh,0.0011365545635550933,True
+Lactobacillus_acetotolerans,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8492.0,0.000299334359536056,fdr_bh,0.0011365545635550933,True
+Kluyvera_intermedia,-3.1993192293079282,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8488.0,0.00030822781013289073,fdr_bh,0.0011365545635550933,True
+Kluyvera_ascorbata,-3.12872593624261,Not Normally Distributed,-3.431287726967044,Not Normally Distributed,Mann-Whitney U Test,8503.0,0.0002761007644770394,fdr_bh,0.0011365545635550933,True
+Kingella_denitrificans,-3.20674670143306,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8696.0,6.254810251396304e-05,fdr_bh,0.0011365545635550933,True
+Jonquetella_anthropi,-3.2188942248307075,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8672.0,7.575627820518526e-05,fdr_bh,0.0011365545635550933,True
+endosymbiont_TC1_of_Trimyema_compressum,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8522.0,0.00023990409144914945,fdr_bh,0.0011365545635550933,True
+Insolitispirillum_peregrinum,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8492.0,0.000299334359536056,fdr_bh,0.0011365545635550933,True
+Ignavigranum_ruoffiae,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8527.0,0.00023114702413109533,fdr_bh,0.0011365545635550933,True
+Hydrogenoanaerobacterium_saccharovorans,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8510.0,0.0002622074684949509,fdr_bh,0.0011365545635550933,True
+Hungateiclostridium_saccincola,-3.2158430695976,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8605.0,0.00012798499211223103,fdr_bh,0.0011365545635550933,True
+Hungateiclostridium_clariflavum,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8571.0,0.0001660261365251638,fdr_bh,0.0011365545635550933,True
+Hungateiclostridium_cellulolyticum,-3.2188942248307075,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8660.0,8.331037021393122e-05,fdr_bh,0.0011365545635550933,True
+Hellea_balneolensis,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8492.0,0.000299334359536056,fdr_bh,0.0011365545635550933,True
+Heliobacterium_modesticaldum,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8585.0,0.00014922711954261112,fdr_bh,0.0011365545635550933,True
+Helicobacter_macacae,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8501.0,0.0002801952280569642,fdr_bh,0.0011365545635550933,True
+Helicobacter_fennelliae,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8557.0,0.0001845926168065028,fdr_bh,0.0011365545635550933,True
+Lactobacillus_amylovorus,-3.218692010395868,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8502.0,0.00027814093591541815,fdr_bh,0.0011365545635550933,True
+Lactobacillus_animalis,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8520.0,0.00024349330667833025,fdr_bh,0.0011365545635550933,True
+Lactobacillus_curvatus,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8524.0,0.00023636455922489456,fdr_bh,0.0011365545635550933,True
+Helicobacter_cinaedi,-3.2188942248307075,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8501.0,0.0002801952280569642,fdr_bh,0.0011365545635550933,True
+Macrococcus_sp_IME1552,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8527.0,0.00023114702413109533,fdr_bh,0.0011365545635550933,True
+Lutispora_thermophila,-3.20674670143306,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8595.0,0.000138222157173449,fdr_bh,0.0011365545635550933,True
+Luteimonas_huabeiensis,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8513.0,0.0002564561938665299,fdr_bh,0.0011365545635550933,True
+Leuconostoc_mesenteroides,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8525.0,0.00023461322474487703,fdr_bh,0.0011365545635550933,True
+Leptotrichia_sp_oral_taxon_498,-3.218140623353655,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8606.0,0.0001270015474093579,fdr_bh,0.0011365545635550933,True
+Lelliottia_jeotgali,-3.2188942248307075,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8626.0,0.00010876676602748241,fdr_bh,0.0011365545635550933,True
+Lelliottia_amnigena,-3.2188942248307075,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8497.0,0.0002885554172110832,fdr_bh,0.0011365545635550933,True
+Legionella_londiniensis,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8528.0,0.00022943200141465987,fdr_bh,0.0011365545635550933,True
+Leclercia_sp_W6,-3.2158430695976,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8676.0,7.338559526031362e-05,fdr_bh,0.0011365545635550933,True
+Leclercia_sp_LSNIH3,-3.1836515390750915,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8715.0,5.36704091425818e-05,fdr_bh,0.0011365545635550933,True
+Leclercia_sp_LSNIH1,-3.2158430695976,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8602.0,0.00013097856602901513,fdr_bh,0.0011365545635550933,True
+Leclercia_adecarboxylata,-3.20674670143306,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8578.0,0.00015741585567033634,fdr_bh,0.0011365545635550933,True
+Leadbetterella_byssophila,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8528.0,0.00022943200141465987,fdr_bh,0.0011365545635550933,True
+Lamprocystis_purpurea,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8494.0,0.0002949783028160823,fdr_bh,0.0011365545635550933,True
+Lagierella_massiliensis,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8612.0,0.00012124884338007096,fdr_bh,0.0011365545635550933,True
+Lactococcus_raffinolactis,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8528.0,0.00022943200141465987,fdr_bh,0.0011365545635550933,True
+Lactococcus_piscium,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8506.0,0.0002700640792979452,fdr_bh,0.0011365545635550933,True
+Lactococcus_garvieae,-3.218140623353655,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8680.0,7.108519751451263e-05,fdr_bh,0.0011365545635550933,True
+Lactobacillus_uvarum,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8485.0,0.00031505961063255165,fdr_bh,0.0011365545635550933,True
+Lactobacillus_suebicus,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8527.0,0.00023114702413109533,fdr_bh,0.0011365545635550933,True
+Lactobacillus_satsumensis,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8527.0,0.00023114702413109533,fdr_bh,0.0011365545635550933,True
+Lactobacillus_rogosae,13.435852430276501,Not Normally Distributed,12.074990907804386,Not Normally Distributed,Mann-Whitney U Test,8591.0,0.0001425290934324981,fdr_bh,0.0011365545635550933,True
+Lactobacillus_rhamnosus,-3.2188942248307075,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8589.0,0.0001447296594546294,fdr_bh,0.0011365545635550933,True
+Lactobacillus_reuteri,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8494.0,0.0002949783028160823,fdr_bh,0.0011365545635550933,True
+Lactobacillus_pentosus,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8513.0,0.0002564561938665299,fdr_bh,0.0011365545635550933,True
+Lactobacillus_gigeriorum,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8560.0,0.00018045692203516706,fdr_bh,0.0011365545635550933,True
+Lactobacillus_gallinarum,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8527.0,0.00023114702413109533,fdr_bh,0.0011365545635550933,True
+Lactobacillus_equi,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8508.0,0.00026610859403840487,fdr_bh,0.0011365545635550933,True
+Lactobacillus_delbrueckii,-3.105823689672837,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8821.0,2.2333510873171936e-05,fdr_bh,0.0011365545635550933,True
+Lactobacillus_bifermentans,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8527.0,0.00023114702413109533,fdr_bh,0.0011365545635550933,True
+Helcococcus_sueciensis,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8523.0,0.00023812815497716033,fdr_bh,0.0011365545635550933,True
+Helcococcus_kunzii,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8556.0,0.00018599086773205318,fdr_bh,0.0011365545635550933,True
+Hathewaya_proteolytica,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8534.0,0.00021939009082429993,fdr_bh,0.0011365545635550933,True
+Enterobacter_sp_638,-3.2188942248307075,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8599.0,0.00013403803280137813,fdr_bh,0.0011365545635550933,True
+Enterobacter_lignolyticus,-3.218692010395868,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8493.0,0.00029714885503459386,fdr_bh,0.0011365545635550933,True
+Enterobacter_kobei,-3.2188942248307075,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8576.0,0.00015983205799391192,fdr_bh,0.0011365545635550933,True
+Enterobacter_bugandensis,-3.179734872977388,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8574.0,0.00016228312861125068,fdr_bh,0.0011365545635550933,True
+Dysgonomonas_mossii,-3.218140623353655,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8579.0,0.00015622068561185943,fdr_bh,0.0011365545635550933,True
+Dysgonomonas_gadei,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8551.0,0.00019313271599566192,fdr_bh,0.0011365545635550933,True
+Dysgonomonas_capnocytophagoides,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8485.0,0.00031505961063255165,fdr_bh,0.0011365545635550933,True
+Dubosiella_newyorkensis,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8526.0,0.00023287407255399113,fdr_bh,0.0011365545635550933,True
+Dickeya_sp_Secpp_1600,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8512.0,0.00025836001102642816,fdr_bh,0.0011365545635550933,True
+Dickeya_sp_DW_0440,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8527.0,0.00023114702413109533,fdr_bh,0.0011365545635550933,True
+Dickeya_sp_CSL_RW240,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8489.0,0.0003059815402487447,fdr_bh,0.0011365545635550933,True
+Dickeya_dadantii,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8506.0,0.0002700640792979452,fdr_bh,0.0011365545635550933,True
+Desulfotomaculum_copahuensis,-3.2188942248307075,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8648.0,9.157250251969255e-05,fdr_bh,0.0011365545635550933,True
+Enterobacter_sp_R4-368,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8525.0,0.00023461322474487703,fdr_bh,0.0011365545635550933,True
+Desulfonispora_thiosulfatigenes,-3.2188942248307075,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8563.0,0.00017640846282580326,fdr_bh,0.0011365545635550933,True
+Desnuesiella_massiliensis,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8540.0,0.000209761936664437,fdr_bh,0.0011365545635550933,True
+Desemzia_incerta,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8485.0,0.00031505961063255165,fdr_bh,0.0011365545635550933,True
+Denitrobacterium_detoxificans,-3.1743244289312784,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8821.0,2.2333510873171936e-05,fdr_bh,0.0011365545635550933,True
+Deinococcus_wulumuqiensis,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8531.0,0.00022435831373347157,fdr_bh,0.0011365545635550933,True
+Defluviitalea_phaphyphila,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8585.0,0.00014922711954261112,fdr_bh,0.0011365545635550933,True
+Cutibacterium_acnes,-3.211477340154312,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8621.0,0.00011307853241188436,fdr_bh,0.0011365545635550933,True
+Cronobacter_universalis,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8515.0,0.00025268795911656143,fdr_bh,0.0011365545635550933,True
+Cronobacter_turicensis,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8492.0,0.000299334359536056,fdr_bh,0.0011365545635550933,True
+Cronobacter_sakazakii,-3.1622668000097534,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8867.0,1.5082838777176e-05,fdr_bh,0.0011365545635550933,True
+Cronobacter_malonaticus,-3.218140623353655,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8529.0,0.00022772892680040388,fdr_bh,0.0011365545635550933,True
+Corynebacterium_sp_NML98-0116,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8537.0,0.0002145252980920305,fdr_bh,0.0011365545635550933,True
+Corynebacterium_pyruviciproducens,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8494.0,0.0002949783028160823,fdr_bh,0.0011365545635550933,True
+Corynebacterium_jeikeium,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8520.0,0.00024349330667833025,fdr_bh,0.0011365545635550933,True
+Desulfobacter_postgatei,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8557.0,0.0001845926168065028,fdr_bh,0.0011365545635550933,True
+Enterobacter_sp_SA187,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8490.0,0.0003037506062451053,fdr_bh,0.0011365545635550933,True
+Enterobacteriaceae_bacterium_ENNIH2,-3.179734872977388,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8715.0,5.36704091425818e-05,fdr_bh,0.0011365545635550933,True
+Enterobacteriaceae_bacterium_ENNIH3,-3.1904496083845473,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8775.0,3.282940036697358e-05,fdr_bh,0.0011365545635550933,True
+Halotalea_alkalilenta,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8513.0,0.0002564561938665299,fdr_bh,0.0011365545635550933,True
+Gottschalkia_purinilytica,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8531.0,0.00022435831373347157,fdr_bh,0.0011365545635550933,True
+Globicatella_sulfidifaciens,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8528.0,0.00022943200141465987,fdr_bh,0.0011365545635550933,True
+Gibbsiella_quercinecans,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8545.0,0.00020204308603199872,fdr_bh,0.0011365545635550933,True
+Franconibacter_pulveris,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8515.0,0.00025268795911656143,fdr_bh,0.0011365545635550933,True
+Flavobacterium_marinum,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8520.0,0.00024349330667833025,fdr_bh,0.0011365545635550933,True
+Facklamia_miroungae,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8509.0,0.00026415127971770897,fdr_bh,0.0011365545635550933,True
+Facklamia_hominis,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8556.0,0.00018599086773205318,fdr_bh,0.0011365545635550933,True
+Ethanoligenens_harbinense,-3.218692010395868,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8676.0,7.338559526031362e-05,fdr_bh,0.0011365545635550933,True
+Escherichia_fergusonii,-3.0787114530780624,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8701.0,6.0085793623655554e-05,fdr_bh,0.0011365545635550933,True
+Erwinia_persicina,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8512.0,0.00025836001102642816,fdr_bh,0.0011365545635550933,True
+Erwinia_mallotivora,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8500.0,0.00028226373118729993,fdr_bh,0.0011365545635550933,True
+Erwinia_iniecta,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8532.0,0.0002226906223373884,fdr_bh,0.0011365545635550933,True
+Enterorhabdus_mucosicola,-2.983019440828583,Not Normally Distributed,-3.4034055690547618,Not Normally Distributed,Mann-Whitney U Test,8710.0,5.5883248551321174e-05,fdr_bh,0.0011365545635550933,True
+Enterococcus_thailandicus,-3.2188942248307075,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8565.0,0.00017375710769080278,fdr_bh,0.0011365545635550933,True
+Enterococcus_sp_FDAARGOS_375,-3.2188942248307075,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8565.0,0.00017375710769080278,fdr_bh,0.0011365545635550933,True
+Enterococcus_sp_CR-Ec1,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8509.0,0.00026415127971770897,fdr_bh,0.0011365545635550933,True
+Enterococcus_saccharolyticus,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8537.0,0.0002145252980920305,fdr_bh,0.0011365545635550933,True
+Enterococcus_pseudoavium,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8529.0,0.00022772892680040388,fdr_bh,0.0011365545635550933,True
+Enterococcus_mundtii,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8485.0,0.00031505961063255165,fdr_bh,0.0011365545635550933,True
+Enterococcus_massiliensis,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8537.0,0.0002145252980920305,fdr_bh,0.0011365545635550933,True
+Enterococcus_malodoratus,-3.2188942248307075,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8564.0,0.00017507806537304046,fdr_bh,0.0011365545635550933,True
+Enterococcus_italicus,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8537.0,0.0002145252980920305,fdr_bh,0.0011365545635550933,True
+Enterococcus_hirae,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8537.0,0.0002145252980920305,fdr_bh,0.0011365545635550933,True
+Enterococcus_hermanniensis,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8485.0,0.00031505961063255165,fdr_bh,0.0011365545635550933,True
+Enterococcus_gallinarum,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8553.0,0.0001902455931033614,fdr_bh,0.0011365545635550933,True
+Enterococcus_devriesei,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8537.0,0.0002145252980920305,fdr_bh,0.0011365545635550933,True
+Enterococcus_cecorum,-3.211477340154312,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8746.0,4.1697727007045335e-05,fdr_bh,0.0011365545635550933,True
+Enterococcus_casseliflavus,-3.218692010395868,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8629.0,0.0001062546640558515,fdr_bh,0.0011365545635550933,True
+Malonomonas_rubra,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8528.0,0.00022943200141465987,fdr_bh,0.0011365545635550933,True
+Mangrovibacter_phragmitis,-3.2158430695976,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8534.0,0.00021939009082429993,fdr_bh,0.0011365545635550933,True
+Marinobacter_hydrocarbonoclasticus,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8531.0,0.00022435831373347157,fdr_bh,0.0011365545635550933,True
+Corynebacterium_ihumii,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8522.0,0.00023990409144914945,fdr_bh,0.0011365545635550933,True
+Streptococcus_parauberis,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8500.0,0.00028226373118729993,fdr_bh,0.0011365545635550933,True
+Streptococcus_merionis,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8530.0,0.00022603772313894776,fdr_bh,0.0011365545635550933,True
+Streptococcus_marimammalium,-3.211477340154312,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8513.0,0.0002564561938665299,fdr_bh,0.0011365545635550933,True
+Streptococcus_himalayensis,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8501.0,0.0002801952280569642,fdr_bh,0.0011365545635550933,True
+Streptococcus_entericus,-3.218140623353655,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8513.0,0.0002564561938665299,fdr_bh,0.0011365545635550933,True
+Streptococcus_anginosus,-2.597758776419699,Normally Distributed,9.654938454250214,Not Normally Distributed,Mann-Whitney U Test,4543.0,0.0001062546640558515,fdr_bh,0.0011365545635550933,True
+Stenotrophomonas_sp_KCTC_12332,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8513.0,0.0002564561938665299,fdr_bh,0.0011365545635550933,True
+Stenotrophomonas_nitritireducens,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8513.0,0.0002564561938665299,fdr_bh,0.0011365545635550933,True
+Staphylococcus_warneri,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8506.0,0.0002700640792979452,fdr_bh,0.0011365545635550933,True
+Staphylococcus_pseudintermedius,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8512.0,0.00025836001102642816,fdr_bh,0.0011365545635550933,True
+Staphylococcus_lugdunensis,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8520.0,0.00024349330667833025,fdr_bh,0.0011365545635550933,True
+Staphylococcus_hominis,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8500.0,0.00028226373118729993,fdr_bh,0.0011365545635550933,True
+Staphylococcus_cohnii,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8572.0,0.00016476953489457996,fdr_bh,0.0011365545635550933,True
+Streptococcus_phocae,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8527.0,0.00023114702413109533,fdr_bh,0.0011365545635550933,True
+Staphylococcus_capitis,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8522.0,0.00023990409144914945,fdr_bh,0.0011365545635550933,True
+Simonsiella_muelleri,-3.2188942248307075,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8643.0,9.523852576293177e-05,fdr_bh,0.0011365545635550933,True
+Siccibacter_turicensis,-3.1743244289312784,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8740.0,4.379672248245849e-05,fdr_bh,0.0011365545635550933,True
+Shimwellia_blattae,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8509.0,0.00026415127971770897,fdr_bh,0.0011365545635550933,True
+Serratia_symbiotica,-3.2188942248307075,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8609.0,0.00012409377494628852,fdr_bh,0.0011365545635550933,True
+Serratia_sp_LS-1,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8490.0,0.0003037506062451053,fdr_bh,0.0011365545635550933,True
+Serratia_sp_JKS000199,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8527.0,0.00023114702413109533,fdr_bh,0.0011365545635550933,True
+Serratia_sp_FS14,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8540.0,0.000209761936664437,fdr_bh,0.0011365545635550933,True
+Serratia_quinivorans,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8513.0,0.0002564561938665299,fdr_bh,0.0011365545635550933,True
+Serratia_liquefaciens,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8520.0,0.00024349330667833025,fdr_bh,0.0011365545635550933,True
+Serratia_ficaria,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8489.0,0.0003059815402487447,fdr_bh,0.0011365545635550933,True
+Schleiferia_thermophila,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8528.0,0.00022943200141465987,fdr_bh,0.0011365545635550933,True
+Ruminiclostridium_josui,-3.179734872977388,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8493.0,0.00029714885503459386,fdr_bh,0.0011365545635550933,True
+Ruminiclostridium_cellulolyticum,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8506.0,0.0002700640792979452,fdr_bh,0.0011365545635550933,True
+Sneathia_amnii,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8564.0,0.00017507806537304046,fdr_bh,0.0011365545635550933,True
+Streptococcus_plurextorum,-3.218140623353655,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8749.0,4.0684370913311274e-05,fdr_bh,0.0011365545635550933,True
+Streptococcus_porci,-3.2188942248307075,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8621.0,0.00011307853241188436,fdr_bh,0.0011365545635550933,True
+Streptococcus_pyogenes,-3.1836515390750915,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8708.0,5.679235754483391e-05,fdr_bh,0.0011365545635550933,True
+Zhihengliuella_sp_ISTPL4,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8506.0,0.0002700640792979452,fdr_bh,0.0011365545635550933,True
+Youngiibacter_fragilis,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8507.0,0.00026807949816217525,fdr_bh,0.0011365545635550933,True
+Yokenella_regensburgei,-3.218692010395868,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8493.0,0.00029714885503459386,fdr_bh,0.0011365545635550933,True
+Yersinia_massiliensis,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8520.0,0.00024349330667833025,fdr_bh,0.0011365545635550933,True
+Yersinia_aldovae,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8506.0,0.0002700640792979452,fdr_bh,0.0011365545635550933,True
+Xanthomonas_massiliensis,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8513.0,0.0002564561938665299,fdr_bh,0.0011365545635550933,True
+Xanthomonas_campestris,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8513.0,0.0002564561938665299,fdr_bh,0.0011365545635550933,True
+Williamwhitmania_taraxaci,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8528.0,0.00022943200141465987,fdr_bh,0.0011365545635550933,True
+Weissella_paramesenteroides,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8515.0,0.00025268795911656143,fdr_bh,0.0011365545635550933,True
+Veillonella_seminalis,-3.1904496083845473,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8614.0,0.00011938650686425521,fdr_bh,0.0011365545635550933,True
+Veillonella_magna,-3.218692010395868,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8497.0,0.0002885554172110832,fdr_bh,0.0011365545635550933,True
+Treponema_lecithinolyticum,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8531.0,0.00022435831373347157,fdr_bh,0.0011365545635550933,True
+Thermus_parvatiensis,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8500.0,0.00028226373118729993,fdr_bh,0.0011365545635550933,True
+Thalassobaculum_salexigens,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8488.0,0.00030822781013289073,fdr_bh,0.0011365545635550933,True
+Tetragenococcus_halophilus,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8485.0,0.00031505961063255165,fdr_bh,0.0011365545635550933,True
+Terrisporobacter_glycolicus,-3.1663282973098266,Not Normally Distributed,-3.4661029791993716,Not Normally Distributed,Mann-Whitney U Test,8505.0,0.00027206242516098405,fdr_bh,0.0011365545635550933,True
+Terasakiella_pusilla,-3.218692010395868,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8517.0,0.0002489716980734301,fdr_bh,0.0011365545635550933,True
+Tepidicaulis_marinus,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8492.0,0.000299334359536056,fdr_bh,0.0011365545635550933,True
+Tatumella_saanichensis,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8489.0,0.0003059815402487447,fdr_bh,0.0011365545635550933,True
+Tatumella_citrea,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8559.0,0.0001818257086994528,fdr_bh,0.0011365545635550933,True
+Syntrophus_gentianae,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8528.0,0.00022943200141465987,fdr_bh,0.0011365545635550933,True
+Syntrophomonas_zehnderi,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8528.0,0.00022943200141465987,fdr_bh,0.0011365545635550933,True
+Sulfurimonas_gotlandica,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8498.0,0.00028644373416880485,fdr_bh,0.0011365545635550933,True
+Suicoccus_acidiformans,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8550.0,0.0001945916699719083,fdr_bh,0.0011365545635550933,True
+Succinispira_mobilis,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8522.0,0.00023990409144914945,fdr_bh,0.0011365545635550933,True
+Succiniclasticum_ruminis,-3.218692010395868,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8640.0,9.750420728145155e-05,fdr_bh,0.0011365545635550933,True
+Streptococcus_varani,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8501.0,0.0002801952280569642,fdr_bh,0.0011365545635550933,True
+Streptococcus_urinalis,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8544.0,0.0002035651810698578,fdr_bh,0.0011365545635550933,True
+Streptococcus_ruminantium,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8500.0,0.00028226373118729993,fdr_bh,0.0011365545635550933,True
+Rufibacter_sp_DG15C,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8528.0,0.00022943200141465987,fdr_bh,0.0011365545635550933,True
+Roseburia_faecis,13.622376323178212,Normally Distributed,12.620745193428558,Not Normally Distributed,Mann-Whitney U Test,8804.0,2.5772483120986654e-05,fdr_bh,0.0011365545635550933,True
+Rodentibacter_pneumotropicus,-3.20674670143306,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8554.0,0.000188817289963143,fdr_bh,0.0011365545635550933,True
+Rodentibacter_heylii,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8505.0,0.00027206242516098405,fdr_bh,0.0011365545635550933,True
+Peptoniphilus_ivorii,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8523.0,0.00023812815497716033,fdr_bh,0.0011365545635550933,True
+Peptoclostridium_litorale,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8528.0,0.00022943200141465987,fdr_bh,0.0011365545635550933,True
+Pelobacter_propionicus,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8528.0,0.00022943200141465987,fdr_bh,0.0011365545635550933,True
+Pectobacterium_polaris,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8489.0,0.0003059815402487447,fdr_bh,0.0011365545635550933,True
+Pectobacterium_brasiliense,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8511.0,0.0002602770741662458,fdr_bh,0.0011365545635550933,True
+Pasteurellaceae_bacterium_NI1060,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8562.0,0.00017774836268234112,fdr_bh,0.0011365545635550933,True
+Pantoea_stewartii,-3.218692010395868,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8554.0,0.000188817289963143,fdr_bh,0.0011365545635550933,True
+Pantoea_sp_At-9b,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8497.0,0.0002885554172110832,fdr_bh,0.0011365545635550933,True
+Pantoea_dispersa,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8520.0,0.00024349330667833025,fdr_bh,0.0011365545635550933,True
+Pantoea_alhagi,-3.2188942248307075,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8488.0,0.00030822781013289073,fdr_bh,0.0011365545635550933,True
+Pandoraea_pnomenusa,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8513.0,0.0002564561938665299,fdr_bh,0.0011365545635550933,True
+Paenibacillus_macerans,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8507.0,0.00026807949816217525,fdr_bh,0.0011365545635550933,True
+Oxobacter_pfennigii,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8528.0,0.00022943200141465987,fdr_bh,0.0011365545635550933,True
+Niameybacter_massiliensis,-3.2158430695976,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8487.0,0.0003104895131752729,fdr_bh,0.0011365545635550933,True
+Neomicrococcus_aestuarii,-3.218692010395868,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8645.0,9.375578969939564e-05,fdr_bh,0.0011365545635550933,True
+Neisseria_polysaccharea,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8500.0,0.00028226373118729993,fdr_bh,0.0011365545635550933,True
+Neisseria_meningitidis,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8586.0,0.00014809057839932545,fdr_bh,0.0011365545635550933,True
+Neisseria_lactamica,-3.2188942248307075,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8590.0,0.00014362540753816577,fdr_bh,0.0011365545635550933,True
+Neisseria_gonorrhoeae,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8563.0,0.00017640846282580326,fdr_bh,0.0011365545635550933,True
+Mucinivorans_hirudinis,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8505.0,0.00027206242516098405,fdr_bh,0.0011365545635550933,True
+Moraxella_osloensis,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8501.0,0.0002801952280569642,fdr_bh,0.0011365545635550933,True
+Mixta_calida,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8511.0,0.0002602770741662458,fdr_bh,0.0011365545635550933,True
+Micrococcus_luteus,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8500.0,0.00028226373118729993,fdr_bh,0.0011365545635550933,True
+Microbacterium_sp_PAMC_28756,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8506.0,0.0002700640792979452,fdr_bh,0.0011365545635550933,True
+Microbacterium_paraoxydans,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8506.0,0.0002700640792979452,fdr_bh,0.0011365545635550933,True
+Microbacterium_aurum,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8492.0,0.000299334359536056,fdr_bh,0.0011365545635550933,True
+Metakosakonia_sp_MRY16-398,-3.179734872977388,Not Normally Distributed,-3.486803954025678,Not Normally Distributed,Mann-Whitney U Test,8512.0,0.00025836001102642816,fdr_bh,0.0011365545635550933,True
+Megasphaera_paucivorans,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8508.0,0.00026610859403840487,fdr_bh,0.0011365545635550933,True
+Marinomonas_fungiae,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8520.0,0.00024349330667833025,fdr_bh,0.0011365545635550933,True
+Photorhabdus_asymbiotica,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8553.0,0.0001902455931033614,fdr_bh,0.0011365545635550933,True
+Mannheimia_sp_USDA-ARS-USMARC-1261,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8541.0,0.0002081963494040215,fdr_bh,0.0011365545635550933,True
+Phytobacter_ursingii,-3.2158430695976,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8590.0,0.00014362540753816577,fdr_bh,0.0011365545635550933,True
+Plautia_stali_symbiont,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8494.0,0.0002949783028160823,fdr_bh,0.0011365545635550933,True
+Ralstonia_solanacearum,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8513.0,0.0002564561938665299,fdr_bh,0.0011365545635550933,True
+Ralstonia_pseudosolanacearum,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8513.0,0.0002564561938665299,fdr_bh,0.0011365545635550933,True
+Ralstonia_mannitolilytica,-3.218692010395868,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8497.0,0.0002885554172110832,fdr_bh,0.0011365545635550933,True
+Rahnella_aquatilis,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8527.0,0.00023114702413109533,fdr_bh,0.0011365545635550933,True
+Pulveribacter_suum,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8513.0,0.0002564561938665299,fdr_bh,0.0011365545635550933,True
+Pseudomonas_versuta,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8490.0,0.0003037506062451053,fdr_bh,0.0011365545635550933,True
+Pseudomonas_thermotolerans,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8543.0,0.00020509804284023583,fdr_bh,0.0011365545635550933,True
+Pseudomonas_sp_WCS374,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8506.0,0.0002700640792979452,fdr_bh,0.0011365545635550933,True
+Pseudomonas_sp_VLB120,-3.218692010395868,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8667.0,7.882153254141565e-05,fdr_bh,0.0011365545635550933,True
+Pseudomonas_savastanoi,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8527.0,0.00023114702413109533,fdr_bh,0.0011365545635550933,True
+Pseudomonas_rhodesiae,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8579.0,0.00015622068561185943,fdr_bh,0.0011365545635550933,True
+Pseudomonas_psychrophila,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8492.0,0.000299334359536056,fdr_bh,0.0011365545635550933,True
+Pseudomonas_oleovorans,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8531.0,0.00022435831373347157,fdr_bh,0.0011365545635550933,True
+Pseudomonas_moraviensis,-3.2188942248307075,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8593.0,0.00014036006641559112,fdr_bh,0.0011365545635550933,True
+Pseudomonas_mandelii,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8506.0,0.0002700640792979452,fdr_bh,0.0011365545635550933,True
+Pseudomonas_fragi,-3.2188942248307075,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8542.0,0.0002066417419442941,fdr_bh,0.0011365545635550933,True
+Pseudomonas_fluorescens,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8506.0,0.0002700640792979452,fdr_bh,0.0011365545635550933,True
+Pseudomonas_balearica,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8489.0,0.0003059815402487447,fdr_bh,0.0011365545635550933,True
+Pseudomonas_aeruginosa,-3.2158430695976,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8554.0,0.000188817289963143,fdr_bh,0.0011365545635550933,True
+Pseudoclostridium_thermosuccinogenes,-3.218692010395868,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8707.0,5.7252148166854735e-05,fdr_bh,0.0011365545635550933,True
+Pseudescherichia_vulneris,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8489.0,0.0003059815402487447,fdr_bh,0.0011365545635550933,True
+Providencia_alcalifaciens,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8500.0,0.00028226373118729993,fdr_bh,0.0011365545635550933,True
+Proteiniphilum_saccharofermentans,-3.2188942248307075,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8649.0,9.085547470281759e-05,fdr_bh,0.0011365545635550933,True
+Proteiniclasticum_ruminis,-3.1993192293079282,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8704.0,5.8652767012697876e-05,fdr_bh,0.0011365545635550933,True
+Propionimicrobium_lymphophilum,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8497.0,0.0002885554172110832,fdr_bh,0.0011365545635550933,True
+Prevotella_paludivivens,-3.1663282973098266,Not Normally Distributed,-3.486803954025678,Not Normally Distributed,Mann-Whitney U Test,8703.0,5.9126807289837677e-05,fdr_bh,0.0011365545635550933,True
+Pragia_fontium,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8511.0,0.0002602770741662458,fdr_bh,0.0011365545635550933,True
+Porticoccus_hydrocarbonoclasticus,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8506.0,0.0002700640792979452,fdr_bh,0.0011365545635550933,True
+Porphyromonas_catoniae,-3.2188942248307075,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8559.0,0.0001818257086994528,fdr_bh,0.0011365545635550933,True
+Pisciglobus_halotolerans,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8509.0,0.00026415127971770897,fdr_bh,0.0011365545635550933,True
+Corynebacterium_camporealensis,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8506.0,0.0002700640792979452,fdr_bh,0.0011365545635550933,True
+nan,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8531.0,0.00022435831373347157,fdr_bh,0.0011365545635550933,True
+Bradyrhizobium_sp_SK17,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8506.0,0.0002700640792979452,fdr_bh,0.0011365545635550933,True
+Anaerosalibacter_massiliensis,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8585.0,0.00014922711954261112,fdr_bh,0.0011365545635550933,True
+Aeromonas_sp_ASNIH2,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8580.0,0.00015503405991971358,fdr_bh,0.0011365545635550933,True
+Citrobacter_youngae,-3.050327597547213,Not Normally Distributed,-3.387593942714151,Not Normally Distributed,Mann-Whitney U Test,8570.0,0.00016729174992871523,fdr_bh,0.0011365545635550933,True
+Anaerosporobacter_mobilis,-3.108746401711455,Not Normally Distributed,-3.4661029791993716,Not Normally Distributed,Mann-Whitney U Test,8695.0,6.305189356349581e-05,fdr_bh,0.0011365545635550933,True
+Citrobacter_werkmanii,-3.1993192293079282,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8706.0,5.77154630361953e-05,fdr_bh,0.0011365545635550933,True
+Citrobacter_sp_FDAARGOS_156,-3.1663282973098266,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8586.0,0.00014809057839932545,fdr_bh,0.0011365545635550933,True
+Aeromonas_sp_ASNIH1,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8580.0,0.00015503405991971358,fdr_bh,0.0011365545635550933,True
+Anaerovorax_odorimutans,-3.2188942248307075,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8656.0,8.598279462056647e-05,fdr_bh,0.0011365545635550933,True
+Anoxybacter_fermentans,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8528.0,0.00022943200141465987,fdr_bh,0.0011365545635550933,True
+Aeromonas_rivipollensis,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8489.0,0.0003059815402487447,fdr_bh,0.0011365545635550933,True
+Clostridium_neonatale,-3.211477340154312,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8783.0,3.0718049007256864e-05,fdr_bh,0.0011365545635550933,True
+Clostridium_oryzae,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8488.0,0.00030822781013289073,fdr_bh,0.0011365545635550933,True
+Aeromonas_sp_ASNIH3,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8580.0,0.00015503405991971358,fdr_bh,0.0011365545635550933,True
+Arcanobacterium_urinimassiliense,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8577.0,0.0001586196272846963,fdr_bh,0.0011365545635550933,True
+Atopobacter_phocae,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8501.0,0.0002801952280569642,fdr_bh,0.0011365545635550933,True
+Citrobacter_portucalensis,-3.0682811733214397,Not Normally Distributed,-3.4519887017933506,Not Normally Distributed,Mann-Whitney U Test,8928.0,8.86188976204423e-06,fdr_bh,0.0011365545635550933,True
+Citrobacter_pasteurii,-3.1622668000097534,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8786.0,2.9960079505798142e-05,fdr_bh,0.0011365545635550933,True
+Aerococcus_viridans,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8485.0,0.00031505961063255165,fdr_bh,0.0011365545635550933,True
+Citrobacter_freundii_complex_sp_CFNIH9,-3.0682811733214397,Not Normally Distributed,-3.387593942714151,Not Normally Distributed,Mann-Whitney U Test,8622.0,0.00011220348540150782,fdr_bh,0.0011365545635550933,True
+Citrobacter_freundii_complex_sp_CFNIH4,-2.9899820917690825,Not Normally Distributed,-3.3768388783081242,Not Normally Distributed,Mann-Whitney U Test,8612.0,0.00012124884338007096,fdr_bh,0.0011365545635550933,True
+Aerococcus_urinae,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8523.0,0.00023812815497716033,fdr_bh,0.0011365545635550933,True
+Citrobacter_freundii_complex_sp_CFNIH3,-2.983019440828583,Not Normally Distributed,-3.3768388783081242,Not Normally Distributed,Mann-Whitney U Test,8719.0,5.196018169323987e-05,fdr_bh,0.0011365545635550933,True
+Aureimonas_phyllosphaerae,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8492.0,0.000299334359536056,fdr_bh,0.0011365545635550933,True
+Bacillus_andreraoultii,-3.20674670143306,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8700.0,6.057079187606564e-05,fdr_bh,0.0011365545635550933,True
+Actinotignum_schaalii,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8568.0,0.0001698502525727855,fdr_bh,0.0011365545635550933,True
+Citrobacter_braakii,-3.148709586153581,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8782.0,3.09747298496826e-05,fdr_bh,0.0011365545635550933,True
+Aeromonas_caviae,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8580.0,0.00015503405991971358,fdr_bh,0.0011365545635550933,True
+Citrobacter_amalonaticus,-3.1743244289312784,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8487.0,0.0003104895131752729,fdr_bh,0.0011365545635550933,True
+Anaerolineaceae_bacterium_oral_taxon_439,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8604.0,0.0001289756109053628,fdr_bh,0.0011365545635550933,True
+Clostridium_intestinale,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8524.0,0.00023636455922489456,fdr_bh,0.0011365545635550933,True
+Clostridium_cavendishii,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8507.0,0.00026807949816217525,fdr_bh,0.0011365545635550933,True
+Algoriphagus_faecimaris,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8499.0,0.0002843465361139174,fdr_bh,0.0011365545635550933,True
+Clostridium_botulinum,-3.218140623353655,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8770.0,3.421824162044699e-05,fdr_bh,0.0011365545635550933,True
+Clostridium_cellulosi,-3.218140623353655,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8496.0,0.0002906816776296504,fdr_bh,0.0011365545635550933,True
+Alkalimonas_amylolytica,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8489.0,0.0003059815402487447,fdr_bh,0.0011365545635550933,True
+Clostridium_bornimense,-3.2158430695976,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8633.0,0.00010299027776669197,fdr_bh,0.0011365545635550933,True
+Clostridium_chauvoei,-3.1663282973098266,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8866.0,1.5213276575640879e-05,fdr_bh,0.0011365545635550933,True
+Clostridium_chromiireducens,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8530.0,0.00022603772313894776,fdr_bh,0.0011365545635550933,True
+Clostridium_beijerinckii,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8577.0,0.0001586196272846963,fdr_bh,0.0011365545635550933,True
+Clostridium_cocleatum,-3.1904496083845473,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8525.0,0.00023461322474487703,fdr_bh,0.0011365545635550933,True
+Clostridium_collagenovorans,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8580.0,0.00015503405991971358,fdr_bh,0.0011365545635550933,True
+Aggregatibacter_actinomycetemcomitans,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8562.0,0.00017774836268234112,fdr_bh,0.0011365545635550933,True
+Clostridium_isatidis,-3.218140623353655,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8532.0,0.0002226906223373884,fdr_bh,0.0011365545635550933,True
+Clostridium_fallax,-3.218692010395868,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8740.0,4.379672248245849e-05,fdr_bh,0.0011365545635550933,True
+Clostridium_frigidicarnis,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8530.0,0.00022603772313894776,fdr_bh,0.0011365545635550933,True
+Amphibacillus_sediminis,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8531.0,0.00022435831373347157,fdr_bh,0.0011365545635550933,True
+Clostridium_gasigenes,-3.2188942248307075,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8611.0,0.00012219025033117595,fdr_bh,0.0011365545635550933,True
+Aeromonas_sp_ASNIH7,-3.2188942248307075,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8636.0,0.00010060435502188441,fdr_bh,0.0011365545635550933,True
+Anaerobium_acetethylicum,-3.2158430695976,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8605.0,0.00012798499211223103,fdr_bh,0.0011365545635550933,True
+Clostridium_baratii,-3.1663282973098266,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8989.0,5.140212421083974e-06,fdr_bh,0.0011365545635550933,True
+Aeromonas_sp_ASNIH5,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8580.0,0.00015503405991971358,fdr_bh,0.0011365545635550933,True
+Clostridium_homopropionicum,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8493.0,0.00029714885503459386,fdr_bh,0.0011365545635550933,True
+Clostridium_ihumii,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8530.0,0.00022603772313894776,fdr_bh,0.0011365545635550933,True
+Clostridium_amylolyticum,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8530.0,0.00022603772313894776,fdr_bh,0.0011365545635550933,True
+Clostridium_algidicarnis,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8506.0,0.0002700640792979452,fdr_bh,0.0011365545635550933,True
+Clostridioides_mangenotii,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8593.0,0.00014036006641559112,fdr_bh,0.0011365545635550933,True
+Clostridium_fimetarium,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8532.0,0.0002226906223373884,fdr_bh,0.0011365545635550933,True
+Clostridium_cadaveris,-3.211477340154312,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8769.0,3.450262610902937e-05,fdr_bh,0.0011365545635550933,True
+Clostridium_perfringens,-3.0540100205921625,Not Normally Distributed,-3.4034055690547618,Not Normally Distributed,Mann-Whitney U Test,8495.0,0.00029282260834583907,fdr_bh,0.0011365545635550933,True
+Bacillus_coagulans,-3.20674670143306,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8855.0,1.6720921729554097e-05,fdr_bh,0.0011365545635550933,True
+Clostridium_tepidum,-3.2188942248307075,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8498.0,0.00028644373416880485,fdr_bh,0.0011365545635550933,True
+Clostridium_thermoalcaliphilum,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8531.0,0.00022435831373347157,fdr_bh,0.0011365545635550933,True
+Candidatus_Midichloria_mitochondrii,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8506.0,0.0002700640792979452,fdr_bh,0.0011365545635550933,True
+Bradyrhizobium_elkanii,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8506.0,0.0002700640792979452,fdr_bh,0.0011365545635550933,True
+Clostridium_thermobutyricum,-3.1904496083845473,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8884.0,1.3022046550901485e-05,fdr_bh,0.0011365545635550933,True
+Acinetobacter_indicus,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8506.0,0.0002700640792979452,fdr_bh,0.0011365545635550933,True
+Clostridium_uliginosum,-3.218140623353655,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8756.0,3.840998864748967e-05,fdr_bh,0.0011365545635550933,True
+Clostridium_ventriculi,-3.218692010395868,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8657.0,8.530719592055657e-05,fdr_bh,0.0011365545635550933,True
+Acinetobacter_haemolyticus,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8506.0,0.0002700640792979452,fdr_bh,0.0011365545635550933,True
+Acinetobacter_baumannii,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8506.0,0.0002700640792979452,fdr_bh,0.0011365545635550933,True
+Acidovorax_soli,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8506.0,0.0002700640792979452,fdr_bh,0.0011365545635550933,True
+Acidovorax_delafieldii,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8506.0,0.0002700640792979452,fdr_bh,0.0011365545635550933,True
+Candidatus_Liberibacter_africanus,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8492.0,0.000299334359536056,fdr_bh,0.0011365545635550933,True
+Brochothrix_thermosphacta,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8537.0,0.0002145252980920305,fdr_bh,0.0011365545635550933,True
+Brucella_microti,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8500.0,0.00028226373118729993,fdr_bh,0.0011365545635550933,True
+Burkholderiales_bacterium_GJ-E10,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8561.0,0.0001790978279545847,fdr_bh,0.0011365545635550933,True
+Candidatus_Carsonella_ruddii,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8506.0,0.0002700640792979452,fdr_bh,0.0011365545635550933,True
+Candidatus_Arthromitus_sp_SFB-rat-Yit,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8509.0,0.00026415127971770897,fdr_bh,0.0011365545635550933,True
+Campylobacter_sputorum,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8530.0,0.00022603772313894776,fdr_bh,0.0011365545635550933,True
+Campylobacter_fetus,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8503.0,0.0002761007644770394,fdr_bh,0.0011365545635550933,True
+Campylobacter_curvus,-3.2158430695976,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8487.0,0.0003104895131752729,fdr_bh,0.0011365545635550933,True
+Caloramator_mitchellensis,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8514.0,0.000254565537971272,fdr_bh,0.0011365545635550933,True
+Acetivibrio_ethanolgignens,11.00004223533674,Not Normally Distributed,10.491074502814783,Not Normally Distributed,Mann-Whitney U Test,8545.0,0.00020204308603199872,fdr_bh,0.0011365545635550933,True
+Acetitomaculum_ruminis,-3.20674670143306,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8769.0,3.450262610902937e-05,fdr_bh,0.0011365545635550933,True
+Caldanaerobius_polysaccharolyticus,-3.218692010395868,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8715.0,5.36704091425818e-05,fdr_bh,0.0011365545635550933,True
+Bacillus_bogoriensis,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8488.0,0.00030822781013289073,fdr_bh,0.0011365545635550933,True
+Clostridium_sulfidigenes,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8533.0,0.00022103457315202264,fdr_bh,0.0011365545635550933,True
+Clostridium_taeniosporum,-3.218140623353655,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8753.0,3.936953856244351e-05,fdr_bh,0.0011365545635550933,True
+Bordetella_sp_HZ20,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8489.0,0.0003059815402487447,fdr_bh,0.0011365545635550933,True
+Bacillus_licheniformis,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8509.0,0.00026415127971770897,fdr_bh,0.0011365545635550933,True
+Clostridium_puniceum,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8580.0,0.00015503405991971358,fdr_bh,0.0011365545635550933,True
+Bacillus_tuaregi,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8514.0,0.000254565537971272,fdr_bh,0.0011365545635550933,True
+Bacteroidales_bacterium_CF,-3.218692010395868,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8507.0,0.00026807949816217525,fdr_bh,0.0011365545635550933,True
+Clostridium_saccharobutylicum,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8577.0,0.0001586196272846963,fdr_bh,0.0011365545635550933,True
+Actinomyces_urinae,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8522.0,0.00023990409144914945,fdr_bh,0.0011365545635550933,True
+Clostridium_saccharoperbutylacetonicum,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8530.0,0.00022603772313894776,fdr_bh,0.0011365545635550933,True
+Actinobacillus_pleuropneumoniae,-3.2188942248307075,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8527.0,0.00023114702413109533,fdr_bh,0.0011365545635550933,True
+Clostridium_sartagoforme,-3.12872593624261,Not Normally Distributed,-3.486803954025678,Not Normally Distributed,Mann-Whitney U Test,8576.0,0.00015983205799391192,fdr_bh,0.0011365545635550933,True
+Acinetobacter_ursingii,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8580.0,0.00015503405991971358,fdr_bh,0.0011365545635550933,True
+Acinetobacter_tandoii,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8506.0,0.0002700640792979452,fdr_bh,0.0011365545635550933,True
+Cellulosilyticum_lentocellum,-3.218692010395868,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8538.0,0.00021292633849585746,fdr_bh,0.0011365545635550933,True
+Cellulosilyticum_sp_WCF-2,-3.218140623353655,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8598.0,0.0001350727303641096,fdr_bh,0.0011365545635550933,True
+Bifidobacterium_choerinum,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8490.0,0.0003037506062451053,fdr_bh,0.0011365545635550933,True
+Capnocytophaga_canimorsus,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8494.0,0.0002949783028160823,fdr_bh,0.0011365545635550933,True
+Bifidobacterium_mongoliense,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8527.0,0.00023114702413109533,fdr_bh,0.0011365545635550933,True
+Capnocytophaga_granulosa,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8531.0,0.00022435831373347157,fdr_bh,0.0011365545635550933,True
+Capnocytophaga_leadbetteri,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8537.0,0.0002145252980920305,fdr_bh,0.0011365545635550933,True
+Celeribacter_halophilus,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8492.0,0.000299334359536056,fdr_bh,0.0011365545635550933,True
+Clostridium_butyricum,-3.1993192293079282,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8754.0,3.904718858422689e-05,fdr_bh,0.0011365545635550933,True
+Cardiobacterium_valvarum,-3.2188942248307075,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8642.0,9.598817088988833e-05,fdr_bh,0.0011365545635550933,True
+Carnobacterium_gallinarum,-3.2188942248307075,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8609.0,0.00012409377494628852,fdr_bh,0.0011365545635550933,True
+Bifidobacterium_crudilactis,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8527.0,0.00023114702413109533,fdr_bh,0.0011365545635550933,True
+Cardiobacterium_hominis,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8593.0,0.00014036006641559112,fdr_bh,0.0011365545635550933,True
+Plesiomonas_shigelloides,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8479.0,0.00032915058957289577,fdr_bh,0.001153237082889381,True
+Facklamia_languida,-3.148709586153581,Not Normally Distributed,-3.4661029791993716,Not Normally Distributed,Mann-Whitney U Test,8481.0,0.00032438934581458103,fdr_bh,0.001153237082889381,True
+Lachnospiraceae_bacterium,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8481.0,0.00032438934581458103,fdr_bh,0.001153237082889381,True
+Millionella_massiliensis,-3.218140623353655,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8480.0,0.0003267618518640539,fdr_bh,0.001153237082889381,True
+Mycolicibacterium_malmesburyense,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8478.0,0.000331555661330697,fdr_bh,0.001153237082889381,True
+Lelliottia_nimipressuralis,-3.1192790774670414,Not Normally Distributed,-3.4034055690547618,Not Normally Distributed,Mann-Whitney U Test,8480.0,0.0003267618518640539,fdr_bh,0.001153237082889381,True
+Lautropia_mirabilis,-3.195711151078882,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8478.0,0.000331555661330697,fdr_bh,0.001153237082889381,True
+Anaerocolumna_xylanovorans,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8481.0,0.00032438934581458103,fdr_bh,0.001153237082889381,True
+Clostridium_cochlearium,-3.2439765579529656,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8479.0,0.00032915058957289577,fdr_bh,0.001153237082889381,True
+Streptococcus_ratti,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8479.0,0.00032915058957289577,fdr_bh,0.001153237082889381,True
+Clostridium_sphenoides,-3.1743244289312784,Not Normally Distributed,-3.4661029791993716,Not Normally Distributed,Mann-Whitney U Test,8478.0,0.000331555661330697,fdr_bh,0.001153237082889381,True
+Xenorhabdus_bovienii,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8479.0,0.00032915058957289577,fdr_bh,0.001153237082889381,True
+Enterococcus_canis,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8479.0,0.00032915058957289577,fdr_bh,0.001153237082889381,True
+Succinivibrio_dextrinosolvens,-3.2188942248307075,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8482.0,0.00032203296961412904,fdr_bh,0.001153237082889381,True
+Capnocytophaga_ochracea,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8466.0,0.0003617286512723955,fdr_bh,0.0011545035177445361,True
+Acinetobacter_lwoffii,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8469.0,0.00035395352405325435,fdr_bh,0.0011545035177445361,True
+Carnobacterium_divergens,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8462.0,0.0003723440798287383,fdr_bh,0.0011545035177445361,True
+Carnobacterium_maltaromaticum,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8462.0,0.0003723440798287383,fdr_bh,0.0011545035177445361,True
+Lawsonia_intracellularis,-3.2188942248307075,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8461.0,0.00037504307130689575,fdr_bh,0.0011545035177445361,True
+Oligella_ureolytica,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8460.0,0.0003777603422031754,fdr_bh,0.0011545035177445361,True
+Streptococcus_pluranimalium,-3.2158430695976,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8467.0,0.00035911936976686196,fdr_bh,0.0011545035177445361,True
+Thermotalea_metallivorans,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8468.0,0.00035652769721587904,fdr_bh,0.0011545035177445361,True
+Pseudomonas_citronellolis,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8473.0,0.0003438296553973391,fdr_bh,0.0011545035177445361,True
+Citrobacter_sp_92,-3.211477340154312,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8468.0,0.00035652769721587904,fdr_bh,0.0011545035177445361,True
+Acinetobacter_sp_WCHA55,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8469.0,0.00035395352405325435,fdr_bh,0.0011545035177445361,True
+Enterobacter_sp_Crenshaw,-3.095785251947289,Not Normally Distributed,-3.387593942714151,Not Normally Distributed,Mann-Whitney U Test,8464.0,0.00036700048250085684,fdr_bh,0.0011545035177445361,True
+Anaerovibrio_lipolyticus,-3.218692010395868,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8474.0,0.0003413413570769801,fdr_bh,0.0011545035177445361,True
+Pseudodesulfovibrio_profundus,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8471.0,0.0003488572406963685,fdr_bh,0.0011545035177445361,True
+Kluyvera_cryocrescens,-3.095785251947289,Not Normally Distributed,-3.387593942714151,Not Normally Distributed,Mann-Whitney U Test,8463.0,0.0003696632544541452,fdr_bh,0.0011545035177445361,True
+Streptococcus_lutetiensis,-3.0787114530780624,Not Normally Distributed,-3.431287726967044,Not Normally Distributed,Mann-Whitney U Test,8466.0,0.0003617286512723955,fdr_bh,0.0011545035177445361,True
+Helicobacter_trogontum,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8460.0,0.0003777603422031754,fdr_bh,0.0011545035177445361,True
+Helicobacter_typhlonius,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8476.0,0.00033641521946490074,fdr_bh,0.0011545035177445361,True
+Empedobacter_brevis,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8471.0,0.0003488572406963685,fdr_bh,0.0011545035177445361,True
+Paracoccus_alkenifer,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8469.0,0.00035395352405325435,fdr_bh,0.0011545035177445361,True
+Beduini_massiliensis,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8476.0,0.00033641521946490074,fdr_bh,0.0011545035177445361,True
+Aerococcus_christensenii,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8460.0,0.0003777603422031754,fdr_bh,0.0011545035177445361,True
+Bavariicoccus_seileri,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8471.0,0.0003488572406963685,fdr_bh,0.0011545035177445361,True
+Pediococcus_acidilactici,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8465.0,0.0003643556519158674,fdr_bh,0.0011545035177445361,True
+Peptostreptococcus_russellii,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8460.0,0.0003777603422031754,fdr_bh,0.0011545035177445361,True
+Chryseobacterium_molle,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8467.0,0.00035911936976686196,fdr_bh,0.0011545035177445361,True
+Cetobacterium_ceti,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8462.0,0.0003723440798287383,fdr_bh,0.0011545035177445361,True
+Bacillus_cereus,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8471.0,0.0003488572406963685,fdr_bh,0.0011545035177445361,True
+Lawsonella_clevelandensis,-3.1904496083845473,Not Normally Distributed,-3.486803954025678,Not Normally Distributed,Mann-Whitney U Test,8474.0,0.0003413413570769801,fdr_bh,0.0011545035177445361,True
+Oceanibaculum_pacificum,-3.2188942248307075,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8464.0,0.00036700048250085684,fdr_bh,0.0011545035177445361,True
+Campylobacter_upsaliensis,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8461.0,0.00037504307130689575,fdr_bh,0.0011545035177445361,True
+Mycoplasma_opalescens,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8471.0,0.0003488572406963685,fdr_bh,0.0011545035177445361,True
+Lactobacillus_oryzae,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8472.0,0.0003463349144288705,fdr_bh,0.0011545035177445361,True
+Corynebacterium_singulare,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8471.0,0.0003488572406963685,fdr_bh,0.0011545035177445361,True
+Amphibacillus_jilinensis,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8471.0,0.0003488572406963685,fdr_bh,0.0011545035177445361,True
+Lactobacillus_kefiranofaciens,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8472.0,0.0003463349144288705,fdr_bh,0.0011545035177445361,True
+Facklamia_ignava,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8460.0,0.0003777603422031754,fdr_bh,0.0011545035177445361,True
+Lactobacillus_ingluviei,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8460.0,0.0003777603422031754,fdr_bh,0.0011545035177445361,True
+Lactobacillus_helveticus,-3.2188942248307075,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8464.0,0.00036700048250085684,fdr_bh,0.0011545035177445361,True
+Escherichia_marmotae,-3.179734872977388,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8461.0,0.00037504307130689575,fdr_bh,0.0011545035177445361,True
+Clostridium_sp_BNL1100,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8461.0,0.00037504307130689575,fdr_bh,0.0011545035177445361,True
+Acinetobacter_johnsonii,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8469.0,0.00035395352405325435,fdr_bh,0.0011545035177445361,True
+Fermentimonas_caenicola,-3.2093114107235152,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8466.0,0.0003617286512723955,fdr_bh,0.0011545035177445361,True
+Erysipelothrix_rhusiopathiae,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8460.0,0.0003777603422031754,fdr_bh,0.0011545035177445361,True
+Riemerella_columbina,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8466.0,0.0003617286512723955,fdr_bh,0.0011545035177445361,True
+Staphylococcus_pasteuri,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8462.0,0.0003723440798287383,fdr_bh,0.0011545035177445361,True
+Flavobacterium_fontis,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8467.0,0.00035911936976686196,fdr_bh,0.0011545035177445361,True
+Cloacibacterium_normanense,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8476.0,0.00033641521946490074,fdr_bh,0.0011545035177445361,True
+Treponema_vincentii,-3.2241424755815675,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8469.0,0.00035395352405325435,fdr_bh,0.0011545035177445361,True
+Candidatus_Arthromitus_sp_SFB-mouse,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8465.0,0.0003643556519158674,fdr_bh,0.0011545035177445361,True
+Leminorella_grimontii,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8473.0,0.0003438296553973391,fdr_bh,0.0011545035177445361,True
+Colwellia_marinimaniae,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8473.0,0.0003438296553973391,fdr_bh,0.0011545035177445361,True
+Streptobacillus_moniliformis,-3.2188942248307075,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8468.0,0.00035652769721587904,fdr_bh,0.0011545035177445361,True
+Lactobacillus_crustorum,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8460.0,0.0003777603422031754,fdr_bh,0.0011545035177445361,True
+Clostridium_cellulovorans,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8458.0,0.0003832501786881735,fdr_bh,0.0011660408121161431,True
+Edwardsiella_sp_EA181011,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Normally Distributed,Mann-Whitney U Test,8458.0,0.0003832501786881735,fdr_bh,0.0011660408121161431,True
+Neofamilia_massiliensis,-3.2188942248307075,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8456.0,0.00038881450856256854,fdr_bh,0.0011777009613476463,True
+Dethiosulfovibrio_peptidovorans,-3.2241424755815675,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8456.0,0.00038881450856256854,fdr_bh,0.0011777009613476463,True
+Clostridium_polysaccharolyticum,-3.218692010395868,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8455.0,0.000391624898612815,fdr_bh,0.0011835774713631743,True
+Fructobacillus_durionis,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8454.0,0.0003944542614187143,fdr_bh,0.0011868535299324147,True
+Pantoea_sp_PSNIH2,-3.252320373275312,Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8454.0,0.0003944542614187143,fdr_bh,0.0011868535299324147,True
+Streptococcus_caballi,-3.2158430695976,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8452.0,0.00040017037726191364,fdr_bh,0.0012013945101019925,True
+Desulfurella_acetivorans,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8450.0,0.000405963806610598,fdr_bh,0.0012161030330185315,True
+Dickeya_zeae,-3.2158430695976,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8448.0,0.00041183551059724606,fdr_bh,0.00123098086684012,True
+Treponema_phagedenis,-3.2188942248307075,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8444.0,0.0004238176406953813,fdr_bh,0.001264017524880962,True
+Streptococcus_equinus,-3.1993192293079282,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8443.0,0.00042686362650692824,fdr_bh,0.0012703162626902021,True
+Pantoea_ananatis,-3.218692010395868,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8441.0,0.0004330170162792071,fdr_bh,0.0012858147208290864,True
+Butyrivibrio_fibrisolvens,-3.218140623353655,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8439.0,0.0004392531398782173,fdr_bh,0.0012958444039791227,True
+Lactobacillus_camelliae,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8439.0,0.0004392531398782173,fdr_bh,0.0012958444039791227,True
+Cedecea_lapagei,-3.2188942248307075,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8439.0,0.0004392531398782173,fdr_bh,0.0012958444039791227,True
+Butyrivibrio_proteoclasticus,-3.20674670143306,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8438.0,0.00044240254559409085,fdr_bh,0.001302310523826761,True
+Selenomonas_ruminantium,-3.2158430695976,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8437.0,0.0004455730186513264,fdr_bh,0.001308810594742557,True
+Myroides_odoratimimus,-3.2188942248307075,Not Normally Distributed,-3.5614815285244834,Not Normally Distributed,Mann-Whitney U Test,8434.0,0.00045521213976612785,fdr_bh,0.0013342424786248574,True
+Obesumbacterium_proteus,-3.218140623353655,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8433.0,0.00045846818365806387,fdr_bh,0.001340896193064445,True
+Kosakonia_cowanii,-3.2188942248307075,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8432.0,0.0004617459492120859,fdr_bh,0.0013410091837438882,True
+Thermus_antranikianii,-3.2188942248307075,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8431.0,0.0004650455694557942,fdr_bh,0.0013410091837438882,True
+Thermus_brockianus,-3.2188942248307075,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8431.0,0.0004650455694557942,fdr_bh,0.0013410091837438882,True
+Lactobacillus_plantarum,-3.2241424755815675,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8430.0,0.00046836717814584326,fdr_bh,0.0013410091837438882,True
+Desulfovibrio_fairfieldensis,-3.211477340154312,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8431.0,0.0004650455694557942,fdr_bh,0.0013410091837438882,True
+Thermus_scotoductus,-3.211477340154312,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8430.0,0.00046836717814584326,fdr_bh,0.0013410091837438882,True
+Candidatus_Fokinia_solitaria,-3.252320373275312,Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8430.0,0.00046836717814584326,fdr_bh,0.0013410091837438882,True
+Lactobacillus_sp_D1501,-3.2241424755815675,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8430.0,0.00046836717814584326,fdr_bh,0.0013410091837438882,True
+Corynebacterium_urealyticum,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8430.0,0.00046836717814584326,fdr_bh,0.0013410091837438882,True
+Hyphomonas_jannaschiana,-3.252320373275312,Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8430.0,0.00046836717814584326,fdr_bh,0.0013410091837438882,True
+Bacteroides_pectinophilus,12.519507587461128,Not Normally Distributed,12.12190031769419,Normally Distributed,Mann-Whitney U Test,8429.0,0.0004717109097713487,fdr_bh,0.0013449199943166338,True
+Anaerococcus_tetradius,-3.218140623353655,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8429.0,0.0004717109097713487,fdr_bh,0.0013449199943166338,True
+Caldicoprobacter_oshimai,-3.2241424755815675,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8428.0,0.000475076899557311,fdr_bh,0.0013516832288659895,True
+Aeromonas_salmonicida,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8427.0,0.0004784652834680513,fdr_bh,0.0013528332339221409,True
+Corynebacterium_simulans,-3.2241424755815675,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8427.0,0.0004784652834680513,fdr_bh,0.0013528332339221409,True
+Candidatus_Puniceispirillum_marinum,-3.252320373275312,Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8427.0,0.0004784652834680513,fdr_bh,0.0013528332339221409,True
+Corynebacterium_massiliense,-3.252320373275312,Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8425.0,0.0004853097812384252,fdr_bh,0.001355279881897861,True
+Lactobacillus_thailandensis,-3.252320373275312,Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8425.0,0.0004853097812384252,fdr_bh,0.001355279881897861,True
+Proteus_vulgaris,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8426.0,0.0004818761982106531,fdr_bh,0.001355279881897861,True
+Enterococcus_dispar,-3.2188942248307075,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8425.0,0.0004853097812384252,fdr_bh,0.001355279881897861,True
+Lactobacillus_manihotivorans,-3.252320373275312,Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8425.0,0.0004853097812384252,fdr_bh,0.001355279881897861,True
+Lactobacillus_perolens,-3.252320373275312,Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8425.0,0.0004853097812384252,fdr_bh,0.001355279881897861,True
+Enterococcus_asini,-3.2188942248307075,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8424.0,0.0004887661707543696,fdr_bh,0.001359349677353666,True
+Streptococcus_ovis,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8424.0,0.0004887661707543696,fdr_bh,0.001359349677353666,True
+Haematospirillum_jordaniae,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8423.0,0.0004922455057146662,fdr_bh,0.0013662324240243796,True
+Thiohalospira_halophila,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8422.0,0.0004957479258321702,fdr_bh,0.0013703601201864868,True
+Dialister_pneumosintes,-2.9404916174915705,Not Normally Distributed,8.240590013238368,Normally Distributed,Mann-Whitney U Test,4750.0,0.0004957479258321702,fdr_bh,0.0013703601201864868,True
+Pseudomonas_sp_FDAARGOS_380,-3.2241424755815675,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8421.0,0.0004992735715799143,fdr_bh,0.0013773064043583845,True
+Olsenella_umbonata,-3.2241424755815675,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8420.0,0.0005028225841946318,fdr_bh,0.0013842888957585006,True
+Corynebacterium_matruchotii,-3.2241424755815675,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8419.0,0.0005063951056802905,fdr_bh,0.0013913077651014042,True
+Serratia_plymuthica,-3.2188942248307075,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8417.0,0.0005136112471377342,fdr_bh,0.0014054553241595947,True
+Actinomyces_viscosus,-3.1192790774670414,Not Normally Distributed,-3.4034055690547618,Not Normally Distributed,Mann-Whitney U Test,8417.0,0.0005136112471377342,fdr_bh,0.0014054553241595947,True
+Lelliottia_sp_WB101,-3.2241424755815675,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8416.0,0.0005172551549855785,fdr_bh,0.0014069340215607734,True
+Lactobacillus_hayakitensis,-3.2241424755815675,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8416.0,0.0005172551549855785,fdr_bh,0.0014069340215607734,True
+Enterobacter_cloacae_complex_sp,-3.0365285971332288,Not Normally Distributed,-3.3768388783081242,Not Normally Distributed,Mann-Whitney U Test,8416.0,0.0005172551549855785,fdr_bh,0.0014069340215607734,True
+Anaerococcus_provencensis,-3.2241424755815675,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8414.0,0.0005246153704654269,fdr_bh,0.001424105596473015,True
+Leuconostoc_pseudomesenteroides,-3.252320373275312,Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8413.0,0.0005283319706732034,fdr_bh,0.0014284920081820212,True
+Edwardsiella_tarda,-3.2241424755815675,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8413.0,0.0005283319706732034,fdr_bh,0.0014284920081820212,True
+Hafnia_sp_CBA7124,-3.218692010395868,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8412.0,0.0005320730955614873,fdr_bh,0.0014357527975468706,True
+Leptotrichia_sp_oral_taxon_847,-3.2241424755815675,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8411.0,0.0005358388934007479,fdr_bh,0.0014401993972826424,True
+Corynebacterium_aurimucosum,-3.2241424755815675,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8411.0,0.0005358388934007479,fdr_bh,0.0014401993972826424,True
+Kingella_oralis,-3.2241424755815675,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8410.0,0.0005396295132610291,fdr_bh,0.0014446774370767707,True
+Robinsoniella_peoriensis,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8410.0,0.0005396295132610291,fdr_bh,0.0014446774370767707,True
+Herbinix_luporum,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8409.0,0.0005434451050156102,fdr_bh,0.0014520340723403336,True
+Treponema_denticola,-3.2241424755815675,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8407.0,0.0005511518077389903,fdr_bh,0.0014668619540607179,True
+Pseudobutyrivibrio_ruminis,-3.113394061386254,Not Normally Distributed,-3.4034055690547618,Not Normally Distributed,Mann-Whitney U Test,8407.0,0.0005511518077389903,fdr_bh,0.0014668619540607179,True
+Yersinia_rohdei,-3.2188942248307075,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8406.0,0.0005550432225036035,fdr_bh,0.0014743335597751969,True
+Enterococcus_durans,-3.2188942248307075,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8405.0,0.0005589602167615449,fdr_bh,0.001478960884816539,True
+Ruminobacter_amylophilus,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8405.0,0.0005589602167615449,fdr_bh,0.001478960884816539,True
+Pseudomonas_sp_TMW_21634,-3.2188942248307075,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8403.0,0.0005668715603617789,fdr_bh,0.0014969812079456688,True
+Cellulosilyticum_ruminicola,-3.2188942248307075,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8402.0,0.0005708662200735878,fdr_bh,0.0015006649305841608,True
+Streptobacillus_hongkongensis,-3.218140623353655,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8401.0,0.0005748870800252558,fdr_bh,0.0015006649305841608,True
+Serratia_sp_MYb239,-3.252320373275312,Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8401.0,0.0005748870800252558,fdr_bh,0.0015006649305841608,True
+bacterium_A52C2,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8401.0,0.0005748870800252558,fdr_bh,0.0015006649305841608,True
+Erwinia_tasmaniensis,-3.252320373275312,Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8401.0,0.0005748870800252558,fdr_bh,0.0015006649305841608,True
+Arsenophonus_endosymbiont_of_Nilaparvata_lugens,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8401.0,0.0005748870800252558,fdr_bh,0.0015006649305841608,True
+Sneathiella_glossodoripedis,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8400.0,0.0005789342974857679,fdr_bh,0.0015083345681621539,True
+Serratia_marcescens,-3.218140623353655,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8397.0,0.0005912356802403056,fdr_bh,0.0015345048189443044,True
+Enterobacter_sp_E20,-3.0462448821548076,Not Normally Distributed,-3.3768388783081242,Not Normally Distributed,Mann-Whitney U Test,8397.0,0.0005912356802403056,fdr_bh,0.0015345048189443044,True
+Lactobacillus_crispatus,-3.1993192293079282,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8396.0,0.0005953899172927728,fdr_bh,0.001542343404796516,True
+Lactobacillus_hominis,-3.2375871806589256,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8395.0,0.0005995713108823847,fdr_bh,0.0015502224007605384,True
+Lactobacillus_frumenti,-3.2241424755815675,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8394.0,0.0006037800233782126,fdr_bh,0.0015581419958147422,True
+Ralstonia_insidiosa,-3.2241424755815675,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8390.0,0.000620891340107015,fdr_bh,0.0015992655730029174,True
+Scardovia_inopinata,-3.2188942248307075,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8385.0,0.0006429150079988456,fdr_bh,0.0016528627804885255,True
+Leptotrichia_wadei,-3.1663282973098266,Not Normally Distributed,-3.431287726967044,Not Normally Distributed,Mann-Whitney U Test,8383.0,0.0006519262182908029,fdr_bh,0.0016728672771235697,True
+Atlantibacter_hermannii,-3.2241424755815675,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8382.0,0.0006564757406420603,fdr_bh,0.0016782086602879736,True
+Campylobacter_lari,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8382.0,0.0006564757406420603,fdr_bh,0.0016782086602879736,True
+Clostridium_saccharolyticum,10.367999819239568,Not Normally Distributed,9.800998254114898,Not Normally Distributed,Mann-Whitney U Test,8380.0,0.0006656634892561025,fdr_bh,0.0016921539166136438,True
+Anaerofustis_stercorihominis,-3.0682811733214397,Not Normally Distributed,-3.4342062943873515,Not Normally Distributed,Mann-Whitney U Test,8380.0,0.0006656634892561025,fdr_bh,0.0016921539166136438,True
+Staphylococcus_aureus,-3.2375871806589256,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8380.0,0.0006656634892561025,fdr_bh,0.0016921539166136438,True
+Megasphaera_massiliensis,-3.179734872977388,Not Normally Distributed,-3.4661029791993716,Not Normally Distributed,Mann-Whitney U Test,8378.0,0.0006749706797778423,fdr_bh,0.0017030800083448342,True
+Leuconostoc_citreum,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8378.0,0.0006749706797778423,fdr_bh,0.0017030800083448342,True
+Xenorhabdus_poinarii,-3.252320373275312,Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8378.0,0.0006749706797778423,fdr_bh,0.0017030800083448342,True
+Pseudomonas_sp_HLS-6,-3.2375871806589256,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8378.0,0.0006749706797778423,fdr_bh,0.0017030800083448342,True
+Streptococcus_macacae,-3.2241424755815675,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8377.0,0.0006796695079744034,fdr_bh,0.0017117602423059048,True
+Monoglobus_pectinilyticus,10.16360758774851,Not Normally Distributed,9.612886621925481,Not Normally Distributed,Mann-Whitney U Test,8375.0,0.0006891585228113962,fdr_bh,0.0017324502606719018,True
+Pelomonas_puraquae,-3.2241424755815675,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8374.0,0.0006939490692885018,fdr_bh,0.0017380676505200044,True
+Edwardsiella_hoshinae,-3.2375871806589256,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8374.0,0.0006939490692885018,fdr_bh,0.0017380676505200044,True
+Gardnerella_vaginalis,-3.2188942248307075,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8373.0,0.0006987705499318734,fdr_bh,0.0017469263748296833,True
+Peptoniphilus_coxii,-3.1993192293079282,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8372.0,0.0007036231470201428,fdr_bh,0.0017526144321380846,True
+Streptococcus_sobrinus,-3.12872593624261,Not Normally Distributed,-3.431287726967044,Not Normally Distributed,Mann-Whitney U Test,8372.0,0.0007036231470201428,fdr_bh,0.0017526144321380846,True
+Solemya_velesiana_gill_symbiont,-3.252320373275312,Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8370.0,0.0007134224244078436,fdr_bh,0.0017545289280192899,True
+Anaerobiospirillum_succiniciproducens,-3.252320373275312,Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8370.0,0.0007134224244078436,fdr_bh,0.0017545289280192899,True
+Succinimonas_amylolytica,-3.252320373275312,Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8370.0,0.0007134224244078436,fdr_bh,0.0017545289280192899,True
+Tolumonas_auensis,-3.252320373275312,Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8370.0,0.0007134224244078436,fdr_bh,0.0017545289280192899,True
+Glaesserella_parasuis,-3.252320373275312,Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8370.0,0.0007134224244078436,fdr_bh,0.0017545289280192899,True
+Kangiella_profundi,-3.252320373275312,Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8370.0,0.0007134224244078436,fdr_bh,0.0017545289280192899,True
+Alkanindiges_illinoisensis,-3.252320373275312,Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8370.0,0.0007134224244078436,fdr_bh,0.0017545289280192899,True
+Rhodospirillum_rubrum,-3.2375871806589256,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8369.0,0.0007183694740389583,fdr_bh,0.0017603288012486187,True
+Slackia_heliotrinireducens,-3.2241424755815675,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8369.0,0.0007183694740389583,fdr_bh,0.0017603288012486187,True
+Dolosigranulum_pigrum,-3.2375871806589256,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8367.0,0.0007283593257290873,fdr_bh,0.0017815983507042422,True
+Granulicatella_balaenopterae,-3.2241424755815675,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8366.0,0.0007334025029167336,fdr_bh,0.001790713472112671,True
+Klebsiella_sp_P1CD1,-2.9493547045362902,Not Normally Distributed,-3.3548604019003587,Not Normally Distributed,Mann-Whitney U Test,8365.0,0.0007384780993768317,fdr_bh,0.0017998749375492673,True
+Citrobacter_sp_86,-3.218140623353655,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8364.0,0.0007435863051175043,fdr_bh,0.0018090829605721035,True
+Lactobacillus_murinus,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8363.0,0.0007487273111320237,fdr_bh,0.0018183377556063433,True
+Acholeplasma_brassicae,-3.2375871806589256,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8359.0,0.0007696231925130935,fdr_bh,0.0018657531939711358,True
+Proteus_mirabilis,-3.2375871806589256,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8358.0,0.0007749310995749784,fdr_bh,0.001875278105733044,True
+Cronobacter_condimenti,-3.2375871806589256,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8355.0,0.0007910594167832287,fdr_bh,0.0019109072945385278,True
+Capnocytophaga_gingivalis,-3.2375871806589256,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8354.0,0.0007965043846273717,fdr_bh,0.0019202436623488423,True
+Bifidobacterium_tsurumiense,-3.252320373275312,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8353.0,0.0008019841178045165,fdr_bh,0.0019202436623488423,True
+Lactobacillus_rossiae,-3.2375871806589256,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8353.0,0.0008019841178045165,fdr_bh,0.0019202436623488423,True
+Helicobacter_canadensis,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8353.0,0.0008019841178045165,fdr_bh,0.0019202436623488423,True
+Moraxella_catarrhalis,-3.252320373275312,Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8353.0,0.0008019841178045165,fdr_bh,0.0019202436623488423,True
+Leptospira_kirschneri,-3.211477340154312,Not Normally Distributed,-3.486803954025678,Not Normally Distributed,Mann-Whitney U Test,8352.0,0.0008074988184284735,fdr_bh,0.001926663847478463,True
+Hafnia_paralvei,-3.2188942248307075,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8352.0,0.0008074988184284735,fdr_bh,0.001926663847478463,True
+Leuconostoc_gelidum,-3.2375871806589256,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8351.0,0.0008130486896501519,fdr_bh,0.0019365082625642847,True
+Shewanella_algae,-3.252320373275312,Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8350.0,0.0008186339356619824,fdr_bh,0.001946402364511007,True
+Peptoniphilus_timonensis,-3.2375871806589256,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8348.0,0.0008299113740600073,fdr_bh,0.0019493600496055439,True
+Lonsdalea_quercina,-3.2375871806589256,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8348.0,0.0008299113740600073,fdr_bh,0.0019493600496055439,True
+Pseudomonas_otitidis,-3.252320373275312,Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8348.0,0.0008299113740600073,fdr_bh,0.0019493600496055439,True
+Streptococcus_respiraculi,-3.252320373275312,Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8349.0,0.0008242547617023459,fdr_bh,0.0019493600496055439,True
+Corynebacterium_atypicum,-3.252320373275312,Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8349.0,0.0008242547617023459,fdr_bh,0.0019493600496055439,True
+Ezakiella_massiliensis,-3.2375871806589256,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8348.0,0.0008299113740600073,fdr_bh,0.0019493600496055439,True
+Dickeya_chrysanthemi,-3.2375871806589256,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8349.0,0.0008242547617023459,fdr_bh,0.0019493600496055439,True
+Desulfuromonas_acetexigens,-3.252320373275312,Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8347.0,0.0008356039800785711,fdr_bh,0.00195597489312712,True
+Dehalogenimonas_lykanthroporepellens,-3.252320373275312,Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8347.0,0.0008356039800785711,fdr_bh,0.00195597489312712,True
+Dysgonomonas_macrotermitis,-3.252320373275312,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8346.0,0.0008413327881609577,fdr_bh,0.0019626288025710163,True
+Streptococcus_henryi,-3.2158430695976,Not Normally Distributed,-3.486803954025678,Not Normally Distributed,Mann-Whitney U Test,8346.0,0.0008413327881609577,fdr_bh,0.0019626288025710163,True
+Phytobacter_sp_SCO41,-3.1993192293079282,Not Normally Distributed,-3.486803954025678,Not Normally Distributed,Mann-Whitney U Test,8343.0,0.0008587385248040067,fdr_bh,0.0019998020440641254,True
+Aeromonas_veronii,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8341.0,0.0008705272283494643,fdr_bh,0.002020336229616504,True
+Pasteurella_multocida,-3.2375871806589256,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8341.0,0.0008705272283494643,fdr_bh,0.002020336229616504,True
+Aeromonas_sp_CU5,-3.252320373275312,Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8340.0,0.0008764776851634449,fdr_bh,0.00202378548696483,True
+Aeromonas_fluvialis,-3.252320373275312,Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8340.0,0.0008764776851634449,fdr_bh,0.00202378548696483,True
+Serratia_sp_SSNIH1,-3.2375871806589256,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8340.0,0.0008764776851634449,fdr_bh,0.00202378548696483,True
+Cedecea_neteri,-3.2375871806589256,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8339.0,0.0008824658329002837,fdr_bh,0.002023867677477885,True
+Edwardsiella_anguillarum,-3.2375871806589256,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8339.0,0.0008824658329002837,fdr_bh,0.002023867677477885,True
+Edwardsiella_sp_LADL05-105,-3.2375871806589256,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8339.0,0.0008824658329002837,fdr_bh,0.002023867677477885,True
+Edwardsiella_ictaluri,-3.2375871806589256,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8339.0,0.0008824658329002837,fdr_bh,0.002023867677477885,True
+Varibaculum_cambriense,-3.2158430695976,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8338.0,0.0008884918885997524,fdr_bh,0.002027431155194066,True
+Clostridium_cylindrosporum,-3.2375871806589256,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8338.0,0.0008884918885997524,fdr_bh,0.002027431155194066,True
+Enterococcus_sp_FDAARGOS_553,-3.218140623353655,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8338.0,0.0008884918885997524,fdr_bh,0.002027431155194066,True
+Cronobacter_muytjensii,-3.2375871806589256,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8337.0,0.0008945560704017233,fdr_bh,0.002037849674616991,True
+Stenotrophomonas_maltophilia,-3.2375871806589256,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8336.0,0.0009006585975507753,fdr_bh,0.0020483205563027666,True
+Enterococcus_faecalis,-3.141534015391345,Not Normally Distributed,-3.4661029791993716,Not Normally Distributed,Mann-Whitney U Test,8335.0,0.0009067996904007915,fdr_bh,0.0020588440383056367,True
+Bacteroides_propionicifaciens,-3.2375871806589256,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8332.0,0.0009254565834323768,fdr_bh,0.0020977015891133874,True
+Yersinia_ruckeri,-3.2375871806589256,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8331.0,0.000931754164973488,fdr_bh,0.00210146876345596,True
+Ralstonia_pickettii,-3.1663282973098266,Not Normally Distributed,-3.4661029791993716,Not Normally Distributed,Mann-Whitney U Test,8331.0,0.000931754164973488,fdr_bh,0.00210146876345596,True
+Citrobacter_rodentium,-3.2188942248307075,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8331.0,0.000931754164973488,fdr_bh,0.00210146876345596,True
+Ruminococcaceae_bacterium,-3.2188942248307075,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8330.0,0.0009380914307869917,fdr_bh,0.002112258850778657,True
+Effusibacillus_pohliae,-3.2375871806589256,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8326.0,0.0009638418960692733,fdr_bh,0.0021559621359444267,True
+Corynebacterium_argentoratense,-3.218692010395868,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8326.0,0.0009638418960692733,fdr_bh,0.0021559621359444267,True
+Lactobacillus_acidipiscis,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8326.0,0.0009638418960692733,fdr_bh,0.0021559621359444267,True
+Lactobacillus_pontis,-3.2375871806589256,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8326.0,0.0009638418960692733,fdr_bh,0.0021559621359444267,True
+Escherichia_albertii,-3.20674670143306,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8325.0,0.000970381012764732,fdr_bh,0.002167024921773457,True
+Olsenella_profusa,-3.1993192293079282,Not Normally Distributed,-3.4661029791993716,Not Normally Distributed,Mann-Whitney U Test,8324.0,0.000976961193600491,fdr_bh,0.0021745781068685235,True
+Colibacter_massiliensis,-3.2158430695976,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8324.0,0.000976961193600491,fdr_bh,0.0021745781068685235,True
+Allofustis_seminis,-3.2375871806589256,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8323.0,0.0009835826726066444,fdr_bh,0.0021786196005619484,True
+Prevotella_aff_ruminicola_Tc2-24,-3.037528121824888,Not Normally Distributed,-3.368811586124618,Not Normally Distributed,Mann-Whitney U Test,8323.0,0.0009835826726066444,fdr_bh,0.0021786196005619484,True
+Sodalis_praecaptivus,-3.2375871806589256,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8323.0,0.0009835826726066444,fdr_bh,0.0021786196005619484,True
+Clostridium_kluyveri,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8321.0,0.0009969504671075867,fdr_bh,0.0022046384313273463,True
+Streptococcus_criceti,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8320.0,0.0010036972565340356,fdr_bh,0.0022123634827978743,True
+Lactobacillus_johnsonii,-3.2188942248307075,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8320.0,0.0010036972565340356,fdr_bh,0.0022123634827978743,True
+Eubacterium_ruminantium,-3.1192790774670414,Not Normally Distributed,-3.4034055690547618,Not Normally Distributed,Mann-Whitney U Test,8319.0,0.0010104862920038244,fdr_bh,0.002223723878843368,True
+Corynebacterium_striatum,-3.252320373275312,Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8317.0,0.0010241920619897787,fdr_bh,0.0022502442718999984,True
+Helicobacter_pylori,-3.2375871806589256,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8316.0,0.001031109279955389,fdr_bh,0.0022617880979666598,True
+Lactobacillus_vaginalis,-3.2158430695976,Not Normally Distributed,-3.486803954025678,Not Normally Distributed,Mann-Whitney U Test,8315.0,0.0010380697108729568,fdr_bh,0.002266091182644015,True
+Xylella_fastidiosa,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8315.0,0.0010380697108729568,fdr_bh,0.002266091182644015,True
+Eubacterium_yurii,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8315.0,0.0010380697108729568,fdr_bh,0.002266091182644015,True
+Trabulsiella_odontotermitis,-3.2188942248307075,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8314.0,0.001045073599480392,fdr_bh,0.002277724511688034,True
+Enterobacter_sp_HK169,-3.108746401711455,Not Normally Distributed,-3.387593942714151,Not Normally Distributed,Mann-Whitney U Test,8313.0,0.0010521211917296812,fdr_bh,0.0022894157132037863,True
+Bifidobacterium_gallicum,-3.2188942248307075,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8311.0,0.0010663484770616711,fdr_bh,0.0023166676178975605,True
+Arcobacter_butzleri,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8306.0,0.0011026989566464277,fdr_bh,0.0023406868903596695,True
+Lonsdalea_britannica,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8305.0,0.001110105179619108,fdr_bh,0.0023406868903596695,True
+Pseudomonas_putida,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8305.0,0.001110105179619108,fdr_bh,0.0023406868903596695,True
+Lactobacillus_equicursoris,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8305.0,0.001110105179619108,fdr_bh,0.0023406868903596695,True
+Bifidobacterium_callitrichos,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8308.0,0.0010880234015293283,fdr_bh,0.0023406868903596695,True
+Yersinia_frederiksenii,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8305.0,0.001110105179619108,fdr_bh,0.0023406868903596695,True
+Bacillus_subtilis,-2.9414849544032116,Not Normally Distributed,-3.378691488250526,Not Normally Distributed,Mann-Whitney U Test,8305.0,0.001110105179619108,fdr_bh,0.0023406868903596695,True
+Pseudomonas_sp_JY-Q,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8305.0,0.001110105179619108,fdr_bh,0.0023406868903596695,True
+Leminorella_richardii,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8305.0,0.001110105179619108,fdr_bh,0.0023406868903596695,True
+Pseudovibrio_stylochi,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8305.0,0.001110105179619108,fdr_bh,0.0023406868903596695,True
+Moraxella_porci,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8305.0,0.001110105179619108,fdr_bh,0.0023406868903596695,True
+Serratia_sp_ATCC_39006,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8305.0,0.001110105179619108,fdr_bh,0.0023406868903596695,True
+Dickeya_sp_MK7,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8305.0,0.001110105179619108,fdr_bh,0.0023406868903596695,True
+Enterobacter_ludwigii,-3.010472407214589,Not Normally Distributed,-3.3548604019003587,Not Normally Distributed,Mann-Whitney U Test,8309.0,0.001080753558953473,fdr_bh,0.0023406868903596695,True
+Citrobacter_sp_CRE-46,-3.1192790774670414,Not Normally Distributed,-3.387593942714151,Not Normally Distributed,Mann-Whitney U Test,8305.0,0.001110105179619108,fdr_bh,0.0023406868903596695,True
+Mannheimia_haemolytica,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8305.0,0.001110105179619108,fdr_bh,0.0023406868903596695,True
+Erwinia_sp_Ejp617,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8305.0,0.001110105179619108,fdr_bh,0.0023406868903596695,True
+Aeromonas_eucrenophila,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8305.0,0.001110105179619108,fdr_bh,0.0023406868903596695,True
+Megasphaera_cerevisiae,-3.1904496083845473,Not Normally Distributed,-3.4661029791993716,Not Normally Distributed,Mann-Whitney U Test,8306.0,0.0011026989566464277,fdr_bh,0.0023406868903596695,True
+Ruminococcaceae_bacterium_CPB6,-3.211477340154312,Not Normally Distributed,-3.486803954025678,Not Normally Distributed,Mann-Whitney U Test,8303.0,0.0011250558019045335,fdr_bh,0.002368538530325334,True
+Actinomyces_timonensis,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8301.0,0.001140192388093615,fdr_bh,0.0023966949734270733,True
+Fastidiosipila_sanguinis,-3.218692010395868,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8299.0,0.0011555170305753927,fdr_bh,0.0024251591999730465,True
+Klebsiella_sp_M5al,-3.0682811733214397,Not Normally Distributed,-3.3817268058720114,Not Normally Distributed,Mann-Whitney U Test,8298.0,0.0011632505324108752,fdr_bh,0.002437628234327874,True
+Klebsiella_sp_LTGPAF-6F,-3.1192790774670414,Not Normally Distributed,-3.4034055690547618,Not Normally Distributed,Mann-Whitney U Test,8296.0,0.0011788612275474817,fdr_bh,0.002466540414560885,True
+Lactobacillus_brevis,-3.2241424755815675,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8295.0,0.0011867389568603727,fdr_bh,0.0024716155916234407,True
+Weissella_cibaria,-3.218140623353655,Not Normally Distributed,-3.486803954025678,Not Normally Distributed,Mann-Whitney U Test,8295.0,0.0011867389568603727,fdr_bh,0.0024716155916234407,True
+Enterobacteriaceae_bacterium_strain_FGI_57,-3.2188942248307075,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8295.0,0.0011867389568603727,fdr_bh,0.0024716155916234407,True
+Intestinibaculum_porci,-3.105823689672837,Not Normally Distributed,-3.4034055690547618,Not Normally Distributed,Mann-Whitney U Test,8294.0,0.0011946653001901422,fdr_bh,0.0024843192786828646,True
+Cutibacterium_avidum,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8293.0,0.0012026405288193685,fdr_bh,0.0024970856781592996,True
+Mycoplasma_alvi,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8288.0,0.0012432595390366508,fdr_bh,0.0025198703026674293,True
+Kangiella_geojedonensis,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8288.0,0.0012432595390366508,fdr_bh,0.0025198703026674293,True
+Mycoplasma_sp_(ex_Biomphalaria_glabrata),-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8288.0,0.0012432595390366508,fdr_bh,0.0025198703026674293,True
+Mycoplasma_pirum,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8288.0,0.0012432595390366508,fdr_bh,0.0025198703026674293,True
+Bibersteinia_trehalosi,-3.2375871806589256,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8288.0,0.0012432595390366508,fdr_bh,0.0025198703026674293,True
+Mycoplasma_agassizii,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8288.0,0.0012432595390366508,fdr_bh,0.0025198703026674293,True
+Selenomonas_bovis,-3.1743244289312784,Not Normally Distributed,-3.4034055690547618,Not Normally Distributed,Mann-Whitney U Test,8288.0,0.0012432595390366508,fdr_bh,0.0025198703026674293,True
+Treponema_socranskii,-3.2241424755815675,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8291.0,0.0012187387337115778,fdr_bh,0.0025198703026674293,True
+Peptoniphilus_sp_ING2-D1G,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8288.0,0.0012432595390366508,fdr_bh,0.0025198703026674293,True
+Acholeplasma_modicum,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8288.0,0.0012432595390366508,fdr_bh,0.0025198703026674293,True
+Lysinibacillus_timonensis,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8288.0,0.0012432595390366508,fdr_bh,0.0025198703026674293,True
+Enterococcus_wangshanyuanii,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8288.0,0.0012432595390366508,fdr_bh,0.0025198703026674293,True
+Acholeplasma_axanthum,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8288.0,0.0012432595390366508,fdr_bh,0.0025198703026674293,True
+Staphylococcus_muscae,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8288.0,0.0012432595390366508,fdr_bh,0.0025198703026674293,True
+Candidatus_Izimaplasma_sp_HR1,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8288.0,0.0012432595390366508,fdr_bh,0.0025198703026674293,True
+Mesoplasma_chauliocola,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8288.0,0.0012432595390366508,fdr_bh,0.0025198703026674293,True
+Parabacteroides_chartae,-3.2188942248307075,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8285.0,0.0012682352205363693,fdr_bh,0.0025628527487807757,True
+Erwinia_oleae,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8285.0,0.0012682352205363693,fdr_bh,0.0025628527487807757,True
+Allobaculum_stercoricanis,-3.2241424755815675,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8284.0,0.0012766628440895962,fdr_bh,0.002574228736020379,True
+Winkia_neuii,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8281.0,0.00130225688998678,fdr_bh,0.002574228736020379,True
+Asaia_astilbis,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8281.0,0.00130225688998678,fdr_bh,0.002574228736020379,True
+Dickeya_dianthicola,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8282.0,0.0012936733920363758,fdr_bh,0.002574228736020379,True
+Actinobaculum_massiliense,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8281.0,0.00130225688998678,fdr_bh,0.002574228736020379,True
+Mobiluncus_mulieris,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8281.0,0.00130225688998678,fdr_bh,0.002574228736020379,True
+Methyloversatilis_universalis,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8281.0,0.00130225688998678,fdr_bh,0.002574228736020379,True
+Roseburia_intestinalis,13.314513582675122,Not Normally Distributed,12.736219245355159,Normally Distributed,Mann-Whitney U Test,8283.0,0.0012851421392264088,fdr_bh,0.002574228736020379,True
+Lactobacillus_panis,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8282.0,0.0012936733920363758,fdr_bh,0.002574228736020379,True
+Trueperella_bernardiae,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8281.0,0.00130225688998678,fdr_bh,0.002574228736020379,True
+Moraxella_nonliquefaciens,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8281.0,0.00130225688998678,fdr_bh,0.002574228736020379,True
+Capnocytophaga_sp_oral_taxon_864,-3.252320373275312,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8283.0,0.0012851421392264088,fdr_bh,0.002574228736020379,True
+Pantoea_septica,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8282.0,0.0012936733920363758,fdr_bh,0.002574228736020379,True
+Pasteurella_bettyae,-3.050327597547213,Not Normally Distributed,-3.3817268058720114,Not Normally Distributed,Mann-Whitney U Test,8281.0,0.00130225688998678,fdr_bh,0.002574228736020379,True
+Capnocytophaga_cynodegmi,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8281.0,0.00130225688998678,fdr_bh,0.002574228736020379,True
+Treponema_berlinense,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8280.0,0.0013108929219279306,fdr_bh,0.0025837889475680952,True
+Neisseria_cinerea,-3.211477340154312,Not Normally Distributed,-3.486803954025678,Not Normally Distributed,Mann-Whitney U Test,8280.0,0.0013108929219279306,fdr_bh,0.0025837889475680952,True
+Shigella_flexneri,-3.050327597547213,Not Normally Distributed,-3.3768388783081242,Not Normally Distributed,Mann-Whitney U Test,8278.0,0.0013283237501309194,fdr_bh,0.0026143564401997837,True
+Turicimonas_muris,-3.1655791626023895,Not Normally Distributed,-3.46807376026476,Not Normally Distributed,Mann-Whitney U Test,8274.0,0.0013638286786077016,fdr_bh,0.0026803569406162924,True
+Chryseobacterium_gallinarum,-3.179734872977388,Not Normally Distributed,-3.4661029791993716,Not Normally Distributed,Mann-Whitney U Test,8273.0,0.0013728406535915341,fdr_bh,0.002694175020035334,True
+Enterobacter_sp_ODB01,-3.0787114530780624,Not Normally Distributed,-3.3817268058720114,Not Normally Distributed,Mann-Whitney U Test,8271.0,0.0013910295907750582,fdr_bh,0.002722014738782848,True
+Burkholderiales_bacterium_YL45,-3.1655791626023895,Not Normally Distributed,-3.46807376026476,Not Normally Distributed,Mann-Whitney U Test,8271.0,0.0013910295907750582,fdr_bh,0.002722014738782848,True
+Bifidobacterium_stellenboschense,-3.095785251947289,Not Normally Distributed,-3.387593942714151,Not Normally Distributed,Mann-Whitney U Test,8270.0,0.0014002071574903015,fdr_bh,0.0027360369744063363,True
+Erwinia_tracheiphila,-3.223995114585719,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8268.0,0.0014187300092666846,fdr_bh,0.0027682536766179214,True
+Bifidobacterium_subtile,-3.218692010395868,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8266.0,0.001437478531887393,fdr_bh,0.0027968108774919236,True
+Streptococcus_equi,-3.2241424755815675,Not Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8266.0,0.001437478531887393,fdr_bh,0.0027968108774919236,True
+Peptococcus_niger,-3.2241424755815675,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8265.0,0.0014469381926289107,fdr_bh,0.002811194202821884,True
+Eubacterium_oxidoreducens,-2.4849450247819806,Normally Distributed,-3.2135272057109283,Not Normally Distributed,Mann-Whitney U Test,8261.0,0.0014853534557101357,fdr_bh,0.002881712838467596,True
+Enterorhabdus_caecimuris,-2.922099169545996,Not Normally Distributed,-3.3119522246511597,Not Normally Distributed,Mann-Whitney U Test,8260.0,0.00149510300358533,fdr_bh,0.0028964958474017788,True
+Actinomyces_gerencseriae,-3.211477340154312,Not Normally Distributed,-3.4661029791993716,Not Normally Distributed,Mann-Whitney U Test,8256.0,0.0015346936980416767,fdr_bh,0.0029689664713181793,True
+Citrobacter_freundii_complex_sp_CFNIH2,-3.1993192293079282,Not Normally Distributed,-3.486803954025678,Not Normally Distributed,Mann-Whitney U Test,8251.0,0.0015855395307945962,fdr_bh,0.0030629740935804698,True
+Haemophilus_aegyptius,-3.1904496083845473,Not Normally Distributed,-3.431287726967044,Not Normally Distributed,Mann-Whitney U Test,8250.0,0.0015958929790638528,fdr_bh,0.003074241432757563,True
+Cetobacterium_somerae,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8250.0,0.0015958929790638528,fdr_bh,0.003074241432757563,True
+Anaerococcus_mediterraneensis,-3.2241424755815675,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8246.0,0.0016379321795626817,fdr_bh,0.0031463104014198403,True
+Providencia_rustigianii,-3.252320373275312,Not Normally Distributed,-3.5697487626675315,Not Normally Distributed,Mann-Whitney U Test,8246.0,0.0016379321795626817,fdr_bh,0.0031463104014198403,True
+Tropheryma_whipplei,-3.2375871806589256,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8245.0,0.0016486000232779924,fdr_bh,0.0031623357287137795,True
+Propionimicrobium_sp_Marseille-P3275,-3.211477340154312,Not Normally Distributed,-3.486803954025678,Not Normally Distributed,Mann-Whitney U Test,8244.0,0.001659331766639757,fdr_bh,0.003173967936188565,True
+Serratia_sp_P2ACOL2,-3.2241424755815675,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8244.0,0.001659331766639757,fdr_bh,0.003173967936188565,True
+Enterobacter_cloacae_complex_sp_FDA-CDC-AR_0132,-3.0787114530780624,Not Normally Distributed,-3.3768388783081242,Not Normally Distributed,Mann-Whitney U Test,8241.0,0.001691913841375366,fdr_bh,0.003231745539705755,True
+Peptoniphilus_harei,-3.1836515390750915,Not Normally Distributed,-3.486803954025678,Not Normally Distributed,Mann-Whitney U Test,8238.0,0.0017250834885691553,fdr_bh,0.0032904818295288233,True
+Fusobacterium_gonidiaformans,-3.2375871806589256,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8235.0,0.0017588502099493226,fdr_bh,0.0033501908760939477,True
+Corynebacterium_pseudodiphtheriticum,-3.2241424755815675,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8234.0,0.0017702401281526987,fdr_bh,0.0033671700339687693,True
+Necropsobacter_massiliensis,-3.218692010395868,Not Normally Distributed,-3.486803954025678,Not Normally Distributed,Mann-Whitney U Test,8230.0,0.001816481136446445,fdr_bh,0.00345029936531727,True
+Peptostreptococcaceae_bacterium_oral_taxon_929,-3.1622668000097534,Not Normally Distributed,-3.4034055690547618,Not Normally Distributed,Mann-Whitney U Test,8227.0,0.0018518875168532316,fdr_bh,0.003512645778131653,True
+Negativicoccus_massiliensis,-3.2241424755815675,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8224.0,0.0018879269512513288,fdr_bh,0.0035760176235401214,True
+Kallipyga_gabonensis,-3.2375871806589256,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8218.0,0.001961945640607113,fdr_bh,0.0037110515594237464,True
+Yersinia_enterocolitica,-3.218140623353655,Not Normally Distributed,-3.486803954025678,Not Normally Distributed,Mann-Whitney U Test,8217.0,0.0019745380043066575,fdr_bh,0.0037296828970236865,True
+Mobilibacterium_timonense,-3.2375871806589256,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8210.0,0.0020647827624466473,fdr_bh,0.00389473586259007,True
+Enterobacteriaceae_bacterium_ENNIH1,-3.2241424755815675,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8208.0,0.0020912532997758274,fdr_bh,0.003939202891544495,True
+Citrobacter_freundii,-2.9777984198368195,Not Normally Distributed,-3.340764039436026,Not Normally Distributed,Mann-Whitney U Test,8207.0,0.0021046049623384454,fdr_bh,0.003958869638700257,True
+Peptoniphilus_obesi,-3.2375871806589256,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8206.0,0.002118034762664437,fdr_bh,0.003978628835944246,True
+Fenollaria_massiliensis,-3.1663282973098266,Not Normally Distributed,-3.4034055690547618,Not Normally Distributed,Mann-Whitney U Test,8205.0,0.002131543109396391,fdr_bh,0.003998480867281506,True
+Caecibacter_massiliensis,-3.0462448821548076,Not Normally Distributed,-3.3548604019003587,Not Normally Distributed,Mann-Whitney U Test,8202.0,0.002172543541831395,fdr_bh,0.0040697785356621176,True
+Bacteroides_luti,-3.211477340154312,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8199.0,0.002214265778739711,fdr_bh,0.004142230342621743,True
+Treponema_succinifaciens,-3.211477340154312,Not Normally Distributed,-3.4661029791993716,Not Normally Distributed,Mann-Whitney U Test,8197.0,0.0022424871953367477,fdr_bh,0.004189261793486232,True
+Pseudoramibacter_alactolyticus,-3.218692010395868,Not Normally Distributed,-3.486803954025678,Not Normally Distributed,Mann-Whitney U Test,8196.0,0.0022567211514357708,fdr_bh,0.004204302419113217,True
+Paraclostridium_bifermentans,-3.218140623353655,Not Normally Distributed,-3.486803954025678,Not Normally Distributed,Mann-Whitney U Test,8196.0,0.0022567211514357708,fdr_bh,0.004204302419113217,True
+Desulfobulbus_oralis,-3.218692010395868,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8194.0,0.002285437694991543,fdr_bh,0.00425197710696101,True
+Desulfovibrio_cuneatus,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8192.0,0.002314488616723606,fdr_bh,0.004300142785169542,True
+Shigella_dysenteriae,-3.050327597547213,Not Normally Distributed,-3.3768388783081242,Not Normally Distributed,Mann-Whitney U Test,8187.0,0.0023886016742147072,fdr_bh,0.004431784825282403,True
+Butyrivibrio_crossotus,11.481937873838714,Not Normally Distributed,11.01530388496366,Normally Distributed,Mann-Whitney U Test,8186.0,0.002403682506289444,fdr_bh,0.0044536896574300325,True
+Dialister_micraerophilus,-3.1743244289312784,Not Normally Distributed,-3.4034055690547618,Not Normally Distributed,Mann-Whitney U Test,8185.0,0.002418850448703385,fdr_bh,0.004475696068349121,True
+Brachyspira_hyodysenteriae,-3.2158430695976,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8184.0,0.002434105949692438,fdr_bh,0.004485615300246228,True
+Tetrasphaera_japonica,-3.2375871806589256,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8184.0,0.002434105949692438,fdr_bh,0.004485615300246228,True
+Bacillus_acidiproducens,-3.1743244289312784,Not Normally Distributed,-3.450017920727962,Not Normally Distributed,Mann-Whitney U Test,8184.0,0.002434105949692438,fdr_bh,0.004485615300246228,True
+Enterobacter_roggenkampii,-3.0365285971332288,Not Normally Distributed,-3.3548604019003587,Not Normally Distributed,Mann-Whitney U Test,8183.0,0.0024494494594476087,fdr_bh,0.004495615742036097,True
+Peptoniphilus_rhinitidis,-3.2375871806589256,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8183.0,0.0024494494594476087,fdr_bh,0.004495615742036097,True
+Leptospira_broomii,-3.2375871806589256,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8183.0,0.0024494494594476087,fdr_bh,0.004495615742036097,True
+Anaerococcus_prevotii,-3.2375871806589256,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8178.0,0.0025275030340647492,fdr_bh,0.004620166836462445,True
+Anaerococcus_pacaensis,-3.2375871806589256,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8178.0,0.0025275030340647492,fdr_bh,0.004620166836462445,True
+Geobacter_sulfurreducens,-3.252320373275312,Normally Distributed,-3.538902065932767,Not Normally Distributed,Mann-Whitney U Test,8178.0,0.0025275030340647492,fdr_bh,0.004620166836462445,True
+Dehalococcoides_mccartyi,-3.2188942248307075,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8175.0,0.0025754205262517606,fdr_bh,0.004701438813023348,True
+Peptostreptococcus_anaerobius,-2.7512182250855517,Not Normally Distributed,8.270922133037777,Normally Distributed,Mann-Whitney U Test,4999.0,0.0026078254918982676,fdr_bh,0.004747848285115989,True
+Lactobacillus_sakei,-3.2241424755815675,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8173.0,0.0026078254918982676,fdr_bh,0.004747848285115989,True
+Coprobacter_fastidiosus,11.079061380564038,Not Normally Distributed,10.190865636802307,Not Normally Distributed,Mann-Whitney U Test,8167.0,0.002707289841164013,fdr_bh,0.004909218911977409,True
+Romboutsia_lituseburensis,-3.218140623353655,Not Normally Distributed,-3.486803954025678,Not Normally Distributed,Mann-Whitney U Test,8167.0,0.002707289841164013,fdr_bh,0.004909218911977409,True
+Bifidobacterium_pseudolongum,-3.2188942248307075,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8167.0,0.002707289841164013,fdr_bh,0.004909218911977409,True
+Streptococcus_infantarius,-2.9493547045362902,Not Normally Distributed,-3.340764039436026,Not Normally Distributed,Mann-Whitney U Test,8165.0,0.002741207222339663,fdr_bh,0.004957502423380241,True
+Enterobacter_cloacae_complex_sp_FDA-CDC-AR_0164,-3.105823689672837,Not Normally Distributed,-3.3768388783081242,Not Normally Distributed,Mann-Whitney U Test,8165.0,0.002741207222339663,fdr_bh,0.004957502423380241,True
+Lactobacillus_antri,-3.1904496083845473,Not Normally Distributed,-3.431287726967044,Not Normally Distributed,Mann-Whitney U Test,8161.0,0.0028102092337037154,fdr_bh,0.00507554390151003,True
+Leuconostoc_lactis,-3.211477340154312,Not Normally Distributed,-3.4661029791993716,Not Normally Distributed,Mann-Whitney U Test,8154.0,0.0029347904988172367,fdr_bh,0.00529352132412658,True
+Klebsiella_michiganensis,-3.0462448821548076,Not Normally Distributed,-3.3768388783081242,Not Normally Distributed,Mann-Whitney U Test,8153.0,0.002952993571712906,fdr_bh,0.005319299678847088,True
+Desulfotomaculum_guttoideum,-3.1743244289312784,Not Normally Distributed,-3.4034055690547618,Not Normally Distributed,Mann-Whitney U Test,8152.0,0.002971299614305835,fdr_bh,0.0053451950733544125,True
+Tissierella_praeacuta,-3.252320373275312,Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8150.0,0.0030082226754747044,fdr_bh,0.005404468743257064,True
+Enterobacter_sp_FY-07,-3.2158430695976,Not Normally Distributed,-3.486803954025678,Not Normally Distributed,Mann-Whitney U Test,8147.0,0.00306439251514649,fdr_bh,0.005498118496832753,True
+Treponema_maltophilum,-3.218692010395868,Not Normally Distributed,-3.486803954025678,Not Normally Distributed,Mann-Whitney U Test,8145.0,0.0031023686974504558,fdr_bh,0.005551607142806079,True
+Anaerocolumna_aminovalerica,-3.218140623353655,Not Normally Distributed,-3.4661029791993716,Not Normally Distributed,Mann-Whitney U Test,8145.0,0.0031023686974504558,fdr_bh,0.005551607142806079,True
+Clostridium_lundense,-3.20674670143306,Not Normally Distributed,-3.4661029791993716,Not Normally Distributed,Mann-Whitney U Test,8142.0,0.0031601380129537902,fdr_bh,0.005632749276038211,True
+Porphyromonas_gingivicanis,-3.252320373275312,Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8142.0,0.0031601380129537902,fdr_bh,0.005632749276038211,True
+Gemella_bergeri,-3.252320373275312,Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8142.0,0.0031601380129537902,fdr_bh,0.005632749276038211,True
+Actinobacillus_porcitonsillarum,-3.2375871806589256,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8133.0,0.0033393783125550383,fdr_bh,0.0059444430694697015,True
+Quasibacillus_thermotolerans,-3.1993192293079282,Not Normally Distributed,-3.450017920727962,Not Normally Distributed,Mann-Whitney U Test,8131.0,0.0033804461092274323,fdr_bh,0.00600968197195988,True
+Neisseria_sicca,-3.211477340154312,Not Normally Distributed,-3.431287726967044,Not Normally Distributed,Mann-Whitney U Test,8130.0,0.003401151982023169,fdr_bh,0.0060385988192578465,True
+Megasphaera_hexanoica,-3.0540100205921625,Not Normally Distributed,-3.362887694083865,Not Normally Distributed,Mann-Whitney U Test,8129.0,0.003421973257660549,fdr_bh,0.006059744310440556,True
+Bifidobacterium_scardovii,-3.12872593624261,Not Normally Distributed,-3.387593942714151,Not Normally Distributed,Mann-Whitney U Test,8129.0,0.003421973257660549,fdr_bh,0.006059744310440556,True
+Clostridium_merdae,-3.218140623353655,Not Normally Distributed,-3.486803954025678,Not Normally Distributed,Mann-Whitney U Test,8126.0,0.0034851351912301935,fdr_bh,0.0061635680885215385,True
+Neisseria_elongata,-3.211477340154312,Not Normally Distributed,-3.450017920727962,Not Normally Distributed,Mann-Whitney U Test,8123.0,0.003549356330953819,fdr_bh,0.006268993000126226,True
+Selenomonas_artemidis,-3.2375871806589256,Not Normally Distributed,-3.486803954025678,Not Normally Distributed,Mann-Whitney U Test,8121.0,0.003592766590727383,fdr_bh,0.006337435231373854,True
+Phocaeicola_abscessus,-3.218140623353655,Not Normally Distributed,-3.4661029791993716,Not Normally Distributed,Mann-Whitney U Test,8120.0,0.0036146523232544964,fdr_bh,0.006367781294852481,True
+Salmonella_bongori,-3.2188942248307075,Not Normally Distributed,-3.486803954025678,Not Normally Distributed,Mann-Whitney U Test,8118.0,0.0036587879384297143,fdr_bh,0.006437194820523171,True
+Corynebacterium_segmentosum,-3.252320373275312,Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8117.0,0.0036810390061762285,fdr_bh,0.006459629739870543,True
+Peptoniphilus_urinimassiliensis,-3.218140623353655,Not Normally Distributed,-3.4661029791993716,Not Normally Distributed,Mann-Whitney U Test,8117.0,0.0036810390061762285,fdr_bh,0.006459629739870543,True
+Clostridium_hiranonis,-3.20674670143306,Not Normally Distributed,-3.4661029791993716,Not Normally Distributed,Mann-Whitney U Test,8112.0,0.00379415086468265,fdr_bh,0.006649542752536604,True
+Urmitella_timonensis,-3.20674670143306,Not Normally Distributed,-3.4661029791993716,Not Normally Distributed,Mann-Whitney U Test,8110.0,0.003840273258610755,fdr_bh,0.006721713811725389,True
+Mobiluncus_curtisii,-3.218692010395868,Not Normally Distributed,-3.486803954025678,Not Normally Distributed,Mann-Whitney U Test,8109.0,0.0038635249614284144,fdr_bh,0.0067450499968455,True
+Streptococcus_pseudoporcinus,-3.2188942248307075,Not Normally Distributed,-3.486803954025678,Not Normally Distributed,Mann-Whitney U Test,8109.0,0.0038635249614284144,fdr_bh,0.0067450499968455,True
+Streptobacillus_notomytis,-3.2241424755815675,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8108.0,0.003886904488114517,fdr_bh,0.006777166799789415,True
+Leuconostoc_garlicum,-3.218140623353655,Not Normally Distributed,-3.4661029791993716,Not Normally Distributed,Mann-Whitney U Test,8104.0,0.0039817132315850875,fdr_bh,0.006933585140788373,True
+Megasphaera_genomosp_type_1,-3.105823689672837,Not Normally Distributed,-3.3817268058720114,Not Normally Distributed,Mann-Whitney U Test,8101.0,0.004054192471173971,fdr_bh,0.007050769515085168,True
+Streptococcus_macedonicus,-3.1622668000097534,Not Normally Distributed,-3.4034055690547618,Not Normally Distributed,Mann-Whitney U Test,8100.0,0.004078617046738966,fdr_bh,0.0070841879739016525,True
+Leclercia_sp_W17,-3.218140623353655,Not Normally Distributed,-3.4661029791993716,Not Normally Distributed,Mann-Whitney U Test,8098.0,0.0041278672655598704,fdr_bh,0.007151464307212006,True
+Klebsiella_variicola,-2.9388836019538225,Not Normally Distributed,-3.3119522246511597,Not Normally Distributed,Mann-Whitney U Test,8098.0,0.0041278672655598704,fdr_bh,0.007151464307212006,True
+Streptococcus_sp_KCOM_2412,-2.6945137793242466,Not Normally Distributed,8.587687447963457,Normally Distributed,Mann-Whitney U Test,5075.0,0.004152694192357397,fdr_bh,0.007185323284486082,True
+Alkalibacter_saccharofermentans,-3.218692010395868,Not Normally Distributed,-3.4661029791993716,Not Normally Distributed,Mann-Whitney U Test,8094.0,0.0042279899968094975,fdr_bh,0.007297038573173751,True
+Propionibacterium_acidifaciens,-3.2241424755815675,Not Normally Distributed,-3.486803954025678,Not Normally Distributed,Mann-Whitney U Test,8094.0,0.0042279899968094975,fdr_bh,0.007297038573173751,True
+Actinomyces_dentalis,-3.1836515390750915,Not Normally Distributed,-3.4034055690547618,Not Normally Distributed,Mann-Whitney U Test,8092.0,0.004278872899558173,fdr_bh,0.00737549701318012,True
+Paeniclostridium_sordellii,-3.1836515390750915,Not Normally Distributed,-3.4034055690547618,Not Normally Distributed,Mann-Whitney U Test,8091.0,0.004304522028230745,fdr_bh,0.007410316403030142,True
+Porphyromonas_cangingivalis,-3.2241424755815675,Not Normally Distributed,-3.486803954025678,Not Normally Distributed,Mann-Whitney U Test,8089.0,0.004356238944844684,fdr_bh,0.007489867212375184,True
+Citrobacter_sp_CFNIH10,-3.1743244289312784,Not Normally Distributed,-3.4034055690547618,Not Normally Distributed,Mann-Whitney U Test,8088.0,0.004382308062411641,fdr_bh,0.0075251754607068575,True
+Pluralibacter_gergoviae,-3.2158430695976,Not Normally Distributed,-3.4661029791993716,Not Normally Distributed,Mann-Whitney U Test,8085.0,0.004461366084461244,fdr_bh,0.007651270964523697,True
+Campylobacter_coli,-3.2158430695976,Not Normally Distributed,-3.4661029791993716,Not Normally Distributed,Mann-Whitney U Test,8084.0,0.004488004561342396,fdr_bh,0.007687262220939115,True
+Campylobacter_ureolyticus,-3.2188942248307075,Not Normally Distributed,-3.486803954025678,Not Normally Distributed,Mann-Whitney U Test,8077.0,0.0046785451386175785,fdr_bh,0.00800354891637724,True
+Arcobacter_lekithochrous,-3.2375871806589256,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8076.0,0.0047063551036215885,fdr_bh,0.008041008719755478,True
+Erwinia_teleogrylli,-3.2158430695976,Not Normally Distributed,-3.4661029791993716,Not Normally Distributed,Mann-Whitney U Test,8075.0,0.0047343146284736055,fdr_bh,0.008078629729892225,True
+Klebsiella_quasivariicola,-3.060692144038068,Not Normally Distributed,-3.368811586124618,Not Normally Distributed,Mann-Whitney U Test,8065.0,0.00502229168962557,fdr_bh,0.00855929410763255,True
+Aeromonas_dhakensis,-3.252320373275312,Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8063.0,0.005081753233619657,fdr_bh,0.008638980497153417,True
+Campylobacter_jejuni,-3.148709586153581,Not Normally Distributed,-3.4034055690547618,Not Normally Distributed,Mann-Whitney U Test,8063.0,0.005081753233619657,fdr_bh,0.008638980497153417,True
+Morganella_morganii,-3.218692010395868,Not Normally Distributed,-3.46807376026476,Not Normally Distributed,Mann-Whitney U Test,8062.0,0.005111722006002099,fdr_bh,0.008679078562001067,True
+Actinomyces_israelii,-3.218692010395868,Not Normally Distributed,-3.4661029791993716,Not Normally Distributed,Mann-Whitney U Test,8061.0,0.00514185042924944,fdr_bh,0.008719347361320745,True
+Klebsiella_sp_FDAARGOS_511,-3.113394061386254,Not Normally Distributed,-3.3817268058720114,Not Normally Distributed,Mann-Whitney U Test,8058.0,0.005233201032451688,fdr_bh,0.008863204737402609,True
+Lactobacillus_fermentum,-3.12872593624261,Not Normally Distributed,-3.399391042155024,Not Normally Distributed,Mann-Whitney U Test,8049.0,0.005516116962182155,fdr_bh,0.00933074511015887,True
+Haemophilus_sputorum,8.413866961073772,Normally Distributed,-2.691845611787608,Normally Distributed,Mann-Whitney U Test,8046.0,0.005613445735012691,fdr_bh,0.009483585341139453,True
+Lactobacillus_gastricus,-3.2158430695976,Not Normally Distributed,-3.431287726967044,Not Normally Distributed,Mann-Whitney U Test,8045.0,0.005646231319421307,fdr_bh,0.009527139695301461,True
+Bifidobacterium_animalis,-3.108746401711455,Not Normally Distributed,-3.3817268058720114,Not Normally Distributed,Mann-Whitney U Test,8039.0,0.005846597990459518,fdr_bh,0.009840808498793248,True
+Anaerococcus_vaginalis,-3.218140623353655,Not Normally Distributed,-3.4661029791993716,Not Normally Distributed,Mann-Whitney U Test,8039.0,0.005846597990459518,fdr_bh,0.009840808498793248,True
+Prevotella_loescheii,-3.20674670143306,Not Normally Distributed,-3.431287726967044,Not Normally Distributed,Mann-Whitney U Test,8037.0,0.0059147977090887715,fdr_bh,0.009943294047417466,True
+Faecalibacterium_prausnitzii,15.645406152075672,Not Normally Distributed,15.22231933888514,Not Normally Distributed,Mann-Whitney U Test,8036.0,0.005949165721601945,fdr_bh,0.009988722693060056,True
+Streptococcus_orisratti,-3.105823689672837,Not Normally Distributed,-3.385741332771749,Not Normally Distributed,Mann-Whitney U Test,8035.0,0.005983713586167552,fdr_bh,0.010034340908986278,True
+Hafnia_alvei,-3.2188942248307075,Not Normally Distributed,-3.5097047834403927,Not Normally Distributed,Mann-Whitney U Test,8034.0,0.006018442118920046,fdr_bh,0.01008014936173801,True
+Lactobacillus_paracasei,-3.179734872977388,Not Normally Distributed,-3.4034055690547618,Not Normally Distributed,Mann-Whitney U Test,8027.0,0.006266669736702452,fdr_bh,0.01047011159940459,True
+Treponema_medium,-3.095785251947289,Not Normally Distributed,-3.387593942714151,Not Normally Distributed,Mann-Whitney U Test,8027.0,0.006266669736702452,fdr_bh,0.01047011159940459,True
+Butyrivibrio_hungatei,-3.2241424755815675,Not Normally Distributed,-3.486803954025678,Not Normally Distributed,Mann-Whitney U Test,8026.0,0.006302873352791257,fdr_bh,0.010517678232878662,True
+Synergistes_jonesii,-3.218692010395868,Not Normally Distributed,-3.4661029791993716,Not Normally Distributed,Mann-Whitney U Test,8024.0,0.006375845873668362,fdr_bh,0.010626409789447271,True
+Bacteroides_salanitronis,12.475047814123739,Not Normally Distributed,11.881507855343397,Normally Distributed,Mann-Whitney U Test,8023.0,0.006412616473617544,fdr_bh,0.010674612489742791,True
+Raoultella_ornithinolytica,-3.0365285971332288,Not Normally Distributed,-3.3548604019003587,Not Normally Distributed,Mann-Whitney U Test,8013.0,0.006790952801786715,fdr_bh,0.011290581675342217,True
+Ndongobacter_massiliensis,-3.211477340154312,Not Normally Distributed,-3.431287726967044,Not Normally Distributed,Mann-Whitney U Test,8011.0,0.006868984638017929,fdr_bh,0.011406372536879589,True
+Anaerococcus_lactolyticus,-3.218692010395868,Not Normally Distributed,-3.4661029791993716,Not Normally Distributed,Mann-Whitney U Test,8007.0,0.007027469384574829,fdr_bh,0.011655315076855815,True
+Treponema_porcinum,-3.218692010395868,Not Normally Distributed,-3.4661029791993716,Not Normally Distributed,Mann-Whitney U Test,8004.0,0.0071484796608482296,fdr_bh,0.011841574103232147,True
+Eubacterium_eligens,13.836813857219191,Not Normally Distributed,12.572577912824428,Not Normally Distributed,Mann-Whitney U Test,8002.0,0.007230189018890383,fdr_bh,0.011962356527604526,True
+Haemophilus_pittmaniae,8.263442540759469,Normally Distributed,-2.691845611787608,Normally Distributed,Mann-Whitney U Test,7996.0,0.007480369926918442,fdr_bh,0.012361243135612493,True
+Streptococcus_sp_group_B,-3.2375871806589256,Not Normally Distributed,-3.486803954025678,Not Normally Distributed,Mann-Whitney U Test,7994.0,0.007565472601618517,fdr_bh,0.012486702352185903,True
+Raoultella_sp_X13,-3.0682811733214397,Not Normally Distributed,-3.368811586124618,Not Normally Distributed,Mann-Whitney U Test,7993.0,0.007608348601729762,fdr_bh,0.012542247391942396,True
+Centipeda_periodontii,-3.2188942248307075,Not Normally Distributed,-3.486803954025678,Not Normally Distributed,Mann-Whitney U Test,7987.0,0.00787020969477008,fdr_bh,0.0129582145095488,True
+Collinsella_massiliensis,-3.179734872977388,Not Normally Distributed,-3.387593942714151,Not Normally Distributed,Mann-Whitney U Test,7983.0,0.008049239957373439,fdr_bh,0.013220973843028838,True
+Lactobacillus_casei,-3.1836515390750915,Not Normally Distributed,-3.4034055690547618,Not Normally Distributed,Mann-Whitney U Test,7983.0,0.008049239957373439,fdr_bh,0.013220973843028838,True
+Faecalibaculum_rodentium,8.096423172464966,Normally Distributed,-2.5238333068305607,Normally Distributed,Mann-Whitney U Test,7980.0,0.008185896358771158,fdr_bh,0.013429214774341103,True
+Shigella_sp_PAMC_28760,-3.0682811733214397,Not Normally Distributed,-3.368811586124618,Not Normally Distributed,Mann-Whitney U Test,7974.0,0.00846545417091504,fdr_bh,0.013871105629451149,True
+Akkermansia_glycaniphila,-3.252320373275312,Normally Distributed,-3.486803954025678,Not Normally Distributed,Mann-Whitney U Test,7970.0,0.008656538744015113,fdr_bh,0.0141671392200488,True
+Olsenella_scatoligenes,-3.218140623353655,Not Normally Distributed,-3.4661029791993716,Not Normally Distributed,Mann-Whitney U Test,7968.0,0.008753519168037537,fdr_bh,0.014308637101599818,True
+Citrobacter_farmeri,-3.211477340154312,Not Normally Distributed,-3.450017920727962,Not Normally Distributed,Mann-Whitney U Test,7962.0,0.009050311755272693,fdr_bh,0.014758302142890723,True
+Gemella_sp_ND_6198,-3.2241424755815675,Not Normally Distributed,-3.4661029791993716,Not Normally Distributed,Mann-Whitney U Test,7962.0,0.009050311755272693,fdr_bh,0.014758302142890723,True
+Lactobacillus_salivarius,-3.0540100205921625,Not Normally Distributed,-3.3718469037461034,Not Normally Distributed,Mann-Whitney U Test,7960.0,0.009151220807007457,fdr_bh,0.014904982392251666,True
+Clostridium_septicum,-3.1192790774670414,Not Normally Distributed,-3.3817268058720114,Not Normally Distributed,Mann-Whitney U Test,7957.0,0.009304467859686449,fdr_bh,0.015136454891355944,True
+Ruminococcus_lactaris,12.022706777587882,Not Normally Distributed,11.669213760439842,Not Normally Distributed,Mann-Whitney U Test,7953.0,0.009512357795540397,fdr_bh,0.015456160814737083,True
+Selenomonas_sp_oral_taxon_478,-3.1904496083845473,Not Normally Distributed,-3.387593942714151,Not Normally Distributed,Mann-Whitney U Test,7952.0,0.009564973243383094,fdr_bh,0.015504605019071523,True
+Bifidobacterium_lemurum,-3.211477340154312,Not Normally Distributed,-3.431287726967044,Not Normally Distributed,Mann-Whitney U Test,7952.0,0.009564973243383094,fdr_bh,0.015504605019071523,True
+Ruminococcus_torques,13.139263866852176,Not Normally Distributed,13.976534077988061,Normally Distributed,Mann-Whitney U Test,5221.0,0.009617848038686226,fdr_bh,0.015571753967396747,True
+Desulfomicrobium_orale,-3.2241424755815675,Not Normally Distributed,-3.4661029791993716,Not Normally Distributed,Mann-Whitney U Test,7947.0,0.009831962487018751,fdr_bh,0.01589948749387099,True
+Arabia_massiliensis,-3.1904496083845473,Not Normally Distributed,-3.4661029791993716,Not Normally Distributed,Mann-Whitney U Test,7946.0,0.009886150394462948,fdr_bh,0.015968128903170557,True
+Marinilactibacillus_piezotolerans,-3.1622668000097534,Not Normally Distributed,-3.3817268058720114,Not Normally Distributed,Mann-Whitney U Test,7945.0,0.009940604223694267,fdr_bh,0.016037036470016846,True
+Desulfovibrio_sp_G11,-3.1663282973098266,Not Normally Distributed,-3.387593942714151,Not Normally Distributed,Mann-Whitney U Test,7943.0,0.01005031408278806,fdr_bh,0.016194818901175072,True
+Corynebacterium_accolens,-3.252320373275312,Normally Distributed,-3.486803954025678,Not Normally Distributed,Mann-Whitney U Test,7942.0,0.010105572339053856,fdr_bh,0.016264589800134018,True
+Streptococcus_sp_FDAARGOS_521,-3.2241424755815675,Not Normally Distributed,-3.4661029791993716,Not Normally Distributed,Mann-Whitney U Test,7940.0,0.0102169010973906,fdr_bh,0.01642433273339387,True
+Pseudopropionibacterium_propionicum,-3.2158430695976,Not Normally Distributed,-3.431287726967044,Not Normally Distributed,Mann-Whitney U Test,7937.0,0.010385941732221736,fdr_bh,0.016676364528714946,True
+Haemophilus_haemolyticus,-2.5820152649536166,Normally Distributed,-2.999505419613717,Not Normally Distributed,Mann-Whitney U Test,7936.0,0.010442839136598698,fdr_bh,0.01672822288077059,True
+Lactococcus_lactis,-2.828868144485188,Not Normally Distributed,-3.264646450489675,Not Normally Distributed,Mann-Whitney U Test,7936.0,0.010442839136598698,fdr_bh,0.01672822288077059,True
+Brachyspira_alvinipulli,-3.20674670143306,Not Normally Distributed,-3.486803954025678,Not Normally Distributed,Mann-Whitney U Test,7935.0,0.010500013700524991,fdr_bh,0.016800021920839986,True
+Bifidobacterium_thermophilum,-3.1663282973098266,Not Normally Distributed,-3.387593942714151,Not Normally Distributed,Mann-Whitney U Test,7934.0,0.01055746656722327,fdr_bh,0.01687209698169641,True
+Gordonibacter_massiliensis,-3.179734872977388,Not Normally Distributed,-3.4034055690547618,Not Normally Distributed,Mann-Whitney U Test,7930.0,0.010790084050738667,fdr_bh,0.017203416540450864,True
+Enterococcus_gilvus,-2.883342621441381,Not Normally Distributed,-3.3119522246511597,Not Normally Distributed,Mann-Whitney U Test,7930.0,0.010790084050738667,fdr_bh,0.017203416540450864,True
+Mitsuokella_multacida,-3.0787114530780624,Not Normally Distributed,-3.368811586124618,Not Normally Distributed,Mann-Whitney U Test,7928.0,0.01090809259471439,fdr_bh,0.017371201321793407,True
+Fusobacterium_massiliense,-3.2188942248307075,Not Normally Distributed,-3.4661029791993716,Not Normally Distributed,Mann-Whitney U Test,7924.0,0.011147555944149444,fdr_bh,0.01773178489361783,True
+Alloscardovia_criceti,-3.218140623353655,Not Normally Distributed,-3.4661029791993716,Not Normally Distributed,Mann-Whitney U Test,7923.0,0.011208146614394506,fdr_bh,0.017807335742495944,True
+Eubacterium_cellulosolvens,-3.105823689672837,Not Normally Distributed,-3.387593942714151,Not Normally Distributed,Mann-Whitney U Test,7920.0,0.011391677188965273,fdr_bh,0.018077807441065078,True
+Collinsella_ihuae,-3.1622668000097534,Not Normally Distributed,-3.387593942714151,Not Normally Distributed,Mann-Whitney U Test,7914.0,0.011766759692554299,fdr_bh,0.01862956132930599,True
+Bacteroides_graminisolvens,-3.010472407214589,Not Normally Distributed,-3.3768388783081242,Not Normally Distributed,Mann-Whitney U Test,7914.0,0.011766759692554299,fdr_bh,0.01862956132930599,True
+Lactobacillus_paragasseri,-3.086861110372336,Not Normally Distributed,-3.3768388783081242,Not Normally Distributed,Mann-Whitney U Test,7906.0,0.012283891929993521,fdr_bh,0.019425689563710685,True
+Porphyromonas_macacae,-3.2375871806589256,Not Normally Distributed,-3.4661029791993716,Not Normally Distributed,Mann-Whitney U Test,7905.0,0.012349929010145946,fdr_bh,0.019507437228569673,True
+Gemella_asaccharolytica,-3.2241424755815675,Not Normally Distributed,-3.4661029791993716,Not Normally Distributed,Mann-Whitney U Test,7899.0,0.012752795316657925,fdr_bh,0.02012041952512155,True
+Comamonas_kerstersii,-3.2375871806589256,Not Normally Distributed,-3.486803954025678,Not Normally Distributed,Mann-Whitney U Test,7898.0,0.012821058810420276,fdr_bh,0.020181296275661547,True
+Peptoniphilus_grossensis,-3.1993192293079282,Not Normally Distributed,-3.431287726967044,Not Normally Distributed,Mann-Whitney U Test,7898.0,0.012821058810420276,fdr_bh,0.020181296275661547,True
+Streptococcus_gallolyticus,-3.1622668000097534,Not Normally Distributed,-3.387593942714151,Not Normally Distributed,Mann-Whitney U Test,7890.0,0.013378907940017561,fdr_bh,0.021035046009738594,True
+Treponema_sp_OMZ_838,-3.2188942248307075,Not Normally Distributed,-3.431287726967044,Not Normally Distributed,Mann-Whitney U Test,7889.0,0.013450126147056445,fdr_bh,0.02112259995380689,True
+Acidaminococcus_intestini,8.140193985295848,Normally Distributed,-2.812434119175915,Not Normally Distributed,Mann-Whitney U Test,7884.0,0.013811265668732144,fdr_bh,0.021664730460756305,True
+Enterobacter_cancerogenus,-3.2158430695976,Not Normally Distributed,-3.4034055690547618,Not Normally Distributed,Mann-Whitney U Test,7880.0,0.014106314997129027,fdr_bh,0.0221020603641653,True
+Ileibacterium_valens,-3.218692010395868,Not Normally Distributed,-3.486803954025678,Not Normally Distributed,Mann-Whitney U Test,7879.0,0.014180940920794034,fdr_bh,0.02219341732138077,True
+Faecalicatena_fissicatena,-3.20674670143306,Not Normally Distributed,-3.431287726967044,Not Normally Distributed,Mann-Whitney U Test,7877.0,0.01433123850782987,fdr_bh,0.022402855598446694,True
+Eubacterium_minutum,-3.179734872977388,Not Normally Distributed,-3.3817268058720114,Not Normally Distributed,Mann-Whitney U Test,7875.0,0.014482939451962053,fdr_bh,0.022614004195945343,True
+Prevotella_oralis,-3.105823689672837,Not Normally Distributed,-3.3548604019003587,Not Normally Distributed,Mann-Whitney U Test,7874.0,0.014559319586195057,fdr_bh,0.022707195684891372,True
+Bacteroides_barnesiae,11.673762006065889,Not Normally Distributed,11.07303579505323,Normally Distributed,Mann-Whitney U Test,7872.0,0.014713146018674598,fdr_bh,0.022894597923795713,True
+Lactobacillus_ruminis,-2.73135709819136,Not Normally Distributed,-3.0083120136905084,Not Normally Distributed,Mann-Whitney U Test,7872.0,0.014713146018674598,fdr_bh,0.022894597923795713,True
+Selenomonas_sp_oral_taxon_126,-3.2375871806589256,Not Normally Distributed,-3.4661029791993716,Not Normally Distributed,Mann-Whitney U Test,7870.0,0.014868403167028046,fdr_bh,0.023109746636752162,True
+Raoultella_planticola,-3.0682811733214397,Not Normally Distributed,-3.340764039436026,Not Normally Distributed,Mann-Whitney U Test,7868.0,0.015025102081091278,fdr_bh,0.023326642500324356,True
+Neisseria_mucosa,-2.9332833274378416,Not Normally Distributed,-3.2275619697069526,Not Normally Distributed,Mann-Whitney U Test,7867.0,0.01510399566998422,fdr_bh,0.023422387812062188,True
+Enterobacter_cloacae_complex_sp_ECNIH7,-3.050327597547213,Not Normally Distributed,-3.340764039436026,Not Normally Distributed,Mann-Whitney U Test,7859.0,0.01574838838260869,fdr_bh,0.024393858998118242,True
+Desulfovibrio_legallii,-3.1710120663386423,Not Normally Distributed,-3.4034055690547618,Not Normally Distributed,Mann-Whitney U Test,7856.0,0.015996199118084944,fdr_bh,0.024749523095102983,True
+Klebsiella_oxytoca,-3.108746401711455,Not Normally Distributed,-3.368811586124618,Not Normally Distributed,Mann-Whitney U Test,7854.0,0.016163304912063255,fdr_bh,0.02497965304591594,True
+Bacteroides_paurosaccharolyticus,8.14962230615051,Normally Distributed,-2.7117910992977787,Normally Distributed,Mann-Whitney U Test,7852.0,0.0163319430689482,fdr_bh,0.02521162607692344,True
+Campylobacter_concisus,-2.891345903301641,Not Normally Distributed,-3.2275619697069526,Not Normally Distributed,Mann-Whitney U Test,7851.0,0.016416840406251344,fdr_bh,0.025285280806910337,True
+Stomatobaculum_longum,9.294922855650045,Not Normally Distributed,9.030696627179104,Not Normally Distributed,Mann-Whitney U Test,7851.0,0.016416840406251344,fdr_bh,0.025285280806910337,True
+Eubacterium_plexicaudatum,9.779419720693657,Not Normally Distributed,9.529274986350607,Not Normally Distributed,Mann-Whitney U Test,7848.0,0.016673862935186586,fdr_bh,0.025652096823363977,True
+Streptococcus_sp_FDAARGOS_522,-3.218140623353655,Not Normally Distributed,-3.431287726967044,Not Normally Distributed,Mann-Whitney U Test,7846.0,0.016847168030291883,fdr_bh,0.0258894333572847,True
+Atopobium_deltae,-3.211477340154312,Not Normally Distributed,-3.4034055690547618,Not Normally Distributed,Mann-Whitney U Test,7844.0,0.017022052259917774,fdr_bh,0.02612865809648778,True
+Campylobacter_hominis,-3.218140623353655,Not Normally Distributed,-3.431287726967044,Not Normally Distributed,Mann-Whitney U Test,7839.0,0.017466249445363676,fdr_bh,0.026750111763169594,True
+Lactobacillus_mucosae,-3.218140623353655,Not Normally Distributed,-3.431287726967044,Not Normally Distributed,Mann-Whitney U Test,7839.0,0.017466249445363676,fdr_bh,0.026750111763169594,True
+Selenomonas_sp_oral_taxon_136,-3.218140623353655,Not Normally Distributed,-3.4034055690547618,Not Normally Distributed,Mann-Whitney U Test,7838.0,0.017556298534608463,fdr_bh,0.02685777953550901,True
+Coprococcus_eutactus,11.14685216244052,Not Normally Distributed,10.830179780547768,Not Normally Distributed,Mann-Whitney U Test,7837.0,0.017646754346161413,fdr_bh,0.02693556218942707,True
+Porphyromonas_bennonis,-3.148709586153581,Not Normally Distributed,-3.3768388783081242,Not Normally Distributed,Mann-Whitney U Test,7837.0,0.017646754346161413,fdr_bh,0.02693556218942707,True
+Schaalia_cardiffensis,-3.1622668000097534,Not Normally Distributed,-3.387593942714151,Not Normally Distributed,Mann-Whitney U Test,7828.0,0.018479409554382036,fdr_bh,0.0281748845223762,True
+Brachyspira_murdochii,-3.218140623353655,Not Normally Distributed,-3.486803954025678,Not Normally Distributed,Mann-Whitney U Test,7827.0,0.018574016268684792,fdr_bh,0.02828741559396564,True
+Brachyspira_intermedia,-3.218140623353655,Not Normally Distributed,-3.486803954025678,Not Normally Distributed,Mann-Whitney U Test,7826.0,0.01866904652640409,fdr_bh,0.028400339234798167,True
+Filifactor_alocis,-2.7511960715917247,Not Normally Distributed,8.72705699352505,Normally Distributed,Mann-Whitney U Test,5347.0,0.018764501879971193,fdr_bh,0.02851365648800092,True
+Kandleria_vitulina,-3.1836515390750915,Not Normally Distributed,-3.3817268058720114,Not Normally Distributed,Mann-Whitney U Test,7823.0,0.018956694103755063,fdr_bh,0.028773553550342508,True
+Enterobacteriaceae_bacterium_S05,-3.0682811733214397,Not Normally Distributed,-3.3548604019003587,Not Normally Distributed,Mann-Whitney U Test,7822.0,0.019053434098217067,fdr_bh,0.02888814980331685,True
+Clostridium_paraputrificum,-3.0365285971332288,Not Normally Distributed,-3.340764039436026,Not Normally Distributed,Mann-Whitney U Test,7819.0,0.019346248438780442,fdr_bh,0.02929944084269644,True
+Brachyspira_hampsonii,-3.20674670143306,Not Normally Distributed,-3.4661029791993716,Not Normally Distributed,Mann-Whitney U Test,7810.0,0.020248411202646064,fdr_bh,0.030631634299887262,True
+Alcanivorax_hongdengensis,-3.218140623353655,Not Normally Distributed,-3.450017920727962,Not Normally Distributed,Mann-Whitney U Test,7807.0,0.020557182611473573,fdr_bh,0.031064187057337846,True
+Fusobacterium_varium,-3.1836515390750915,Not Normally Distributed,-3.4034055690547618,Not Normally Distributed,Mann-Whitney U Test,7805.0,0.020765304157626657,fdr_bh,0.031343855332266655,True
+Dialister_succinatiphilus,-2.9986174705887336,Not Normally Distributed,-3.286585276504434,Not Normally Distributed,Mann-Whitney U Test,7799.0,0.021400727574112603,fdr_bh,0.032267172395557805,True
+Klebsiella_quasipneumoniae,-2.9986174705887336,Not Normally Distributed,-3.340764039436026,Not Normally Distributed,Mann-Whitney U Test,7793.0,0.022053016573734804,fdr_bh,0.033213845559556296,True
+Bifidobacterium_reuteri,-3.1192790774670414,Not Normally Distributed,-3.4034055690547618,Not Normally Distributed,Mann-Whitney U Test,7792.0,0.02216339638106904,fdr_bh,0.033343162697183515,True
+Leptotrichia_buccalis,-3.2158430695976,Not Normally Distributed,-3.4034055690547618,Not Normally Distributed,Mann-Whitney U Test,7786.0,0.022835818327560584,fdr_bh,0.034316809862411486,True
+Selenomonas_sp_oral_taxon_920,-3.2241424755815675,Not Normally Distributed,-3.431287726967044,Not Normally Distributed,Mann-Whitney U Test,7784.0,0.023063863782459833,fdr_bh,0.034621252476981654,True
+Prevotella_brevis,-2.9624242062435666,Not Normally Distributed,-3.2629541643257216,Not Normally Distributed,Mann-Whitney U Test,7782.0,0.023293884430034745,fdr_bh,0.034927985473922,True
+Histophilus_somni,-3.2188942248307075,Not Normally Distributed,-3.431287726967044,Not Normally Distributed,Mann-Whitney U Test,7781.0,0.023409639750595967,fdr_bh,0.03506289654274286,True
+Peptoniphilus_indolicus,-3.2375871806589256,Not Normally Distributed,-3.4661029791993716,Not Normally Distributed,Mann-Whitney U Test,7780.0,0.023525894036439444,fdr_bh,0.035198257304243835,True
+Lachnobacterium_bovis,-3.20674670143306,Not Normally Distributed,-3.387593942714151,Not Normally Distributed,Mann-Whitney U Test,7773.0,0.024353790900303585,fdr_bh,0.03635692165138626,True
+Fusobacterium_perfoetens,-3.211477340154312,Not Normally Distributed,-3.4034055690547618,Not Normally Distributed,Mann-Whitney U Test,7773.0,0.024353790900303585,fdr_bh,0.03635692165138626,True
+Urinicoccus_massiliensis,-3.0787114530780624,Not Normally Distributed,-3.3548604019003587,Not Normally Distributed,Mann-Whitney U Test,7771.0,0.024594922824659422,fdr_bh,0.03667663929993072,True
+Roseburia_hominis,13.152934794055659,Normally Distributed,12.786698400906173,Normally Distributed,Mann-Whitney U Test,7765.0,0.02533076993600715,fdr_bh,0.037732581722858406,True
+Anaeroglobus_geminatus,-3.0540100205921625,Not Normally Distributed,-3.286585276504434,Not Normally Distributed,Mann-Whitney U Test,7760.0,0.025958455260248786,fdr_bh,0.03858305918463207,True
+Bifidobacterium_minimum,-3.050327597547213,Not Normally Distributed,-3.340764039436026,Not Normally Distributed,Mann-Whitney U Test,7760.0,0.025958455260248786,fdr_bh,0.03858305918463207,True
+Lactobacillus_gasseri,-3.0462448821548076,Not Normally Distributed,-3.3497232490982647,Not Normally Distributed,Mann-Whitney U Test,7757.0,0.026341485326321315,fdr_bh,0.039109628868774005,True
+Enterobacter_sp_CRENT-193,-3.148709586153581,Not Normally Distributed,-3.3768388783081242,Not Normally Distributed,Mann-Whitney U Test,7754.0,0.02672938935252375,fdr_bh,0.03964227864714536,True
+Salmonella_enterica,-3.050327597547213,Not Normally Distributed,-3.340764039436026,Not Normally Distributed,Mann-Whitney U Test,7753.0,0.026859782307150193,fdr_bh,0.03979227008466695,True
+Streptococcus_australis,10.23329777617944,Not Normally Distributed,9.64902052624066,Not Normally Distributed,Mann-Whitney U Test,7751.0,0.027122216627861344,fdr_bh,0.04013733907931602,True
+Aggregatibacter_aphrophilus,-2.9388836019538225,Not Normally Distributed,-3.2347716034565277,Not Normally Distributed,Mann-Whitney U Test,7745.0,0.027922839603213435,fdr_bh,0.04127724115257638,True
+Streptococcus_sp_FDAARGOS_192,11.878217519976698,Not Normally Distributed,11.259718581990583,Not Normally Distributed,Mann-Whitney U Test,7735.0,0.02930250459103987,fdr_bh,0.043222783344700894,True
+Pyramidobacter_piscolens,-3.105823689672837,Not Normally Distributed,-3.3548604019003587,Not Normally Distributed,Mann-Whitney U Test,7735.0,0.02930250459103987,fdr_bh,0.043222783344700894,True
+Murdochiella_vaginalis,-3.015178442148816,Not Normally Distributed,-3.2629541643257216,Not Normally Distributed,Mann-Whitney U Test,7733.0,0.029585366927029965,fdr_bh,0.043592740000824214,True
+Victivallales_bacterium_CCUG_44730,-2.9899820917690825,Not Normally Distributed,-3.340764039436026,Not Normally Distributed,Mann-Whitney U Test,7731.0,0.029870574473564067,fdr_bh,0.04391781760437528,True
+Caviibacter_abscessus,-3.1743244289312784,Not Normally Distributed,-3.385741332771749,Not Normally Distributed,Mann-Whitney U Test,7731.0,0.029870574473564067,fdr_bh,0.04391781760437528,True
+Bifidobacterium_biavatii,-2.9101409522170183,Not Normally Distributed,-3.2347716034565277,Not Normally Distributed,Mann-Whitney U Test,7727.0,0.030448086465076164,fdr_bh,0.04471857191415074,True
+Clostridium_polynesiense,-3.211477340154312,Not Normally Distributed,-3.399391042155024,Not Normally Distributed,Mann-Whitney U Test,7723.0,0.03103516368176425,fdr_bh,0.045531631722976675,True
+Enterobacter_asburiae,-3.0462448821548076,Not Normally Distributed,-3.3119522246511597,Not Normally Distributed,Mann-Whitney U Test,7722.0,0.031183442068484203,fdr_bh,0.045699871996916504,True
+Aeromonas_sp_ASNIH4,-3.252320373275312,Normally Distributed,-3.4661029791993716,Not Normally Distributed,Mann-Whitney U Test,7721.0,0.03133232797724366,fdr_bh,0.04586863945000148,True
+Mediterranea_massiliensis,13.423072991385666,Not Normally Distributed,12.965959916684206,Normally Distributed,Mann-Whitney U Test,7717.0,0.03193398590257062,fdr_bh,0.046699162180103275,True
+Ornithobacterium_rhinotracheale,-3.148709586153581,Not Normally Distributed,-3.378691488250526,Not Normally Distributed,Mann-Whitney U Test,7713.0,0.03254552088918924,fdr_bh,0.04754232911847193,True
+Bacteroides_coprocola,15.79688421768151,Not Normally Distributed,15.261668390340875,Normally Distributed,Mann-Whitney U Test,7710.0,0.033010729915312495,fdr_bh,0.048118534496061086,True
+Haemophilus_parainfluenzae,12.596074917970078,Not Normally Distributed,11.764866683060575,Not Normally Distributed,Mann-Whitney U Test,7710.0,0.033010729915312495,fdr_bh,0.048118534496061086,True
+Desulfovibrio_desulfuricans,-3.010472407214589,Not Normally Distributed,-3.340764039436026,Not Normally Distributed,Mann-Whitney U Test,7709.0,0.03316705927270515,fdr_bh,0.04829464733498823,True
+Klebsiella_aerogenes,-3.0621982822197378,Not Normally Distributed,-3.340764039436026,Not Normally Distributed,Mann-Whitney U Test,7707.0,0.033481619465705145,fdr_bh,0.04870053740466203,True
+Streptococcus_acidominimus,-3.12872593624261,Not Normally Distributed,-3.3768388783081242,Not Normally Distributed,Mann-Whitney U Test,7703.0,0.03411840180044214,fdr_bh,0.04957374620577063,True
+Haemophilus_influenzae,-2.983019440828583,Not Normally Distributed,-3.2629541643257216,Not Normally Distributed,Mann-Whitney U Test,7702.0,0.0342792053382286,fdr_bh,0.04975423613659647,True
+Klebsiella_pneumoniae,-2.922099169545996,Not Normally Distributed,-3.2275619697069526,Not Normally Distributed,Mann-Whitney U Test,7701.0,0.03444065608803138,fdr_bh,0.04993527961590904,True

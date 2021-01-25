@@ -1,0 +1,1298 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2020-12-17">
+    <creator>NetworkX 2.4</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="relativeAbundance" type="double" />
+      <attribute id="1" title="genera" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Clostridium_saccharolyticum" label="Clostridium_saccharolyticum">
+        <attvalues>
+          <attvalue for="0" value="0.0001524998226794468" />
+          <attvalue for="1" value="Lachnoclostridium" />
+        </attvalues>
+      </node>
+      <node id="Absiella_dolichum" label="Absiella_dolichum">
+        <attvalues>
+          <attvalue for="0" value="0.000540262780565599" />
+          <attvalue for="1" value="Absiella" />
+        </attvalues>
+      </node>
+      <node id="Ruminococcus_torques" label="Ruminococcus_torques">
+        <attvalues>
+          <attvalue for="0" value="0.004227039698500101" />
+          <attvalue for="1" value="Blautia" />
+        </attvalues>
+      </node>
+      <node id="Clostridium_sp_SY8519" label="Clostridium_sp_SY8519">
+        <attvalues>
+          <attvalue for="0" value="0.00015408127242928367" />
+          <attvalue for="1" value="Clostridium" />
+        </attvalues>
+      </node>
+      <node id="Bacteroides_faecichinchillae" label="Bacteroides_faecichinchillae">
+        <attvalues>
+          <attvalue for="0" value="0.0007024250423728343" />
+          <attvalue for="1" value="Bacteroides" />
+        </attvalues>
+      </node>
+      <node id="Tyzzerella_nexilis" label="Tyzzerella_nexilis">
+        <attvalues>
+          <attvalue for="0" value="0.0043729312311965056" />
+          <attvalue for="1" value="Tyzzerella" />
+        </attvalues>
+      </node>
+      <node id="Clostridium_citroniae" label="Clostridium_citroniae">
+        <attvalues>
+          <attvalue for="0" value="0.00043584276852892114" />
+          <attvalue for="1" value="Lachnoclostridium" />
+        </attvalues>
+      </node>
+      <node id="Prevotella_stercorea" label="Prevotella_stercorea">
+        <attvalues>
+          <attvalue for="0" value="0.014184144957807385" />
+          <attvalue for="1" value="Prevotella" />
+        </attvalues>
+      </node>
+      <node id="Dorea_formicigenerans" label="Dorea_formicigenerans">
+        <attvalues>
+          <attvalue for="0" value="0.002929359767972312" />
+          <attvalue for="1" value="Dorea" />
+        </attvalues>
+      </node>
+      <node id="Streptococcus_sp_FDAARGOS_192" label="Streptococcus_sp_FDAARGOS_192">
+        <attvalues>
+          <attvalue for="0" value="0.0022435022535436553" />
+          <attvalue for="1" value="Streptococcus" />
+        </attvalues>
+      </node>
+      <node id="Lachnospiraceae_bacterium_GAM79" label="Lachnospiraceae_bacterium_GAM79">
+        <attvalues>
+          <attvalue for="0" value="0.013347960646954444" />
+          <attvalue for="1" value="Unclassified_Lachnospiraceae" />
+        </attvalues>
+      </node>
+      <node id="Roseburia_hominis" label="Roseburia_hominis">
+        <attvalues>
+          <attvalue for="0" value="0.003373610849940438" />
+          <attvalue for="1" value="Roseburia" />
+        </attvalues>
+      </node>
+      <node id="Merdimonas_faecis" label="Merdimonas_faecis">
+        <attvalues>
+          <attvalue for="0" value="0.0003609421330623392" />
+          <attvalue for="1" value="Merdimonas" />
+        </attvalues>
+      </node>
+      <node id="Intestinibacter_bartlettii" label="Intestinibacter_bartlettii">
+        <attvalues>
+          <attvalue for="0" value="0.0004488745179757016" />
+          <attvalue for="1" value="Intestinibacter" />
+        </attvalues>
+      </node>
+      <node id="Merdibacter_massiliensis" label="Merdibacter_massiliensis">
+        <attvalues>
+          <attvalue for="0" value="0.00018740832313744832" />
+          <attvalue for="1" value="Merdibacter" />
+        </attvalues>
+      </node>
+      <node id="Gemella_morbillorum" label="Gemella_morbillorum">
+        <attvalues>
+          <attvalue for="0" value="2.8477660194348725e-05" />
+          <attvalue for="1" value="Unclassified_Bacillales" />
+        </attvalues>
+      </node>
+      <node id="Clostridium_phoceensis" label="Clostridium_phoceensis">
+        <attvalues>
+          <attvalue for="0" value="0.0024137173556944805" />
+          <attvalue for="1" value="Clostridium" />
+        </attvalues>
+      </node>
+      <node id="Mediterranea_massiliensis" label="Mediterranea_massiliensis">
+        <attvalues>
+          <attvalue for="0" value="0.0028554348184894416" />
+          <attvalue for="1" value="Mediterranea" />
+        </attvalues>
+      </node>
+      <node id="Intestinimonas_butyriciproducens" label="Intestinimonas_butyriciproducens">
+        <attvalues>
+          <attvalue for="0" value="0.0010272565619668435" />
+          <attvalue for="1" value="Unclassified_Clostridiales" />
+        </attvalues>
+      </node>
+      <node id="Bacteroides_coprophilus" label="Bacteroides_coprophilus">
+        <attvalues>
+          <attvalue for="0" value="0.008935789514594726" />
+          <attvalue for="1" value="Bacteroides" />
+        </attvalues>
+      </node>
+      <node id="Lachnoanaerobaculum_saburreum" label="Lachnoanaerobaculum_saburreum">
+        <attvalues>
+          <attvalue for="0" value="5.9752797956764805e-05" />
+          <attvalue for="1" value="Lachnoanaerobaculum" />
+        </attvalues>
+      </node>
+      <node id="Provencibacterium_massiliense" label="Provencibacterium_massiliense">
+        <attvalues>
+          <attvalue for="0" value="0.00020494523750147497" />
+          <attvalue for="1" value="Provencibacterium" />
+        </attvalues>
+      </node>
+      <node id="Bariatricus_massiliensis" label="Bariatricus_massiliensis">
+        <attvalues>
+          <attvalue for="0" value="5.581967134315528e-05" />
+          <attvalue for="1" value="Bariatricus" />
+        </attvalues>
+      </node>
+      <node id="Bacteroides_caecimuris" label="Bacteroides_caecimuris">
+        <attvalues>
+          <attvalue for="0" value="0.005237173083221299" />
+          <attvalue for="1" value="Bacteroides" />
+        </attvalues>
+      </node>
+      <node id="Clostridium_asparagiforme" label="Clostridium_asparagiforme">
+        <attvalues>
+          <attvalue for="0" value="0.0004935323264127119" />
+          <attvalue for="1" value="Lachnoclostridium" />
+        </attvalues>
+      </node>
+      <node id="Dialister_pneumosintes" label="Dialister_pneumosintes">
+        <attvalues>
+          <attvalue for="0" value="4.656938111831588e-05" />
+          <attvalue for="1" value="Dialister" />
+        </attvalues>
+      </node>
+      <node id="Monoglobus_pectinilyticus" label="Monoglobus_pectinilyticus">
+        <attvalues>
+          <attvalue for="0" value="0.00034510480273725253" />
+          <attvalue for="1" value="Unclassified_Clostridiales" />
+        </attvalues>
+      </node>
+      <node id="Streptococcus_mitis" label="Streptococcus_mitis">
+        <attvalues>
+          <attvalue for="0" value="0.00043306885114848627" />
+          <attvalue for="1" value="Streptococcus" />
+        </attvalues>
+      </node>
+      <node id="Christensenella_minuta" label="Christensenella_minuta">
+        <attvalues>
+          <attvalue for="0" value="0.0005626341093377326" />
+          <attvalue for="1" value="Christensenella" />
+        </attvalues>
+      </node>
+      <node id="Anaerotignum_lactatifermentans" label="Anaerotignum_lactatifermentans">
+        <attvalues>
+          <attvalue for="0" value="0.0012688070391181003" />
+          <attvalue for="1" value="Anaerotignum" />
+        </attvalues>
+      </node>
+      <node id="Blautia_sp_N6H1-15" label="Blautia_sp_N6H1-15">
+        <attvalues>
+          <attvalue for="0" value="0.000600046925227221" />
+          <attvalue for="1" value="Blautia" />
+        </attvalues>
+      </node>
+      <node id="Alistipes_putredinis" label="Alistipes_putredinis">
+        <attvalues>
+          <attvalue for="0" value="0.01508705871886101" />
+          <attvalue for="1" value="Alistipes" />
+        </attvalues>
+      </node>
+      <node id="Blautia_schinkii" label="Blautia_schinkii">
+        <attvalues>
+          <attvalue for="0" value="6.769691699543863e-05" />
+          <attvalue for="1" value="Blautia" />
+        </attvalues>
+      </node>
+      <node id="Ruminococcus_bicirculans" label="Ruminococcus_bicirculans">
+        <attvalues>
+          <attvalue for="0" value="0.009049746766679476" />
+          <attvalue for="1" value="Ruminococcus" />
+        </attvalues>
+      </node>
+      <node id="Ruthenibacterium_lactatiformans" label="Ruthenibacterium_lactatiformans">
+        <attvalues>
+          <attvalue for="0" value="0.001782783826348447" />
+          <attvalue for="1" value="Ruthenibacterium" />
+        </attvalues>
+      </node>
+      <node id="Bacteroides_fluxus" label="Bacteroides_fluxus">
+        <attvalues>
+          <attvalue for="0" value="0.004223418713358256" />
+          <attvalue for="1" value="Bacteroides" />
+        </attvalues>
+      </node>
+      <node id="Bacteroides_vulgatus" label="Bacteroides_vulgatus">
+        <attvalues>
+          <attvalue for="0" value="0.08313023409460192" />
+          <attvalue for="1" value="Bacteroides" />
+        </attvalues>
+      </node>
+      <node id="Blautia_producta" label="Blautia_producta">
+        <attvalues>
+          <attvalue for="0" value="0.00013801555651679007" />
+          <attvalue for="1" value="Blautia" />
+        </attvalues>
+      </node>
+      <node id="Eggerthella_lenta" label="Eggerthella_lenta">
+        <attvalues>
+          <attvalue for="0" value="0.0010326568940187723" />
+          <attvalue for="1" value="Eggerthella" />
+        </attvalues>
+      </node>
+      <node id="Prevotella_copri" label="Prevotella_copri">
+        <attvalues>
+          <attvalue for="0" value="0.05944121241530594" />
+          <attvalue for="1" value="Prevotella" />
+        </attvalues>
+      </node>
+      <node id="Clostridium_glycyrrhizinilyticum" label="Clostridium_glycyrrhizinilyticum">
+        <attvalues>
+          <attvalue for="0" value="0.0010244257556487127" />
+          <attvalue for="1" value="Lachnoclostridium" />
+        </attvalues>
+      </node>
+      <node id="Peptostreptococcus_anaerobius" label="Peptostreptococcus_anaerobius">
+        <attvalues>
+          <attvalue for="0" value="8.08844085727117e-06" />
+          <attvalue for="1" value="Peptostreptococcus" />
+        </attvalues>
+      </node>
+      <node id="Mordavella_sp_Marseille-P3756" label="Mordavella_sp_Marseille-P3756">
+        <attvalues>
+          <attvalue for="0" value="0.0003332143759798185" />
+          <attvalue for="1" value="Mordavella" />
+        </attvalues>
+      </node>
+      <node id="Eubacterium_rectale" label="Eubacterium_rectale">
+        <attvalues>
+          <attvalue for="0" value="0.021081012448368866" />
+          <attvalue for="1" value="Unclassified_Lachnospiraceae" />
+        </attvalues>
+      </node>
+      <node id="Parabacteroides_distasonis" label="Parabacteroides_distasonis">
+        <attvalues>
+          <attvalue for="0" value="0.009230776045040846" />
+          <attvalue for="1" value="Parabacteroides" />
+        </attvalues>
+      </node>
+      <node id="Bacteroides_ovatus" label="Bacteroides_ovatus">
+        <attvalues>
+          <attvalue for="0" value="0.01442914827753476" />
+          <attvalue for="1" value="Bacteroides" />
+        </attvalues>
+      </node>
+      <node id="Blautia_hansenii" label="Blautia_hansenii">
+        <attvalues>
+          <attvalue for="0" value="0.0012065308139176494" />
+          <attvalue for="1" value="Blautia" />
+        </attvalues>
+      </node>
+      <node id="Bacteroides_zoogleoformans" label="Bacteroides_zoogleoformans">
+        <attvalues>
+          <attvalue for="0" value="7.30866371565096e-05" />
+          <attvalue for="1" value="Bacteroides" />
+        </attvalues>
+      </node>
+      <node id="Prevotellamassilia_timonensis" label="Prevotellamassilia_timonensis">
+        <attvalues>
+          <attvalue for="0" value="0.006550327773304673" />
+          <attvalue for="1" value="Prevotellamassilia" />
+        </attvalues>
+      </node>
+      <node id="Ruminococcus_faecis" label="Ruminococcus_faecis">
+        <attvalues>
+          <attvalue for="0" value="0.005674441369274256" />
+          <attvalue for="1" value="Ruminococcus" />
+        </attvalues>
+      </node>
+      <node id="Bacteroides_thetaiotaomicron" label="Bacteroides_thetaiotaomicron">
+        <attvalues>
+          <attvalue for="0" value="0.013240570523318887" />
+          <attvalue for="1" value="Bacteroides" />
+        </attvalues>
+      </node>
+      <node id="Phocea_massiliensis" label="Phocea_massiliensis">
+        <attvalues>
+          <attvalue for="0" value="0.00030412240482162033" />
+          <attvalue for="1" value="Phocea" />
+        </attvalues>
+      </node>
+      <node id="Alistipes_shahii" label="Alistipes_shahii">
+        <attvalues>
+          <attvalue for="0" value="0.004039827937272766" />
+          <attvalue for="1" value="Alistipes" />
+        </attvalues>
+      </node>
+      <node id="Bacteroides_pectinophilus" label="Bacteroides_pectinophilus">
+        <attvalues>
+          <attvalue for="0" value="0.0010401080006574796" />
+          <attvalue for="1" value="Unclassified_Clostridiales" />
+        </attvalues>
+      </node>
+      <node id="Clostridium_innocuum" label="Clostridium_innocuum">
+        <attvalues>
+          <attvalue for="0" value="0.00033682119163756764" />
+          <attvalue for="1" value="Erysipelatoclostridium" />
+        </attvalues>
+      </node>
+      <node id="Eubacterium_ramulus" label="Eubacterium_ramulus">
+        <attvalues>
+          <attvalue for="0" value="0.0020197534314503624" />
+          <attvalue for="1" value="Eubacterium" />
+        </attvalues>
+      </node>
+      <node id="Fusobacterium_nucleatum" label="Fusobacterium_nucleatum">
+        <attvalues>
+          <attvalue for="0" value="6.18749877766256e-05" />
+          <attvalue for="1" value="Fusobacterium" />
+        </attvalues>
+      </node>
+      <node id="Clostridium_bolteae" label="Clostridium_bolteae">
+        <attvalues>
+          <attvalue for="0" value="0.0035923300016248933" />
+          <attvalue for="1" value="Lachnoclostridium" />
+        </attvalues>
+      </node>
+      <node id="Bacteroides_fragilis" label="Bacteroides_fragilis">
+        <attvalues>
+          <attvalue for="0" value="0.011267016680556841" />
+          <attvalue for="1" value="Bacteroides" />
+        </attvalues>
+      </node>
+      <node id="Bacteroides_helcogenes" label="Bacteroides_helcogenes">
+        <attvalues>
+          <attvalue for="0" value="0.0001657804741190898" />
+          <attvalue for="1" value="Bacteroides" />
+        </attvalues>
+      </node>
+      <node id="Phascolarctobacterium_succinatutens" label="Phascolarctobacterium_succinatutens">
+        <attvalues>
+          <attvalue for="0" value="0.007951517084078841" />
+          <attvalue for="1" value="Phascolarctobacterium" />
+        </attvalues>
+      </node>
+      <node id="Lachnospiraceae_bacterium_Choco86" label="Lachnospiraceae_bacterium_Choco86">
+        <attvalues>
+          <attvalue for="0" value="0.00074141658110764" />
+          <attvalue for="1" value="Unclassified_Lachnospiraceae" />
+        </attvalues>
+      </node>
+      <node id="Angelakisella_massiliensis" label="Angelakisella_massiliensis">
+        <attvalues>
+          <attvalue for="0" value="0.0008725731535296425" />
+          <attvalue for="1" value="Angelakisella" />
+        </attvalues>
+      </node>
+      <node id="Eubacterium_ventriosum" label="Eubacterium_ventriosum">
+        <attvalues>
+          <attvalue for="0" value="0.003532124188185371" />
+          <attvalue for="1" value="Eubacterium" />
+        </attvalues>
+      </node>
+      <node id="Anaerotruncus_colihominis" label="Anaerotruncus_colihominis">
+        <attvalues>
+          <attvalue for="0" value="0.0009366317657283074" />
+          <attvalue for="1" value="Anaerotruncus" />
+        </attvalues>
+      </node>
+      <node id="Collinsella_aerofaciens" label="Collinsella_aerofaciens">
+        <attvalues>
+          <attvalue for="0" value="0.008410383542456485" />
+          <attvalue for="1" value="Collinsella" />
+        </attvalues>
+      </node>
+      <node id="Roseburia_intestinalis" label="Roseburia_intestinalis">
+        <attvalues>
+          <attvalue for="0" value="0.008166019263837943" />
+          <attvalue for="1" value="Roseburia" />
+        </attvalues>
+      </node>
+      <node id="Roseburia_inulinivorans" label="Roseburia_inulinivorans">
+        <attvalues>
+          <attvalue for="0" value="0.013648086305135" />
+          <attvalue for="1" value="Roseburia" />
+        </attvalues>
+      </node>
+      <node id="Barnesiella_intestinihominis" label="Barnesiella_intestinihominis">
+        <attvalues>
+          <attvalue for="0" value="0.006105188652841859" />
+          <attvalue for="1" value="Barnesiella" />
+        </attvalues>
+      </node>
+      <node id="Clostridium_sporogenes" label="Clostridium_sporogenes">
+        <attvalues>
+          <attvalue for="0" value="0.001573301411814408" />
+          <attvalue for="1" value="Clostridium" />
+        </attvalues>
+      </node>
+      <node id="Clostridioides_difficile" label="Clostridioides_difficile">
+        <attvalues>
+          <attvalue for="0" value="0.00013031397259978818" />
+          <attvalue for="1" value="Clostridioides" />
+        </attvalues>
+      </node>
+      <node id="Parabacteroides_sp_CT06" label="Parabacteroides_sp_CT06">
+        <attvalues>
+          <attvalue for="0" value="0.014168201524137341" />
+          <attvalue for="1" value="Parabacteroides" />
+        </attvalues>
+      </node>
+      <node id="Marvinbryantia_formatexigens" label="Marvinbryantia_formatexigens">
+        <attvalues>
+          <attvalue for="0" value="9.471521206569693e-05" />
+          <attvalue for="1" value="Marvinbryantia" />
+        </attvalues>
+      </node>
+      <node id="Anaerobutyricum_hallii" label="Anaerobutyricum_hallii">
+        <attvalues>
+          <attvalue for="0" value="0.003951496371936979" />
+          <attvalue for="1" value="Anaerobutyricum" />
+        </attvalues>
+      </node>
+      <node id="Clostridium_leptum" label="Clostridium_leptum">
+        <attvalues>
+          <attvalue for="0" value="0.0021243002433965815" />
+          <attvalue for="1" value="Unclassified_Ruminococcaceae" />
+        </attvalues>
+      </node>
+      <node id="Bacteroides_cellulosilyticus" label="Bacteroides_cellulosilyticus">
+        <attvalues>
+          <attvalue for="0" value="0.002502399417359289" />
+          <attvalue for="1" value="Bacteroides" />
+        </attvalues>
+      </node>
+      <node id="Clostridium_symbiosum" label="Clostridium_symbiosum">
+        <attvalues>
+          <attvalue for="0" value="0.0009595582293607348" />
+          <attvalue for="1" value="Lachnoclostridium" />
+        </attvalues>
+      </node>
+      <node id="Faecalitalea_cylindroides" label="Faecalitalea_cylindroides">
+        <attvalues>
+          <attvalue for="0" value="0.0007709339485477477" />
+          <attvalue for="1" value="Faecalitalea" />
+        </attvalues>
+      </node>
+      <node id="Clostridium_methylpentosum" label="Clostridium_methylpentosum">
+        <attvalues>
+          <attvalue for="0" value="0.0002071575785236529" />
+          <attvalue for="1" value="Unclassified_Ruminococcaceae" />
+        </attvalues>
+      </node>
+      <node id="Bacteroides_plebeius" label="Bacteroides_plebeius">
+        <attvalues>
+          <attvalue for="0" value="0.04002740296362297" />
+          <attvalue for="1" value="Bacteroides" />
+        </attvalues>
+      </node>
+      <node id="Bifidobacterium_catenulatum" label="Bifidobacterium_catenulatum">
+        <attvalues>
+          <attvalue for="0" value="0.0009287677055822084" />
+          <attvalue for="1" value="Bifidobacterium" />
+        </attvalues>
+      </node>
+      <node id="Johnsonella_ignava" label="Johnsonella_ignava">
+        <attvalues>
+          <attvalue for="0" value="0.00011890130732035178" />
+          <attvalue for="1" value="Johnsonella" />
+        </attvalues>
+      </node>
+      <node id="Pseudoflavonifractor_capillosus" label="Pseudoflavonifractor_capillosus">
+        <attvalues>
+          <attvalue for="0" value="0.0006673091872554831" />
+          <attvalue for="1" value="Pseudoflavonifractor" />
+        </attvalues>
+      </node>
+      <node id="Ruminococcus_gnavus" label="Ruminococcus_gnavus">
+        <attvalues>
+          <attvalue for="0" value="0.009805390735764339" />
+          <attvalue for="1" value="Blautia" />
+        </attvalues>
+      </node>
+      <node id="Acetivibrio_ethanolgignens" label="Acetivibrio_ethanolgignens">
+        <attvalues>
+          <attvalue for="0" value="0.00026097309526400974" />
+          <attvalue for="1" value="Acetivibrio" />
+        </attvalues>
+      </node>
+      <node id="Parabacteroides_johnsonii" label="Parabacteroides_johnsonii">
+        <attvalues>
+          <attvalue for="0" value="0.007839133589614888" />
+          <attvalue for="1" value="Parabacteroides" />
+        </attvalues>
+      </node>
+      <node id="Alistipes_senegalensis" label="Alistipes_senegalensis">
+        <attvalues>
+          <attvalue for="0" value="0.0006885092766008475" />
+          <attvalue for="1" value="Alistipes" />
+        </attvalues>
+      </node>
+      <node id="Ruminococcus_lactaris" label="Ruminococcus_lactaris">
+        <attvalues>
+          <attvalue for="0" value="0.002723941559712587" />
+          <attvalue for="1" value="Ruminococcus" />
+        </attvalues>
+      </node>
+      <node id="Dorea_longicatena" label="Dorea_longicatena">
+        <attvalues>
+          <attvalue for="0" value="0.003841189699831939" />
+          <attvalue for="1" value="Dorea" />
+        </attvalues>
+      </node>
+      <node id="Bacteroides_nordii" label="Bacteroides_nordii">
+        <attvalues>
+          <attvalue for="0" value="0.0007128116869418978" />
+          <attvalue for="1" value="Bacteroides" />
+        </attvalues>
+      </node>
+      <node id="Intestinibacillus_massiliensis" label="Intestinibacillus_massiliensis">
+        <attvalues>
+          <attvalue for="0" value="7.092276284984599e-05" />
+          <attvalue for="1" value="Intestinibacillus" />
+        </attvalues>
+      </node>
+      <node id="Lactobacillus_rogosae" label="Lactobacillus_rogosae">
+        <attvalues>
+          <attvalue for="0" value="0.012907643102170328" />
+          <attvalue for="1" value="Lactobacillus" />
+        </attvalues>
+      </node>
+      <node id="Fusicatenibacter_saccharivorans" label="Fusicatenibacter_saccharivorans">
+        <attvalues>
+          <attvalue for="0" value="0.009719721681735771" />
+          <attvalue for="1" value="Fusicatenibacter" />
+        </attvalues>
+      </node>
+      <node id="Coprobacter_fastidiosus" label="Coprobacter_fastidiosus">
+        <attvalues>
+          <attvalue for="0" value="0.0012835643895454188" />
+          <attvalue for="1" value="Coprobacter" />
+        </attvalues>
+      </node>
+      <node id="Barnesiella_viscericola" label="Barnesiella_viscericola">
+        <attvalues>
+          <attvalue for="0" value="0.0003444723757672446" />
+          <attvalue for="1" value="Barnesiella" />
+        </attvalues>
+      </node>
+      <node id="Eubacterium_plexicaudatum" label="Eubacterium_plexicaudatum">
+        <attvalues>
+          <attvalue for="0" value="5.921128012704822e-05" />
+          <attvalue for="1" value="Eubacterium" />
+        </attvalues>
+      </node>
+      <node id="Veillonella_dispar" label="Veillonella_dispar">
+        <attvalues>
+          <attvalue for="0" value="0.0023031287333064414" />
+          <attvalue for="1" value="Veillonella" />
+        </attvalues>
+      </node>
+      <node id="Peptostreptococcus_stomatis" label="Peptostreptococcus_stomatis">
+        <attvalues>
+          <attvalue for="0" value="5.2492021607181036e-05" />
+          <attvalue for="1" value="Peptostreptococcus" />
+        </attvalues>
+      </node>
+      <node id="Parvimonas_micra" label="Parvimonas_micra">
+        <attvalues>
+          <attvalue for="0" value="8.559624556474874e-05" />
+          <attvalue for="1" value="Parvimonas" />
+        </attvalues>
+      </node>
+      <node id="Lactonifactor_longoviformis" label="Lactonifactor_longoviformis">
+        <attvalues>
+          <attvalue for="0" value="0.0001920636934540179" />
+          <attvalue for="1" value="Lactonifactor" />
+        </attvalues>
+      </node>
+      <node id="Coprobacter_secundus" label="Coprobacter_secundus">
+        <attvalues>
+          <attvalue for="0" value="0.0006244648323380066" />
+          <attvalue for="1" value="Coprobacter" />
+        </attvalues>
+      </node>
+      <node id="Blautia_obeum" label="Blautia_obeum">
+        <attvalues>
+          <attvalue for="0" value="0.016763024520123383" />
+          <attvalue for="1" value="Blautia" />
+        </attvalues>
+      </node>
+      <node id="Solobacterium_moorei" label="Solobacterium_moorei">
+        <attvalues>
+          <attvalue for="0" value="0.0003764664004157402" />
+          <attvalue for="1" value="Solobacterium" />
+        </attvalues>
+      </node>
+      <node id="Coprococcus_comes" label="Coprococcus_comes">
+        <attvalues>
+          <attvalue for="0" value="0.003313163899727322" />
+          <attvalue for="1" value="Coprococcus" />
+        </attvalues>
+      </node>
+      <node id="Blautia_hydrogenotrophica" label="Blautia_hydrogenotrophica">
+        <attvalues>
+          <attvalue for="0" value="0.0002292231364973188" />
+          <attvalue for="1" value="Blautia" />
+        </attvalues>
+      </node>
+      <node id="Bacteroides_stercoris" label="Bacteroides_stercoris">
+        <attvalues>
+          <attvalue for="0" value="0.030100952936231377" />
+          <attvalue for="1" value="Bacteroides" />
+        </attvalues>
+      </node>
+      <node id="Agathobaculum_desmolans" label="Agathobaculum_desmolans">
+        <attvalues>
+          <attvalue for="0" value="0.0003185662066141535" />
+          <attvalue for="1" value="Agathobaculum" />
+        </attvalues>
+      </node>
+      <node id="Sellimonas_intestinalis" label="Sellimonas_intestinalis">
+        <attvalues>
+          <attvalue for="0" value="0.0007311319337758599" />
+          <attvalue for="1" value="Sellimonas" />
+        </attvalues>
+      </node>
+      <node id="Bacteroides_barnesiae" label="Bacteroides_barnesiae">
+        <attvalues>
+          <attvalue for="0" value="0.0005858642937950851" />
+          <attvalue for="1" value="Bacteroides" />
+        </attvalues>
+      </node>
+      <node id="Granulicatella_adiacens" label="Granulicatella_adiacens">
+        <attvalues>
+          <attvalue for="0" value="0.0001511911201668252" />
+          <attvalue for="1" value="Granulicatella" />
+        </attvalues>
+      </node>
+      <node id="Anaerostipes_hadrus" label="Anaerostipes_hadrus">
+        <attvalues>
+          <attvalue for="0" value="0.008342557277311572" />
+          <attvalue for="1" value="Anaerostipes" />
+        </attvalues>
+      </node>
+      <node id="Bacteroides_coprocola" label="Bacteroides_coprocola">
+        <attvalues>
+          <attvalue for="0" value="0.03222402919373355" />
+          <attvalue for="1" value="Bacteroides" />
+        </attvalues>
+      </node>
+      <node id="Fournierella_massiliensis" label="Fournierella_massiliensis">
+        <attvalues>
+          <attvalue for="0" value="0.0006378042494168268" />
+          <attvalue for="1" value="Fournierella" />
+        </attvalues>
+      </node>
+      <node id="Butyricicoccus_pullicaecorum" label="Butyricicoccus_pullicaecorum">
+        <attvalues>
+          <attvalue for="0" value="0.00037822764291635885" />
+          <attvalue for="1" value="Butyricicoccus" />
+        </attvalues>
+      </node>
+      <node id="Clostridium_scindens" label="Clostridium_scindens">
+        <attvalues>
+          <attvalue for="0" value="0.00039369822467754295" />
+          <attvalue for="1" value="Lachnoclostridium" />
+        </attvalues>
+      </node>
+      <node id="Flavonifractor_plautii" label="Flavonifractor_plautii">
+        <attvalues>
+          <attvalue for="0" value="0.003967904063089511" />
+          <attvalue for="1" value="Flavonifractor" />
+        </attvalues>
+      </node>
+      <node id="Hungatella_hathewayi" label="Hungatella_hathewayi">
+        <attvalues>
+          <attvalue for="0" value="0.0005001453755903081" />
+          <attvalue for="1" value="Hungatella" />
+        </attvalues>
+      </node>
+      <node id="Streptococcus_sp_oral_taxon_431" label="Streptococcus_sp_oral_taxon_431">
+        <attvalues>
+          <attvalue for="0" value="0.00022845596647091488" />
+          <attvalue for="1" value="Streptococcus" />
+        </attvalues>
+      </node>
+      <node id="Butyrivibrio_crossotus" label="Butyrivibrio_crossotus">
+        <attvalues>
+          <attvalue for="0" value="0.00040243086949367574" />
+          <attvalue for="1" value="Butyrivibrio" />
+        </attvalues>
+      </node>
+      <node id="Alistipes_obesi" label="Alistipes_obesi">
+        <attvalues>
+          <attvalue for="0" value="0.0018809752413264944" />
+          <attvalue for="1" value="Alistipes" />
+        </attvalues>
+      </node>
+      <node id="Bacteroides_salanitronis" label="Bacteroides_salanitronis">
+        <attvalues>
+          <attvalue for="0" value="0.0009223843693112765" />
+          <attvalue for="1" value="Bacteroides" />
+        </attvalues>
+      </node>
+      <node id="Emergencia_timonensis" label="Emergencia_timonensis">
+        <attvalues>
+          <attvalue for="0" value="0.00036304716619814435" />
+          <attvalue for="1" value="Emergencia" />
+        </attvalues>
+      </node>
+      <node id="Bacteroides_pyogenes" label="Bacteroides_pyogenes">
+        <attvalues>
+          <attvalue for="0" value="0.0002098719906164191" />
+          <attvalue for="1" value="Bacteroides" />
+        </attvalues>
+      </node>
+      <node id="Ruminococcus_callidus" label="Ruminococcus_callidus">
+        <attvalues>
+          <attvalue for="0" value="0.0007869400562821242" />
+          <attvalue for="1" value="Ruminococcus" />
+        </attvalues>
+      </node>
+      <node id="Culturomica_massiliensis" label="Culturomica_massiliensis">
+        <attvalues>
+          <attvalue for="0" value="0.0003161079121081437" />
+          <attvalue for="1" value="Culturomica" />
+        </attvalues>
+      </node>
+      <node id="bacterium_LF-3" label="bacterium_LF-3">
+        <attvalues>
+          <attvalue for="0" value="0.00044690974202277195" />
+          <attvalue for="1" value="Unclassified_Bacteria" />
+        </attvalues>
+      </node>
+      <node id="Bacteroides_caccae" label="Bacteroides_caccae">
+        <attvalues>
+          <attvalue for="0" value="0.006218206093109293" />
+          <attvalue for="1" value="Bacteroides" />
+        </attvalues>
+      </node>
+      <node id="Massilioclostridium_coli" label="Massilioclostridium_coli">
+        <attvalues>
+          <attvalue for="0" value="0.00028380412608591284" />
+          <attvalue for="1" value="Massilioclostridium" />
+        </attvalues>
+      </node>
+      <node id="Neglecta_timonensis" label="Neglecta_timonensis">
+        <attvalues>
+          <attvalue for="0" value="0.00019039233731173142" />
+          <attvalue for="1" value="Neglecta" />
+        </attvalues>
+      </node>
+      <node id="Subdoligranulum_variabile" label="Subdoligranulum_variabile">
+        <attvalues>
+          <attvalue for="0" value="0.0009920220099782948" />
+          <attvalue for="1" value="Subdoligranulum" />
+        </attvalues>
+      </node>
+      <node id="Lachnoclostridium_phocaeense" label="Lachnoclostridium_phocaeense">
+        <attvalues>
+          <attvalue for="0" value="0.00022731691399532398" />
+          <attvalue for="1" value="Lachnoclostridium" />
+        </attvalues>
+      </node>
+      <node id="Schaalia_odontolytica" label="Schaalia_odontolytica">
+        <attvalues>
+          <attvalue for="0" value="0.0003060414898552511" />
+          <attvalue for="1" value="Schaalia" />
+        </attvalues>
+      </node>
+      <node id="Paraprevotella_xylaniphila" label="Paraprevotella_xylaniphila">
+        <attvalues>
+          <attvalue for="0" value="0.003687747643539647" />
+          <attvalue for="1" value="Paraprevotella" />
+        </attvalues>
+      </node>
+      <node id="Erysipelotrichaceae_bacterium_GAM147" label="Erysipelotrichaceae_bacterium_GAM147">
+        <attvalues>
+          <attvalue for="0" value="0.00041060104888687786" />
+          <attvalue for="1" value="Unclassified_Erysipelotrichaceae" />
+        </attvalues>
+      </node>
+      <node id="Holdemania_massiliensis" label="Holdemania_massiliensis">
+        <attvalues>
+          <attvalue for="0" value="0.00023908546641814135" />
+          <attvalue for="1" value="Holdemania" />
+        </attvalues>
+      </node>
+      <node id="Bacteroides_salyersiae" label="Bacteroides_salyersiae">
+        <attvalues>
+          <attvalue for="0" value="0.0030043546354466925" />
+          <attvalue for="1" value="Bacteroides" />
+        </attvalues>
+      </node>
+      <node id="Streptococcus_anginosus" label="Streptococcus_anginosus">
+        <attvalues>
+          <attvalue for="0" value="8.864238059484435e-05" />
+          <attvalue for="1" value="Streptococcus" />
+        </attvalues>
+      </node>
+      <node id="Odoribacter_laneus" label="Odoribacter_laneus">
+        <attvalues>
+          <attvalue for="0" value="0.001080192348778095" />
+          <attvalue for="1" value="Odoribacter" />
+        </attvalues>
+      </node>
+      <node id="Hespellia_stercorisuis" label="Hespellia_stercorisuis">
+        <attvalues>
+          <attvalue for="0" value="0.00010754288150279905" />
+          <attvalue for="1" value="Hespellia" />
+        </attvalues>
+      </node>
+      <node id="Negativibacillus_massiliensis" label="Negativibacillus_massiliensis">
+        <attvalues>
+          <attvalue for="0" value="0.002352085701830235" />
+          <attvalue for="1" value="Negativibacillus" />
+        </attvalues>
+      </node>
+      <node id="Roseburia_faecis" label="Roseburia_faecis">
+        <attvalues>
+          <attvalue for="0" value="0.00926612608098444" />
+          <attvalue for="1" value="Roseburia" />
+        </attvalues>
+      </node>
+      <node id="Parabacteroides_goldsteinii" label="Parabacteroides_goldsteinii">
+        <attvalues>
+          <attvalue for="0" value="0.0008416918273793679" />
+          <attvalue for="1" value="Parabacteroides" />
+        </attvalues>
+      </node>
+      <node id="Clostridiales_bacterium_CCNA10" label="Clostridiales_bacterium_CCNA10">
+        <attvalues>
+          <attvalue for="0" value="0.003862312522506051" />
+          <attvalue for="1" value="Unclassified_Clostridiales" />
+        </attvalues>
+      </node>
+      <node id="Streptococcus_sp_A12" label="Streptococcus_sp_A12">
+        <attvalues>
+          <attvalue for="0" value="0.00035051174949725865" />
+          <attvalue for="1" value="Streptococcus" />
+        </attvalues>
+      </node>
+      <node id="Faecalibacterium_prausnitzii" label="Faecalibacterium_prausnitzii">
+        <attvalues>
+          <attvalue for="0" value="0.025913528872631608" />
+          <attvalue for="1" value="Faecalibacterium" />
+        </attvalues>
+      </node>
+      <node id="Bacteroides_uniformis" label="Bacteroides_uniformis">
+        <attvalues>
+          <attvalue for="0" value="0.04639116360877403" />
+          <attvalue for="1" value="Bacteroides" />
+        </attvalues>
+      </node>
+      <node id="Alistipes_finegoldii" label="Alistipes_finegoldii">
+        <attvalues>
+          <attvalue for="0" value="0.0032272839713354956" />
+          <attvalue for="1" value="Alistipes" />
+        </attvalues>
+      </node>
+      <node id="Faecalicatena_contorta" label="Faecalicatena_contorta">
+        <attvalues>
+          <attvalue for="0" value="0.0003256422702030103" />
+          <attvalue for="1" value="Faecalicatena" />
+        </attvalues>
+      </node>
+      <node id="Holdemanella_biformis" label="Holdemanella_biformis">
+        <attvalues>
+          <attvalue for="0" value="0.0027953536458207896" />
+          <attvalue for="1" value="Holdemanella" />
+        </attvalues>
+      </node>
+      <node id="Bacteroides_dorei" label="Bacteroides_dorei">
+        <attvalues>
+          <attvalue for="0" value="0.03533371613746685" />
+          <attvalue for="1" value="Bacteroides" />
+        </attvalues>
+      </node>
+      <node id="Oscillibacter_sp_PEA192" label="Oscillibacter_sp_PEA192">
+        <attvalues>
+          <attvalue for="0" value="0.004543980803388309" />
+          <attvalue for="1" value="Oscillibacter" />
+        </attvalues>
+      </node>
+      <node id="Bacteroides_heparinolyticus" label="Bacteroides_heparinolyticus">
+        <attvalues>
+          <attvalue for="0" value="9.376639686698026e-05" />
+          <attvalue for="1" value="Bacteroides" />
+        </attvalues>
+      </node>
+      <node id="Streptococcus_salivarius" label="Streptococcus_salivarius">
+        <attvalues>
+          <attvalue for="0" value="0.0059787253719441255" />
+          <attvalue for="1" value="Streptococcus" />
+        </attvalues>
+      </node>
+      <node id="Traorella_massiliensis" label="Traorella_massiliensis">
+        <attvalues>
+          <attvalue for="0" value="0.0002828751449228882" />
+          <attvalue for="1" value="Traorella" />
+        </attvalues>
+      </node>
+      <node id="Streptococcus_parasanguinis" label="Streptococcus_parasanguinis">
+        <attvalues>
+          <attvalue for="0" value="0.0032841662920342725" />
+          <attvalue for="1" value="Streptococcus" />
+        </attvalues>
+      </node>
+      <node id="Coprococcus_eutactus" label="Coprococcus_eutactus">
+        <attvalues>
+          <attvalue for="0" value="0.0009398384133687081" />
+          <attvalue for="1" value="Coprococcus" />
+        </attvalues>
+      </node>
+      <node id="Haemophilus_parainfluenzae" label="Haemophilus_parainfluenzae">
+        <attvalues>
+          <attvalue for="0" value="0.005627902061939615" />
+          <attvalue for="1" value="Haemophilus" />
+        </attvalues>
+      </node>
+      <node id="Anaerotignum_neopropionicum" label="Anaerotignum_neopropionicum">
+        <attvalues>
+          <attvalue for="0" value="5.661144128889713e-05" />
+          <attvalue for="1" value="Anaerotignum" />
+        </attvalues>
+      </node>
+      <node id="Odoribacter_splanchnicus" label="Odoribacter_splanchnicus">
+        <attvalues>
+          <attvalue for="0" value="0.0029565164513850363" />
+          <attvalue for="1" value="Odoribacter" />
+        </attvalues>
+      </node>
+      <node id="Mogibacterium_diversum" label="Mogibacterium_diversum">
+        <attvalues>
+          <attvalue for="0" value="0.00025819811381512297" />
+          <attvalue for="1" value="Mogibacterium" />
+        </attvalues>
+      </node>
+      <node id="Clostridium_saccharogumia" label="Clostridium_saccharogumia">
+        <attvalues>
+          <attvalue for="0" value="0.00013451106747771894" />
+          <attvalue for="1" value="Erysipelatoclostridium" />
+        </attvalues>
+      </node>
+      <node id="Gemmiger_formicilis" label="Gemmiger_formicilis">
+        <attvalues>
+          <attvalue for="0" value="0.012141032472010451" />
+          <attvalue for="1" value="Gemmiger" />
+        </attvalues>
+      </node>
+      <node id="Eubacterium_eligens" label="Eubacterium_eligens">
+        <attvalues>
+          <attvalue for="0" value="0.016685987772545166" />
+          <attvalue for="1" value="Eubacterium" />
+        </attvalues>
+      </node>
+      <node id="Lachnoclostridium_sp_YL32" label="Lachnoclostridium_sp_YL32">
+        <attvalues>
+          <attvalue for="0" value="0.000623199831185419" />
+          <attvalue for="1" value="Lachnoclostridium" />
+        </attvalues>
+      </node>
+      <node id="Butyricimonas_faecalis" label="Butyricimonas_faecalis">
+        <attvalues>
+          <attvalue for="0" value="0.001702380866075504" />
+          <attvalue for="1" value="Butyricimonas" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Absiella_dolichum" target="Agathobaculum_desmolans" weight="0.083036366237569" />
+      <edge id="1" source="Absiella_dolichum" target="Hungatella_hathewayi" weight="0.035403883419974" />
+      <edge id="2" source="Absiella_dolichum" target="Subdoligranulum_variabile" weight="0.070877171772408" />
+      <edge id="3" source="Absiella_dolichum" target="Emergencia_timonensis" weight="0.04674765953935701" />
+      <edge id="4" source="Bacteroides_faecichinchillae" target="Bacteroides_coprocola" weight="0.018683752023939997" />
+      <edge id="5" source="Bacteroides_faecichinchillae" target="Butyricimonas_faecalis" weight="0.032361485171069" />
+      <edge id="6" source="Bacteroides_faecichinchillae" target="Bacteroides_caecimuris" weight="0.039751458388541" />
+      <edge id="7" source="Bacteroides_faecichinchillae" target="Bacteroides_fluxus" weight="0.10205093094913302" />
+      <edge id="8" source="Bacteroides_faecichinchillae" target="Bacteroides_pyogenes" weight="0.011096116234436" />
+      <edge id="9" source="Bacteroides_faecichinchillae" target="Bacteroides_thetaiotaomicron" weight="0.045300246379599" />
+      <edge id="10" source="Tyzzerella_nexilis" target="Faecalicatena_contorta" weight="0.053688870465431" />
+      <edge id="11" source="Tyzzerella_nexilis" target="Eubacterium_ramulus" weight="0.049609944489295996" />
+      <edge id="12" source="Tyzzerella_nexilis" target="Blautia_hansenii" weight="0.111090101641171" />
+      <edge id="13" source="Tyzzerella_nexilis" target="Ruminococcus_gnavus" weight="0.150616690998599" />
+      <edge id="14" source="Tyzzerella_nexilis" target="Blautia_sp_N6H1-15" weight="0.17509087820446398" />
+      <edge id="15" source="Tyzzerella_nexilis" target="Lachnospiraceae_bacterium_Choco86" weight="0.11998001377388301" />
+      <edge id="16" source="Tyzzerella_nexilis" target="Clostridium_glycyrrhizinilyticum" weight="0.10625099233487699" />
+      <edge id="17" source="Clostridium_citroniae" target="Ruthenibacterium_lactatiformans" weight="0.015538777734105001" />
+      <edge id="18" source="Clostridium_citroniae" target="Lachnoclostridium_sp_YL32" weight="0.10756034091675899" />
+      <edge id="19" source="Clostridium_citroniae" target="Massilioclostridium_coli" weight="0.028105170376531003" />
+      <edge id="20" source="Clostridium_citroniae" target="Agathobaculum_desmolans" weight="0.087805492184234" />
+      <edge id="21" source="Clostridium_citroniae" target="Hungatella_hathewayi" weight="0.14456662230016298" />
+      <edge id="22" source="Clostridium_citroniae" target="Flavonifractor_plautii" weight="0.127749544530191" />
+      <edge id="23" source="Clostridium_citroniae" target="Clostridium_bolteae" weight="0.165399605532017" />
+      <edge id="24" source="Clostridium_citroniae" target="Clostridium_phoceensis" weight="0.012017579005731001" />
+      <edge id="25" source="Clostridium_citroniae" target="Clostridium_innocuum" weight="0.017123810746019" />
+      <edge id="26" source="Clostridium_citroniae" target="Clostridium_asparagiforme" weight="0.061789744999355" />
+      <edge id="27" source="Dorea_formicigenerans" target="Dorea_longicatena" weight="0.020090809587999" />
+      <edge id="28" source="Dorea_formicigenerans" target="Eubacterium_ramulus" weight="0.025903975861378" />
+      <edge id="29" source="Dorea_formicigenerans" target="Ruminococcus_faecis" weight="0.018102797038398996" />
+      <edge id="30" source="Streptococcus_sp_FDAARGOS_192" target="Streptococcus_salivarius" weight="0.322475337555716" />
+      <edge id="31" source="Streptococcus_sp_FDAARGOS_192" target="Streptococcus_sp_A12" weight="0.074135052723097" />
+      <edge id="32" source="Streptococcus_sp_FDAARGOS_192" target="Streptococcus_parasanguinis" weight="0.144845884982807" />
+      <edge id="33" source="Lachnospiraceae_bacterium_GAM79" target="Roseburia_hominis" weight="0.026543962262934" />
+      <edge id="34" source="Merdimonas_faecis" target="Ruthenibacterium_lactatiformans" weight="0.053544815612977005" />
+      <edge id="35" source="Merdimonas_faecis" target="Sellimonas_intestinalis" weight="0.060748889721390996" />
+      <edge id="36" source="Merdimonas_faecis" target="Agathobaculum_desmolans" weight="0.032756468638767994" />
+      <edge id="37" source="Merdimonas_faecis" target="Hungatella_hathewayi" weight="0.021121764765463" />
+      <edge id="38" source="Merdimonas_faecis" target="Flavonifractor_plautii" weight="0.011606525116179999" />
+      <edge id="39" source="Merdimonas_faecis" target="Clostridium_bolteae" weight="0.014865911203206999" />
+      <edge id="40" source="Merdimonas_faecis" target="Lachnoclostridium_phocaeense" weight="0.149221513590436" />
+      <edge id="41" source="Merdimonas_faecis" target="Pseudoflavonifractor_capillosus" weight="0.05010915622323" />
+      <edge id="42" source="Merdimonas_faecis" target="Clostridium_innocuum" weight="0.064772157823773" />
+      <edge id="43" source="Gemella_morbillorum" target="Parvimonas_micra" weight="0.090950364145468" />
+      <edge id="44" source="Gemella_morbillorum" target="Peptostreptococcus_stomatis" weight="0.037320229945513" />
+      <edge id="45" source="Clostridium_phoceensis" target="Ruthenibacterium_lactatiformans" weight="0.015113562023031" />
+      <edge id="46" source="Clostridium_phoceensis" target="Massilioclostridium_coli" weight="0.041813755933120006" />
+      <edge id="47" source="Clostridium_phoceensis" target="Angelakisella_massiliensis" weight="0.016758469156895002" />
+      <edge id="48" source="Clostridium_phoceensis" target="Anaerotruncus_colihominis" weight="0.043560437957091004" />
+      <edge id="49" source="Clostridium_phoceensis" target="Pseudoflavonifractor_capillosus" weight="0.08297987250388701" />
+      <edge id="50" source="Clostridium_phoceensis" target="Oscillibacter_sp_PEA192" weight="0.12340888030225501" />
+      <edge id="51" source="Clostridium_phoceensis" target="Subdoligranulum_variabile" weight="0.033175728820467" />
+      <edge id="52" source="Clostridium_phoceensis" target="Clostridium_asparagiforme" weight="0.023904680635349996" />
+      <edge id="53" source="Mediterranea_massiliensis" target="Bacteroides_coprocola" weight="0.013021762595418" />
+      <edge id="54" source="Mediterranea_massiliensis" target="Prevotellamassilia_timonensis" weight="0.028985630934275003" />
+      <edge id="55" source="Mediterranea_massiliensis" target="Bacteroides_barnesiae" weight="0.081533939911914" />
+      <edge id="56" source="Mediterranea_massiliensis" target="Paraprevotella_xylaniphila" weight="0.10768788893443501" />
+      <edge id="57" source="Mediterranea_massiliensis" target="Bacteroides_salanitronis" weight="0.183579808932732" />
+      <edge id="58" source="Mediterranea_massiliensis" target="Bacteroides_vulgatus" weight="0.01353991560048" />
+      <edge id="59" source="Intestinimonas_butyriciproducens" target="Ruthenibacterium_lactatiformans" weight="0.031983060463533" />
+      <edge id="60" source="Intestinimonas_butyriciproducens" target="Holdemania_massiliensis" weight="0.031299540826271" />
+      <edge id="61" source="Intestinimonas_butyriciproducens" target="Negativibacillus_massiliensis" weight="0.054722397350190986" />
+      <edge id="62" source="Intestinimonas_butyriciproducens" target="Butyricicoccus_pullicaecorum" weight="0.015497199672898001" />
+      <edge id="63" source="Intestinimonas_butyriciproducens" target="Coprococcus_eutactus" weight="0.049088846391249996" />
+      <edge id="64" source="Intestinimonas_butyriciproducens" target="Pseudoflavonifractor_capillosus" weight="0.09653305714381098" />
+      <edge id="65" source="Intestinimonas_butyriciproducens" target="Oscillibacter_sp_PEA192" weight="0.047825143126466" />
+      <edge id="66" source="Intestinimonas_butyriciproducens" target="Subdoligranulum_variabile" weight="0.012284226377972001" />
+      <edge id="67" source="Bacteroides_coprophilus" target="Bacteroides_coprocola" weight="0.056968863115200996" />
+      <edge id="68" source="Bacteroides_coprophilus" target="Bacteroides_plebeius" weight="0.094196299173935" />
+      <edge id="69" source="Bacteroides_coprophilus" target="Bacteroides_barnesiae" weight="0.039624861956238995" />
+      <edge id="70" source="Bacteroides_coprophilus" target="Bacteroides_fluxus" weight="0.06210579499850401" />
+      <edge id="71" source="Bacteroides_caecimuris" target="Bacteroides_coprocola" weight="0.06513935979637099" />
+      <edge id="72" source="Bacteroides_caecimuris" target="Bacteroides_salyersiae" weight="0.013405428208743" />
+      <edge id="73" source="Bacteroides_caecimuris" target="Blautia_sp_N6H1-15" weight="0.020025311717455002" />
+      <edge id="74" source="Bacteroides_caecimuris" target="Bacteroides_fluxus" weight="0.098018682596414" />
+      <edge id="75" source="Bacteroides_caecimuris" target="Bacteroides_dorei" weight="0.096871825385975" />
+      <edge id="76" source="Bacteroides_caecimuris" target="Bacteroides_ovatus" weight="0.099559395473218" />
+      <edge id="77" source="Bacteroides_caecimuris" target="Bacteroides_thetaiotaomicron" weight="0.14517484126737398" />
+      <edge id="78" source="Bacteroides_caecimuris" target="Bacteroides_vulgatus" weight="0.053437816595045005" />
+      <edge id="79" source="Clostridium_asparagiforme" target="Ruthenibacterium_lactatiformans" weight="0.021179823322766998" />
+      <edge id="80" source="Clostridium_asparagiforme" target="Massilioclostridium_coli" weight="0.017246849878172002" />
+      <edge id="81" source="Clostridium_asparagiforme" target="Hungatella_hathewayi" weight="0.075146842953221" />
+      <edge id="82" source="Clostridium_asparagiforme" target="Flavonifractor_plautii" weight="0.018508372207651003" />
+      <edge id="83" source="Clostridium_asparagiforme" target="Clostridium_bolteae" weight="0.047227115575249" />
+      <edge id="84" source="Clostridium_asparagiforme" target="Lachnoclostridium_phocaeense" weight="0.034998634949202" />
+      <edge id="85" source="Clostridium_asparagiforme" target="Pseudoflavonifractor_capillosus" weight="0.07401345121543901" />
+      <edge id="86" source="Clostridium_asparagiforme" target="Oscillibacter_sp_PEA192" weight="0.08020002903642" />
+      <edge id="87" source="Monoglobus_pectinilyticus" target="Eubacterium_eligens" weight="0.017620928705761003" />
+      <edge id="88" source="Streptococcus_mitis" target="Haemophilus_parainfluenzae" weight="0.015493501860469" />
+      <edge id="89" source="Streptococcus_mitis" target="Granulicatella_adiacens" weight="0.048211455932737" />
+      <edge id="90" source="Streptococcus_mitis" target="Streptococcus_sp_oral_taxon_431" weight="0.146303172471292" />
+      <edge id="91" source="Blautia_sp_N6H1-15" target="Faecalicatena_contorta" weight="0.055559535197845" />
+      <edge id="92" source="Blautia_sp_N6H1-15" target="Eubacterium_ramulus" weight="0.05705009516111599" />
+      <edge id="93" source="Blautia_sp_N6H1-15" target="Blautia_hansenii" weight="0.15048433022396" />
+      <edge id="94" source="Blautia_sp_N6H1-15" target="Bacteroides_fragilis" weight="0.016916899801956" />
+      <edge id="95" source="Blautia_sp_N6H1-15" target="Ruminococcus_gnavus" weight="0.169295819850288" />
+      <edge id="96" source="Blautia_sp_N6H1-15" target="Blautia_obeum" weight="0.035455326050845996" />
+      <edge id="97" source="Blautia_sp_N6H1-15" target="Anaerobutyricum_hallii" weight="0.015456202406781" />
+      <edge id="98" source="Blautia_sp_N6H1-15" target="Clostridium_leptum" weight="-0.05073112792466001" />
+      <edge id="99" source="Blautia_sp_N6H1-15" target="Lachnospiraceae_bacterium_Choco86" weight="0.102082246256893" />
+      <edge id="100" source="Blautia_sp_N6H1-15" target="Clostridium_glycyrrhizinilyticum" weight="0.134045892829205" />
+      <edge id="101" source="Alistipes_putredinis" target="Alistipes_senegalensis" weight="0.011290459263634" />
+      <edge id="102" source="Blautia_schinkii" target="Traorella_massiliensis" weight="0.079960229175791" />
+      <edge id="103" source="Blautia_schinkii" target="Clostridium_symbiosum" weight="0.11126556758637199" />
+      <edge id="104" source="Blautia_schinkii" target="Anaerotruncus_colihominis" weight="0.077595881203645" />
+      <edge id="105" source="Ruminococcus_bicirculans" target="Johnsonella_ignava" weight="0.042037659030441" />
+      <edge id="106" source="Ruthenibacterium_lactatiformans" target="Negativibacillus_massiliensis" weight="0.038703814034170995" />
+      <edge id="107" source="Ruthenibacterium_lactatiformans" target="Massilioclostridium_coli" weight="0.018725726071389" />
+      <edge id="108" source="Ruthenibacterium_lactatiformans" target="Angelakisella_massiliensis" weight="0.01623753278255" />
+      <edge id="109" source="Ruthenibacterium_lactatiformans" target="Agathobaculum_desmolans" weight="0.012047597003827" />
+      <edge id="110" source="Ruthenibacterium_lactatiformans" target="Hungatella_hathewayi" weight="0.054354365274106" />
+      <edge id="111" source="Ruthenibacterium_lactatiformans" target="Flavonifractor_plautii" weight="0.022741867292269" />
+      <edge id="112" source="Ruthenibacterium_lactatiformans" target="Anaerotruncus_colihominis" weight="0.015659754748219" />
+      <edge id="113" source="Ruthenibacterium_lactatiformans" target="Lachnoclostridium_phocaeense" weight="0.05022493218508701" />
+      <edge id="114" source="Ruthenibacterium_lactatiformans" target="Pseudoflavonifractor_capillosus" weight="0.130599558727354" />
+      <edge id="115" source="Ruthenibacterium_lactatiformans" target="Oscillibacter_sp_PEA192" weight="0.09398434066710999" />
+      <edge id="116" source="Ruthenibacterium_lactatiformans" target="Subdoligranulum_variabile" weight="0.014131735947485999" />
+      <edge id="117" source="Bacteroides_fluxus" target="Bacteroides_coprocola" weight="0.09220746395969401" />
+      <edge id="118" source="Bacteroides_fluxus" target="Bacteroides_plebeius" weight="0.024914798169121" />
+      <edge id="119" source="Bacteroides_fluxus" target="Bacteroides_salyersiae" weight="0.07926118833768599" />
+      <edge id="120" source="Bacteroides_fluxus" target="Bacteroides_dorei" weight="0.057569998540205" />
+      <edge id="121" source="Bacteroides_fluxus" target="Bacteroides_salanitronis" weight="0.01010224826191" />
+      <edge id="122" source="Bacteroides_fluxus" target="Bacteroides_thetaiotaomicron" weight="0.025443502966191002" />
+      <edge id="123" source="Bacteroides_fluxus" target="Bacteroides_vulgatus" weight="0.077411187699218" />
+      <edge id="124" source="Bacteroides_vulgatus" target="Bacteroides_coprocola" weight="0.050753577163065" />
+      <edge id="125" source="Bacteroides_vulgatus" target="Bacteroides_stercoris" weight="0.022287220175215002" />
+      <edge id="126" source="Bacteroides_vulgatus" target="Bacteroides_salyersiae" weight="0.025712231613916" />
+      <edge id="127" source="Bacteroides_vulgatus" target="Subdoligranulum_variabile" weight="-0.016246089766725" />
+      <edge id="128" source="Bacteroides_vulgatus" target="Bacteroides_salanitronis" weight="0.019772089655560002" />
+      <edge id="129" source="Bacteroides_vulgatus" target="Bacteroides_thetaiotaomicron" weight="0.012834175177508999" />
+      <edge id="130" source="Blautia_producta" target="Clostridium_saccharogumia" weight="0.07580591740454401" />
+      <edge id="131" source="Eggerthella_lenta" target="Flavonifractor_plautii" weight="0.041704644601568" />
+      <edge id="132" source="Clostridium_glycyrrhizinilyticum" target="Faecalicatena_contorta" weight="0.02634758775048" />
+      <edge id="133" source="Clostridium_glycyrrhizinilyticum" target="Blautia_hansenii" weight="0.09465941050456801" />
+      <edge id="134" source="Clostridium_glycyrrhizinilyticum" target="Ruminococcus_gnavus" weight="0.123652662588041" />
+      <edge id="135" source="Clostridium_glycyrrhizinilyticum" target="Anaerotignum_neopropionicum" weight="-0.017284473684432" />
+      <edge id="136" source="Clostridium_glycyrrhizinilyticum" target="Lachnospiraceae_bacterium_Choco86" weight="0.074868672359802" />
+      <edge id="137" source="Mordavella_sp_Marseille-P3756" target="Lactonifactor_longoviformis" weight="0.057399011653358006" />
+      <edge id="138" source="Mordavella_sp_Marseille-P3756" target="Acetivibrio_ethanolgignens" weight="0.072462289176649" />
+      <edge id="139" source="Eubacterium_rectale" target="Bacteroides_pectinophilus" weight="0.060413244605813" />
+      <edge id="140" source="Parabacteroides_distasonis" target="Parabacteroides_sp_CT06" weight="0.19530407288123802" />
+      <edge id="141" source="Parabacteroides_distasonis" target="Odoribacter_splanchnicus" weight="0.031154554791586003" />
+      <edge id="142" source="Parabacteroides_distasonis" target="Bacteroides_uniformis" weight="0.075746221267787" />
+      <edge id="143" source="Parabacteroides_distasonis" target="Bacteroides_ovatus" weight="0.07409110298523" />
+      <edge id="144" source="Bacteroides_ovatus" target="Parabacteroides_sp_CT06" weight="0.092511136852019" />
+      <edge id="145" source="Bacteroides_ovatus" target="Odoribacter_splanchnicus" weight="0.06306086258240601" />
+      <edge id="146" source="Bacteroides_ovatus" target="Bacteroides_uniformis" weight="0.11486630187567201" />
+      <edge id="147" source="Bacteroides_ovatus" target="Bacteroides_thetaiotaomicron" weight="0.051805930073573" />
+      <edge id="148" source="Blautia_hansenii" target="Eubacterium_ramulus" weight="0.024426215391619998" />
+      <edge id="149" source="Blautia_hansenii" target="Ruminococcus_gnavus" weight="0.09893843928648499" />
+      <edge id="150" source="Blautia_hansenii" target="Clostridium_leptum" weight="-0.049532872629787" />
+      <edge id="151" source="Blautia_hansenii" target="Lachnospiraceae_bacterium_Choco86" weight="0.012892320657771001" />
+      <edge id="152" source="Bacteroides_thetaiotaomicron" target="Bacteroides_dorei" weight="0.020306122091404" />
+      <edge id="153" source="Alistipes_shahii" target="Alistipes_senegalensis" weight="0.016201029181301" />
+      <edge id="154" source="Bacteroides_pectinophilus" target="Lachnospiraceae_bacterium_Choco86" weight="0.027974956937987003" />
+      <edge id="155" source="Bacteroides_pectinophilus" target="Roseburia_inulinivorans" weight="0.015949849823782" />
+      <edge id="156" source="Clostridium_innocuum" target="Lachnoclostridium_sp_YL32" weight="0.05734399613183" />
+      <edge id="157" source="Clostridium_innocuum" target="Massilioclostridium_coli" weight="0.024140825149068" />
+      <edge id="158" source="Clostridium_innocuum" target="Sellimonas_intestinalis" weight="0.045311365696187" />
+      <edge id="159" source="Clostridium_innocuum" target="Agathobaculum_desmolans" weight="0.059389332777414004" />
+      <edge id="160" source="Clostridium_innocuum" target="Hungatella_hathewayi" weight="0.06725924976871299" />
+      <edge id="161" source="Clostridium_innocuum" target="Flavonifractor_plautii" weight="0.035233910232757" />
+      <edge id="162" source="Clostridium_innocuum" target="Clostridium_bolteae" weight="0.085411308379225" />
+      <edge id="163" source="Clostridium_innocuum" target="Lachnoclostridium_phocaeense" weight="0.06667843997995901" />
+      <edge id="164" source="Eubacterium_ramulus" target="Anaerobutyricum_hallii" weight="0.010803240728909999" />
+      <edge id="165" source="Eubacterium_ramulus" target="Lachnospiraceae_bacterium_Choco86" weight="0.118204533648015" />
+      <edge id="166" source="Eubacterium_ramulus" target="Coprococcus_comes" weight="0.046856770180903" />
+      <edge id="167" source="Clostridium_bolteae" target="Lachnoclostridium_sp_YL32" weight="0.19330259246528" />
+      <edge id="168" source="Clostridium_bolteae" target="Massilioclostridium_coli" weight="0.032376170958705" />
+      <edge id="169" source="Clostridium_bolteae" target="Sellimonas_intestinalis" weight="0.021453065749947" />
+      <edge id="170" source="Clostridium_bolteae" target="Clostridium_symbiosum" weight="0.014277674913298" />
+      <edge id="171" source="Clostridium_bolteae" target="Agathobaculum_desmolans" weight="0.03375525733742" />
+      <edge id="172" source="Clostridium_bolteae" target="Hungatella_hathewayi" weight="0.108292297979426" />
+      <edge id="173" source="Clostridium_bolteae" target="Flavonifractor_plautii" weight="0.14575078046346898" />
+      <edge id="174" source="Bacteroides_fragilis" target="Ruminococcus_gnavus" weight="0.040697515632545" />
+      <edge id="175" source="Bacteroides_helcogenes" target="Coprobacter_fastidiosus" weight="0.065383289541097" />
+      <edge id="176" source="Bacteroides_helcogenes" target="Bacteroides_barnesiae" weight="0.015958894671692" />
+      <edge id="177" source="Bacteroides_helcogenes" target="Bacteroides_dorei" weight="0.026626590303109" />
+      <edge id="178" source="Bacteroides_helcogenes" target="Bacteroides_salanitronis" weight="0.08587721943128598" />
+      <edge id="179" source="Lachnospiraceae_bacterium_Choco86" target="Faecalicatena_contorta" weight="0.072428206012659" />
+      <edge id="180" source="Lachnospiraceae_bacterium_Choco86" target="Neglecta_timonensis" weight="-0.011172710922105" />
+      <edge id="181" source="Lachnospiraceae_bacterium_Choco86" target="Ruminococcus_gnavus" weight="0.017192654926182997" />
+      <edge id="182" source="Lachnospiraceae_bacterium_Choco86" target="Anaerobutyricum_hallii" weight="0.04875199759716001" />
+      <edge id="183" source="Lachnospiraceae_bacterium_Choco86" target="Oscillibacter_sp_PEA192" weight="-0.033194024822766004" />
+      <edge id="184" source="Lachnospiraceae_bacterium_Choco86" target="Coprococcus_comes" weight="0.038064234313872" />
+      <edge id="185" source="Angelakisella_massiliensis" target="Traorella_massiliensis" weight="0.046360293735256" />
+      <edge id="186" source="Angelakisella_massiliensis" target="Clostridium_symbiosum" weight="0.063784879173699" />
+      <edge id="187" source="Angelakisella_massiliensis" target="Anaerotruncus_colihominis" weight="0.255103083354798" />
+      <edge id="188" source="Angelakisella_massiliensis" target="Lactonifactor_longoviformis" weight="0.12061371060437501" />
+      <edge id="189" source="Angelakisella_massiliensis" target="Pseudoflavonifractor_capillosus" weight="0.10722066503593" />
+      <edge id="190" source="Eubacterium_ventriosum" target="Lactobacillus_rogosae" weight="0.054468969011207" />
+      <edge id="191" source="Eubacterium_ventriosum" target="Clostridium_sporogenes" weight="0.056440830332059" />
+      <edge id="192" source="Eubacterium_ventriosum" target="Eubacterium_eligens" weight="0.098149230623267" />
+      <edge id="193" source="Eubacterium_ventriosum" target="Butyrivibrio_crossotus" weight="0.04549964323680901" />
+      <edge id="194" source="Anaerotruncus_colihominis" target="Traorella_massiliensis" weight="0.021016228691098" />
+      <edge id="195" source="Anaerotruncus_colihominis" target="Clostridium_symbiosum" weight="0.17026560943955701" />
+      <edge id="196" source="Anaerotruncus_colihominis" target="Lactonifactor_longoviformis" weight="0.075614524556141" />
+      <edge id="197" source="Anaerotruncus_colihominis" target="Oscillibacter_sp_PEA192" weight="0.013391195608054" />
+      <edge id="198" source="Roseburia_intestinalis" target="Butyricimonas_faecalis" weight="-0.011679754525967999" />
+      <edge id="199" source="Roseburia_intestinalis" target="Agathobaculum_desmolans" weight="0.022641602395581998" />
+      <edge id="200" source="Roseburia_intestinalis" target="Subdoligranulum_variabile" weight="0.034597221429326" />
+      <edge id="201" source="Barnesiella_intestinihominis" target="Alistipes_obesi" weight="0.04859243085217899" />
+      <edge id="202" source="Barnesiella_intestinihominis" target="Bacteroides_pyogenes" weight="0.05807548602698901" />
+      <edge id="203" source="Barnesiella_intestinihominis" target="Parabacteroides_goldsteinii" weight="0.04200297016395901" />
+      <edge id="204" source="Clostridioides_difficile" target="bacterium_LF-3" weight="0.045059104112120996" />
+      <edge id="205" source="Marvinbryantia_formatexigens" target="Eubacterium_eligens" weight="0.06095686901817599" />
+      <edge id="206" source="Marvinbryantia_formatexigens" target="Butyrivibrio_crossotus" weight="0.01811192343335" />
+      <edge id="207" source="Anaerobutyricum_hallii" target="Blautia_obeum" weight="0.164713103904546" />
+      <edge id="208" source="Clostridium_leptum" target="Oscillibacter_sp_PEA192" weight="0.036476274587385005" />
+      <edge id="209" source="Bacteroides_cellulosilyticus" target="Butyricimonas_faecalis" weight="0.102275777271162" />
+      <edge id="210" source="Clostridium_symbiosum" target="Lachnoclostridium_sp_YL32" weight="0.012345983271925" />
+      <edge id="211" source="Clostridium_symbiosum" target="Hungatella_hathewayi" weight="0.059746823051225" />
+      <edge id="212" source="Clostridium_symbiosum" target="Flavonifractor_plautii" weight="0.011149317320818999" />
+      <edge id="213" source="Faecalitalea_cylindroides" target="Clostridium_scindens" weight="0.103221885974399" />
+      <edge id="214" source="Bacteroides_plebeius" target="Bacteroides_coprocola" weight="0.023349371477395003" />
+      <edge id="215" source="Johnsonella_ignava" target="Holdemania_massiliensis" weight="0.06215435367692201" />
+      <edge id="216" source="Pseudoflavonifractor_capillosus" target="Negativibacillus_massiliensis" weight="0.126944711068126" />
+      <edge id="217" source="Pseudoflavonifractor_capillosus" target="Massilioclostridium_coli" weight="0.036128028211507006" />
+      <edge id="218" source="Pseudoflavonifractor_capillosus" target="Butyricicoccus_pullicaecorum" weight="0.012603515723017999" />
+      <edge id="219" source="Pseudoflavonifractor_capillosus" target="Hungatella_hathewayi" weight="0.022953905068852993" />
+      <edge id="220" source="Pseudoflavonifractor_capillosus" target="Lachnoclostridium_phocaeense" weight="0.10999752056121198" />
+      <edge id="221" source="Pseudoflavonifractor_capillosus" target="Oscillibacter_sp_PEA192" weight="0.132785068305967" />
+      <edge id="222" source="Pseudoflavonifractor_capillosus" target="Subdoligranulum_variabile" weight="0.092013045059941" />
+      <edge id="223" source="Ruminococcus_gnavus" target="Lachnoclostridium_sp_YL32" weight="0.030476632815917004" />
+      <edge id="224" source="Ruminococcus_gnavus" target="Blautia_obeum" weight="0.023299628854441" />
+      <edge id="225" source="Ruminococcus_gnavus" target="Schaalia_odontolytica" weight="0.035304089500858005" />
+      <edge id="226" source="Alistipes_senegalensis" target="Alistipes_finegoldii" weight="0.110635977763387" />
+      <edge id="227" source="Bacteroides_nordii" target="Bacteroides_caccae" weight="0.031095153815581002" />
+      <edge id="228" source="Bacteroides_nordii" target="Coprobacter_secundus" weight="0.029110723577317997" />
+      <edge id="229" source="Bacteroides_nordii" target="Bacteroides_pyogenes" weight="0.173805753256765" />
+      <edge id="230" source="Bacteroides_nordii" target="Bacteroides_salanitronis" weight="0.067326357180985" />
+      <edge id="231" source="Lactobacillus_rogosae" target="Eubacterium_eligens" weight="0.10954986662631899" />
+      <edge id="232" source="Lactobacillus_rogosae" target="Butyrivibrio_crossotus" weight="0.08462972029112299" />
+      <edge id="233" source="Veillonella_dispar" target="Haemophilus_parainfluenzae" weight="0.071861008258663" />
+      <edge id="234" source="Peptostreptococcus_stomatis" target="Parvimonas_micra" weight="0.17583535832765199" />
+      <edge id="235" source="Coprobacter_secundus" target="Butyricimonas_faecalis" weight="0.030407375954107994" />
+      <edge id="236" source="Coprobacter_secundus" target="Alistipes_finegoldii" weight="0.027467560823997005" />
+      <edge id="237" source="Coprobacter_secundus" target="Bacteroides_pyogenes" weight="0.051049364865522" />
+      <edge id="238" source="Bacteroides_stercoris" target="Bacteroides_uniformis" weight="0.066201245612967" />
+      <edge id="239" source="Agathobaculum_desmolans" target="Odoribacter_splanchnicus" weight="-0.016829250006904" />
+      <edge id="240" source="Agathobaculum_desmolans" target="Lachnoclostridium_sp_YL32" weight="0.032850766281279" />
+      <edge id="241" source="Agathobaculum_desmolans" target="Massilioclostridium_coli" weight="0.022705024894331" />
+      <edge id="242" source="Agathobaculum_desmolans" target="Hungatella_hathewayi" weight="0.072988483201532" />
+      <edge id="243" source="Agathobaculum_desmolans" target="Lachnoclostridium_phocaeense" weight="0.039181698657566" />
+      <edge id="244" source="Agathobaculum_desmolans" target="Subdoligranulum_variabile" weight="0.057961288419188" />
+      <edge id="245" source="Agathobaculum_desmolans" target="Emergencia_timonensis" weight="0.031913554403158" />
+      <edge id="246" source="Sellimonas_intestinalis" target="Flavonifractor_plautii" weight="0.051259965121958004" />
+      <edge id="247" source="Bacteroides_barnesiae" target="Culturomica_massiliensis" weight="0.029654865862568998" />
+      <edge id="248" source="Bacteroides_barnesiae" target="Bacteroides_salanitronis" weight="0.13454496414791" />
+      <edge id="249" source="Granulicatella_adiacens" target="Streptococcus_sp_oral_taxon_431" weight="0.07776746689014599" />
+      <edge id="250" source="Granulicatella_adiacens" target="Schaalia_odontolytica" weight="0.015887216259716997" />
+      <edge id="251" source="Bacteroides_coprocola" target="Bacteroides_salyersiae" weight="0.031602469169522" />
+      <edge id="252" source="Bacteroides_coprocola" target="Bacteroides_salanitronis" weight="0.034483139913905995" />
+      <edge id="253" source="Flavonifractor_plautii" target="Lachnoclostridium_sp_YL32" weight="0.09976704396004699" />
+      <edge id="254" source="Flavonifractor_plautii" target="Hungatella_hathewayi" weight="0.051732750570028" />
+      <edge id="255" source="Flavonifractor_plautii" target="Oscillibacter_sp_PEA192" weight="0.076997165256595" />
+      <edge id="256" source="Hungatella_hathewayi" target="Lachnoclostridium_sp_YL32" weight="0.08768703998972399" />
+      <edge id="257" source="Hungatella_hathewayi" target="Massilioclostridium_coli" weight="0.07018470104752701" />
+      <edge id="258" source="Hungatella_hathewayi" target="Lachnoclostridium_phocaeense" weight="0.097384878397328" />
+      <edge id="259" source="Hungatella_hathewayi" target="Emergencia_timonensis" weight="0.013538415759259" />
+      <edge id="260" source="Streptococcus_sp_oral_taxon_431" target="Haemophilus_parainfluenzae" weight="0.013505667827759" />
+      <edge id="261" source="Butyrivibrio_crossotus" target="Eubacterium_eligens" weight="0.07317819332021902" />
+      <edge id="262" source="Butyrivibrio_crossotus" target="Coprococcus_eutactus" weight="0.08724791221496901" />
+      <edge id="263" source="Alistipes_obesi" target="Alistipes_finegoldii" weight="0.015289030931578" />
+      <edge id="264" source="Bacteroides_salanitronis" target="Bacteroides_heparinolyticus" weight="0.018391056778497" />
+      <edge id="265" source="Bacteroides_salanitronis" target="Paraprevotella_xylaniphila" weight="0.015383490494152" />
+      <edge id="266" source="Emergencia_timonensis" target="Massilioclostridium_coli" weight="0.036070859311303" />
+      <edge id="267" source="Emergencia_timonensis" target="Lachnoclostridium_phocaeense" weight="0.05811545272064401" />
+      <edge id="268" source="Emergencia_timonensis" target="Subdoligranulum_variabile" weight="0.09209931912309101" />
+      <edge id="269" source="Bacteroides_pyogenes" target="Butyricimonas_faecalis" weight="0.11532767270897999" />
+      <edge id="270" source="Bacteroides_pyogenes" target="Parabacteroides_goldsteinii" weight="0.080753428811455" />
+      <edge id="271" source="Culturomica_massiliensis" target="Paraprevotella_xylaniphila" weight="0.043213750683463996" />
+      <edge id="272" source="Massilioclostridium_coli" target="Negativibacillus_massiliensis" weight="0.029415314023737003" />
+      <edge id="273" source="Massilioclostridium_coli" target="Lachnoclostridium_phocaeense" weight="0.06901949430137401" />
+      <edge id="274" source="Massilioclostridium_coli" target="Oscillibacter_sp_PEA192" weight="0.014424145858898" />
+      <edge id="275" source="Massilioclostridium_coli" target="Subdoligranulum_variabile" weight="0.02791461007684" />
+      <edge id="276" source="Subdoligranulum_variabile" target="Negativibacillus_massiliensis" weight="0.078019184600322" />
+      <edge id="277" source="Subdoligranulum_variabile" target="Gemmiger_formicilis" weight="0.228659166169619" />
+      <edge id="278" source="Subdoligranulum_variabile" target="Lachnoclostridium_phocaeense" weight="0.06859121074771" />
+      <edge id="279" source="Lachnoclostridium_phocaeense" target="Negativibacillus_massiliensis" weight="0.030239084602485002" />
+      <edge id="280" source="Schaalia_odontolytica" target="Mogibacterium_diversum" weight="0.10135059188202601" />
+      <edge id="281" source="Paraprevotella_xylaniphila" target="Butyricimonas_faecalis" weight="0.018875925873905" />
+      <edge id="282" source="Paraprevotella_xylaniphila" target="Odoribacter_splanchnicus" weight="0.074959782581069" />
+      <edge id="283" source="Holdemania_massiliensis" target="Traorella_massiliensis" weight="0.021509473614933997" />
+      <edge id="284" source="Bacteroides_salyersiae" target="Butyricimonas_faecalis" weight="0.023547378938750998" />
+      <edge id="285" source="Bacteroides_salyersiae" target="Bacteroides_dorei" weight="0.050834499374190004" />
+      <edge id="286" source="Negativibacillus_massiliensis" target="Oscillibacter_sp_PEA192" weight="0.038248715448748" />
+      <edge id="287" source="Parabacteroides_goldsteinii" target="Odoribacter_splanchnicus" weight="0.058355839585474" />
+      <edge id="288" source="Bacteroides_uniformis" target="Odoribacter_splanchnicus" weight="0.047240733764743" />
+      <edge id="289" source="Bacteroides_heparinolyticus" target="Odoribacter_splanchnicus" weight="0.079224400477739" />
+      <edge id="290" source="Streptococcus_salivarius" target="Streptococcus_parasanguinis" weight="0.10006035048438498" />
+      <edge id="291" source="Odoribacter_splanchnicus" target="Butyricimonas_faecalis" weight="0.052422978277796" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,87 @@
+{'Odoribacter_splanchnicus'}
+{'Solobacterium_moorei'}
+{'Ruminococcus_faecis'}
+{'Bacteroides_coprophilus', 'Bacteroides_fluxus', 'Bacteroides_plebeius', 'Bacteroides_barnesiae', 'Mediterranea_massiliensis'}
+{'Ruminococcus_lactaris'}
+{'Lactonifactor_longoviformis', 'Clostridium_methylpentosum', 'Negativibacillus_massiliensis', 'Blautia_hydrogenotrophica', 'Phocea_massiliensis', 'Mordavella_sp_Marseille-P3756', 'Clostridium_asparagiforme', 'Eubacterium_ventriosum', 'Dorea_longicatena'}
+{'Clostridium_glycyrrhizinilyticum', 'Lachnospiraceae_bacterium_Choco86', 'Ruminococcus_gnavus', 'Tyzzerella_nexilis', 'Blautia_sp_N6H1-15', 'Eggerthella_lenta', 'Blautia_hansenii'}
+{'Lachnospiraceae_bacterium_GAM79', 'Bacteroides_pectinophilus', 'Roseburia_faecis', 'Lactobacillus_rogosae', 'Butyrivibrio_crossotus'}
+{'Butyricicoccus_pullicaecorum', 'Subdoligranulum_variabile', 'Intestinimonas_butyriciproducens', 'Pseudoflavonifractor_capillosus', 'Angelakisella_massiliensis', 'Fournierella_massiliensis'}
+{'Bacteroides_salanitronis', 'Bacteroides_faecichinchillae', 'Bacteroides_pyogenes', 'Bacteroides_salyersiae', 'Bacteroides_nordii', 'Bacteroides_coprocola'}
+{'Streptococcus_mitis', 'Streptococcus_parasanguinis', 'Streptococcus_sp_A12', 'Streptococcus_sp_oral_taxon_431'}
+{'Bifidobacterium_catenulatum'}
+{'Monoglobus_pectinilyticus', 'Ruminococcus_bicirculans', 'Clostridium_leptum'}
+{'Phascolarctobacterium_succinatutens'}
+{'Fusicatenibacter_saccharivorans', 'Anaerostipes_hadrus'}
+{'Clostridium_bolteae', 'Anaerotruncus_colihominis', 'Clostridiales_bacterium_CCNA10', 'Ruthenibacterium_lactatiformans', 'Clostridium_innocuum', 'Flavonifractor_plautii', 'Agathobaculum_desmolans', 'Hungatella_hathewayi', 'Bacteroides_thetaiotaomicron', 'Bacteroides_vulgatus', 'Lachnoclostridium_sp_YL32', 'Clostridium_symbiosum', 'Clostridium_citroniae', 'Anaerotignum_lactatifermentans', 'Marvinbryantia_formatexigens'}
+{'Blautia_producta'}
+{'Alistipes_obesi'}
+{'Eubacterium_rectale'}
+{'Holdemanella_biformis'}
+{'Coprobacter_secundus'}
+{'Schaalia_odontolytica', 'Mogibacterium_diversum'}
+{'Clostridium_sporogenes', 'bacterium_LF-3', 'Ruminococcus_callidus', 'Christensenella_minuta'}
+{'Prevotella_copri'}
+{'Bacteroides_caecimuris', 'Bacteroides_ovatus', 'Bacteroides_fragilis'}
+{'Bacteroides_caccae'}
+{'Culturomica_massiliensis', 'Alistipes_senegalensis'}
+{'Lachnoclostridium_phocaeense', 'Merdimonas_faecis'}
+{'Absiella_dolichum'}
+{'Bacteroides_zoogleoformans'}
+{'Bacteroides_helcogenes'}
+{'Clostridium_sp_SY8519'}
+{'Emergencia_timonensis'}
+{'Ruminococcus_torques'}
+{'Paraprevotella_xylaniphila'}
+{'Alistipes_finegoldii', 'Alistipes_shahii'}
+{'Eubacterium_plexicaudatum', 'Massilioclostridium_coli'}
+{'Merdibacter_massiliensis', 'Provencibacterium_massiliense', 'Collinsella_aerofaciens', 'Johnsonella_ignava'}
+{'Eubacterium_eligens'}
+{'Prevotellamassilia_timonensis'}
+{'Parabacteroides_goldsteinii'}
+{'Sellimonas_intestinalis'}
+{'Barnesiella_intestinihominis'}
+{'Odoribacter_laneus'}
+{'Coprobacter_fastidiosus'}
+{'Lachnoanaerobaculum_saburreum'}
+{'Parabacteroides_johnsonii'}
+{'Gemmiger_formicilis'}
+{'Faecalicatena_contorta', 'Holdemania_massiliensis', 'Traorella_massiliensis'}
+{'Parabacteroides_distasonis', 'Parabacteroides_sp_CT06'}
+{'Streptococcus_salivarius', 'Streptococcus_sp_FDAARGOS_192'}
+{'Roseburia_intestinalis'}
+{'Faecalitalea_cylindroides'}
+{'Haemophilus_parainfluenzae', 'Veillonella_dispar'}
+{'Clostridium_saccharolyticum'}
+{'Faecalibacterium_prausnitzii'}
+{'Eubacterium_ramulus'}
+{'Neglecta_timonensis'}
+{'Roseburia_inulinivorans'}
+{'Intestinibacter_bartlettii'}
+{'Butyricimonas_faecalis'}
+{'Bacteroides_cellulosilyticus'}
+{'Clostridioides_difficile'}
+{'Anaerobutyricum_hallii', 'Blautia_obeum'}
+{'Alistipes_putredinis'}
+{'Roseburia_hominis'}
+{'Oscillibacter_sp_PEA192'}
+{'Clostridium_phoceensis'}
+{'Intestinibacillus_massiliensis'}
+{'Clostridium_saccharogumia'}
+{'Hespellia_stercorisuis'}
+{'Coprococcus_eutactus'}
+{'Acetivibrio_ethanolgignens'}
+{'Anaerotignum_neopropionicum'}
+{'Bacteroides_dorei'}
+{'Dorea_formicigenerans'}
+{'Clostridium_scindens'}
+{'Bacteroides_heparinolyticus'}
+{'Blautia_schinkii'}
+{'Bacteroides_stercoris'}
+{'Erysipelotrichaceae_bacterium_GAM147'}
+{'Coprococcus_comes'}
+{'Bacteroides_uniformis'}
+{'Barnesiella_viscericola'}
+{'Granulicatella_adiacens'}
+{'Prevotella_stercorea'}
+{'Bariatricus_massiliensis'}
